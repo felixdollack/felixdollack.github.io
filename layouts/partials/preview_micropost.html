@@ -1,0 +1,4 @@
+<article class="micropost">
+  {{ .Content }}
+  <a href='{{ .Permalink }}'><aside class="dates">→ {{ .Date.Format .Site.Params.DateFormMini }}</aside></a>
+</article>

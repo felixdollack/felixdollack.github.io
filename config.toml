@@ -15,6 +15,8 @@ SectionPagesMenu = "main"
 	FlickrID = "149203503@N04"
 
 [params]
+	DateFormPost = "02. Jan 2006"
+	DateFormMini = "2006/01/02 3:04 PM"
 	Description = "This is my blog, read it and enjoy."
 	ShowCopyright = true
 	RSSEnabled = true
