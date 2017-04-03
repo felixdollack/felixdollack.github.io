@@ -8,8 +8,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Sat, 01 Apr 2017 11:29:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 23:08:12 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>walk_motivation</title>
+        <link>/microposts/walk_motivation/</link>
+        <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/walk_motivation/</guid>
+        <description>&lt;p&gt;Bei wem das wohl zieht? Aber nette Idee den Kalorienverbrauch für dir zur
+nächsten Bahnstation zurückgelegte Entfernung anzugeben.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/explore_and_buy/motivation.JPG&#34; alt=&#34;Zimmer&#34; /&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -393,6 +408,8 @@ zurück fällt mir schon etwas schwer. Als ich ins Zimmer komme, ist es kurz nac
 anstrengende 33 Stunden.&lt;/p&gt;
 </description>
       </item>
+      
+    
       
     
   </channel>
