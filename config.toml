@@ -4,7 +4,7 @@ title = "Felix in Japan"
 theme = "internet-weblog"
 Paginate = 10
 SectionPagesMenu = "main"
-publishdir = "docs"
+#publishdir = "docs"
 
 [author]
 	Handle = "Felix"
