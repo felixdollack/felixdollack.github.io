@@ -2,12 +2,11 @@
 date = "2017-03-29T12:53:30+02:00"
 draft = false
 location = ""
-title = "Reise nach ..."
+title = "Reise nach Tsukuba"
 summary = "/img/fra_nrt/plane.JPG"
 
 +++
 
-# ... ~~Jerusalem~~ Tsukuba
 Der Tag fängt früh an. 5 Uhr aufstehen, damit ich meiner Schwester auf
 Wiedersehen sagen kann, bevor Sie zur Arbeit fährt. Das ist das Mindeste, wenn
 ich schon an Ihrem 17. Geburtstag auswandere.
