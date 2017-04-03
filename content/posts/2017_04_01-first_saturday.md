@@ -1,5 +1,5 @@
 +++
-title = "Einkaufen"
+title = "Einkaufen und die Gegend Erkunden"
 date = "2017-04-01T11:29:50+09:00"
 draft = false
 
