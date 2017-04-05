@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microposts on Felix in Japan</title>
+    <link>/microposts/index.xml</link>
+    <description>Recent content in Microposts on Felix in Japan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2017 22:28:47 +0900</lastBuildDate>
+    <atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Everything Is Cute</title>
+      <link>/microposts/2017-04-04_everything-is-cute/</link>
+      <pubDate>Tue, 04 Apr 2017 22:28:47 +0900</pubDate>
+      
+      <guid>/microposts/2017-04-04_everything-is-cute/</guid>
+      <description>&lt;p&gt;Sogar Jonglierbälle sehen hier irgendwie niedlich aus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/minis/balls.jpg&#34; alt=&#34;Kawaii&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>walk_motivation</title>
+      <link>/microposts/walk_motivation/</link>
+      <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
+      
+      <guid>/microposts/walk_motivation/</guid>
+      <description>&lt;p&gt;Bei wem das wohl zieht? Aber nette Idee den Kalorienverbrauch für die Entfernung
+zum nächsten Bahnhof anzugeben.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/minis/motivation.JPG&#34; alt=&#34;Motivation&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>japanese_toothpaste</title>
+      <link>/microposts/japanese_toothpaste/</link>
+      <pubDate>Sat, 01 Apr 2017 20:02:42 +0900</pubDate>
+      
+      <guid>/microposts/japanese_toothpaste/</guid>
+      <description>&lt;p&gt;Ich hab in deutscher Manier erstmal versucht den Deckel abzuschrauben. Leider
+tat sich bei dieser Zahnpasta nichts. Man muss lediglich am Deckel ziehen und
+ihn später wieder drauf drücken.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/minis/toothpaste.jpg&#34; alt=&#34;Toothpaste&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
