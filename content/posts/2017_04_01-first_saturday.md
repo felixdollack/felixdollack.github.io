@@ -16,12 +16,12 @@ hatte und ging danach duschen. Ich wusste nicht, wann das Personal in mein
 Zimmer wollte, also nahm ich mir vor die Gegend etwas zu erkundigen und ein paar
 Besorgungen zu erledigen.
 
-![breakfest](/img/explore_and_buy/park.jpg)
+![Park](/img/explore_and_buy/park.jpg)
 
 Nicht weit von meiner Unterkunft ist ein kleiner Park. Dort gibt es auch einen
 großen Teich mit Koikarpfen.
 
-![breakfest](/img/explore_and_buy/koi.jpg)
+![Koi Fish](/img/explore_and_buy/koi.jpg)
 
 In der Mitte des Teiches steht ein großer Turm von dem ich eine gute Aussicht
 haben sollte. Leider war der Turm um 9 Uhr noch nicht geöffnet und mit 8 Grad
@@ -31,7 +31,7 @@ Einkaufszentrum werden, an dem wir am Vortag auf dem Weg zur Stadtverwaltung
 vorbei fuhren. Nach etwa einer halben Stunde kam ich an den dünner besiedelten
 Ortsrand.
 
-![breakfest](/img/explore_and_buy/outside.jpg)
+![Townedge](/img/explore_and_buy/outside.jpg)
 
 Zwischen den Häusern lag versteckt ein kleiner Shinto Schrein. Die ersten beiden
 Zeichen auf der weißen Säule rechts im Bild lesen sich Hirsch-Insel, wobei ich
@@ -39,7 +39,7 @@ nicht genau weiß, ob damit Tatsächlich eine bestimmte Insel gemeint ist oder
 eher daran erinnert wird, dass dieses Fleckchen früher ein Rückzugsort für
 Rotwild war. Muss ich bei Gelegenheit mal Einheimische fragen.
 
-![breakfest](/img/explore_and_buy/shrine.jpg)
+![My First Shrine](/img/explore_and_buy/shrine.jpg)
 
 Als ich bei dem Einkaufszentrum ankam, hatte keines der Geschäfte offen. Einzig
 das Kino im dritten Stock hatte Publikum. Familien mit ihren Kindern und
@@ -50,13 +50,13 @@ Unverrichteter Dinge machte ich mich auf den Weg zurück ins Stadtzentrum. Dabei
 lief ich an mehreren Wohnsiedlungen vorbei und die überwiegende Mehrheit kam mir
 als Europäer nicht besonders ungewöhnlich vor.
 
-![breakfest](/img/explore_and_buy/standard.jpg)
+![Normal Housing](/img/explore_and_buy/standard.jpg)
 
 Natürlich gab es vereinzelt Ausnahmen, aber Tsukuba ist auch eine sehr junge
 Stadt, so dass ich noch ein paar geschichtsträchtigere Orte besuchen sollte,
 bevor ich mir ein Urteil erlaube.
 
-![breakfest](/img/explore_and_buy/classical.jpg)
+![Japanese Housing](/img/explore_and_buy/classical.jpg)
 
 In der Stadt hatte ich ein ähnliches Problem wie im Einkaufszentrum. Alle Läden
 waren geschlossen. Es war inzwischen 10:45 Uhr. Vor einem kleiner Ansammlung von
@@ -80,13 +80,13 @@ nicht finden konnte. Auf dem Rückweg zu meinem Zimmer ging ich einen kleinen
 Umweg um in einem anderen Park einen Blick auf den Nachbau einer japanischen
 Weltraumrakete werfen zu können.
 
-![breakfest](/img/explore_and_buy/rocket.jpg)
+![Rocket Replica](/img/explore_and_buy/rocket.jpg)
 
 In dem danebenliegenden Gebäude befindet sich außerdem das weltgrößte
 Observatorium, ein Stern-Cafe, ein kleiner Park für Kinder zum Thema Weltraum
 und davor eine Karte mit Sehenswertem im Süden der Präfektur Ibaraki.
 
-![breakfest](/img/explore_and_buy/sights.jpg)
+![Map Of Sights](/img/explore_and_buy/sights.jpg)
 
 Es ist halb 12 und wieder Zeit für was zu Essen. Also gegenüber im FamilyMart
 etwas Sushi holen und für das Abendessen einen Pasta-Salat. Danach sitze ich in

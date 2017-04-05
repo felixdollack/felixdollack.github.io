@@ -19,20 +19,20 @@ sehe ich einen größeren Park, das soll mein Ziel sein. Der Weg dorthin ist, bi
 auf einen kleineren Park mit schön angelegtem Eingang, nichts interessantes.
 Kleine Geschäfte, Restaurants und dazwischen einige Wohnhäuser.
 
-![breakfest](/img/explore_sundays/little_garden.jpg)
+![Small Garden](/img/explore_sundays/little_garden.jpg)
 
 Als ich am Eingang des Parks ankomme, sehe ich beim Überqueren der Straße eine
 Bäckerei nach österreichischem Vorbild der ich nicht wiederstehen kann.
 
-![breakfest](/img/explore_sundays/bakery.jpg)
+![Austrian Bakery](/img/explore_sundays/bakery.jpg)
 
 Sie scheint sehr beliebt zu sein, da relativ wenig in den Regalen liegt und eine
 Angestellte mit mehreren Tablets Nachschub hereinträgt. Ich entschied mich für
 ein Rosinenbrötchen und ein Würstchen im Schlafrock, wobei das Würstchen in
 einem Hefezopf steckte.
 
-![breakfest](/img/explore_sundays/raisine.jpg)
-![breakfest](/img/explore_sundays/sausage.JPG)
+![Bread](/img/explore_sundays/raisine.jpg)
+![German Hot Dog](/img/explore_sundays/sausage.JPG)
 
 Mein Hunger auf Frühstück hielt sich noch immer in Grenzen, daher ging ich erst
 eine Runde durch den Park. Auf halbem Weg kreuzte eine Horde alter Menschen
@@ -40,7 +40,7 @@ meinen Weg und begleitete mich ein Stück um den großen Teich der sich in der
 Mitte des Parks befand. Auf der anderen Seite machten Sie halt zum kollektiven
 Strecken.
 
-![breakfest](/img/explore_sundays/lake.jpg)
+![Lakeside](/img/explore_sundays/lake.jpg)
 
 Nachdem ich meine Runde durch den Park beendet hatte, suchte ich mir eine
 Parkbank und aß mein Frühstück. Dann lief ich einen Umweg, um auch noch einen
@@ -50,32 +50,32 @@ selbe Schicksal teilen, wie solche in Städten die ein Mega-Einkaufszentrum
 gebaut haben. Als ich am Stadtrand angelangt war, sahen einige der Vorgärten
 schon sehr nach Frühling aus.
 
-![breakfest](/img/explore_sundays/cherry.jpg)
+![Cherry Blossom](/img/explore_sundays/cherry.jpg)
 
 Außerdem konnte ich die 2 Gipfel vom Berg Tsukuba in der Ferne sehen. Bis zum
 Fuß des Berges sollen es nur knapp 20 km sein. Das sollte mit einem Fahrrad gut
 machbar sein...
 
-![breakfest](/img/explore_sundays/mountain.jpg)
+![Mount Tsukuba](/img/explore_sundays/mountain.jpg)
 
 Als ich wieder am Stadtzentrum vorbeilief, beschloss ich nochmal in den Park von
 Gestern zu gehen, um zu sehen ob ich auf den Aussichtsturm komme. Da ich aus
 einer anderen Richtung kam und die Sonne schien, sind mir gleich Schildkröten
 auf einer der Inseln im See aufgefallen.
 
-![breakfest](/img/explore_sundays/turtles.jpg)
+![Turtels Sunbathing](/img/explore_sundays/turtles.jpg)
 
 Der Turm war auch am Vortag geöffnet, ich war einfach nur zur falschen Zeit dort.
 Für den Preis von 100 Yen (ca. 90 Cent) durfte ich den Aufzug nach oben nehmen.
 
-![breakfest](/img/explore_sundays/tower.JPG)
-![breakfest](/img/explore_sundays/selfie.jpg)
+![Tower Elevator](/img/explore_sundays/tower.JPG)
+![Me](/img/explore_sundays/selfie.jpg)
 
 Von dort oben hatte ich einen tollen Blick über die Stadt und endlich einen
 guten Verwendungszweck für meine 360 Grad Kamera gefunden. Die Fotos findet ihr
 [hier]. Wer nicht schwindelfrei ist, sollte besser nicht nach unten sehen!
 
-![breakfest](/img/explore_sundays/pano.jpg)
+![View](/img/explore_sundays/pano.jpg)
 
 Da mir die Füße vom vielen Laufen doch etwas weh taten, nahm ich beim Einkaufen
 direkt etwas für Mittag- und Abendessen mit. Kurze Pause im Zimmer und dann
@@ -92,7 +92,7 @@ hatte. Sie hatte solche Fotos noch nie gesehen und fragte, ob ich Ihr das mit
 der Kamera zeigen kann. Also ging ich mit Ihr nochmal auf den Turm. 254 Stufen,
 ich hab gezählt.
 
-![breakfest](/img/explore_sundays/scs_chizuru3.PNG)
+![Chizuru](/img/explore_sundays/scs_chizuru3.PNG)
 
 Wir schossen einige Fotos und gingen dann noch in die Stadt um Crepes zu essen.
 Die Kassiererin hatte die beiden Crepes bereits zusammen in die Kasse eingegeben
