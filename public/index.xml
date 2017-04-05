@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Felix in Japan</title>
+
+    <title>@Felix’s Felix in Japan - Felix in Japan</title>
     <link>/index.xml</link>
-    <description>Recent content on Felix in Japan</description>
+    <description>All entries in Felix in Japan on Felix in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    
     <lastBuildDate>Wed, 05 Apr 2017 21:35:22 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Projekt Meeting und Einkaufstour</title>
-      <link>/posts/2017_04_05-meeting_and_shopping/</link>
-      <pubDate>Wed, 05 Apr 2017 21:35:22 +0900</pubDate>
       
-      <guid>/posts/2017_04_05-meeting_and_shopping/</guid>
-      <description>&lt;p&gt;Der Wecker klingelt und ich stehe auf um zu duschen, aber es kommt nur kaltes
+      <item>
+        <title>Projekt Meeting und Einkaufstour</title>
+        <link>/posts/2017_04_05-meeting_and_shopping/</link>
+        <pubDate>Wed, 05 Apr 2017 21:35:22 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_04_05-meeting_and_shopping/</guid>
+        <description>&lt;p&gt;Der Wecker klingelt und ich stehe auf um zu duschen, aber es kommt nur kaltes
 Wasser, also lass ich es ausfallen. Um 8:30 Uhr treffe ich mich mit Kuang Chung
 vor dem Wohnheim um Frühstück zu kaufen und zur Uni zu der am Vorabend
 angekündigten Besprechung zu laufen. Eine Gruppe von 14 japanischen Bachelor und
@@ -68,27 +71,31 @@ und bestellten eine große Portion.&lt;/p&gt;
 wir uns vorstellen müssen und wahrscheinlich auch erste Aufgaben zugewiesen
 bekommen. Da werde ich auch meine Mitbringsel verteilen :)&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Everything Is Cute</title>
-      <link>/microposts/2017-04-04_everything-is-cute/</link>
-      <pubDate>Tue, 04 Apr 2017 22:28:47 +0900</pubDate>
+      </item>
       
-      <guid>/microposts/2017-04-04_everything-is-cute/</guid>
-      <description>&lt;p&gt;Sogar Jonglierbälle sehen hier irgendwie niedlich aus.&lt;/p&gt;
+    
+      
+      <item>
+        <title>Everything Is Cute</title>
+        <link>/microposts/2017-04-04_everything-is-cute/</link>
+        <pubDate>Tue, 04 Apr 2017 22:28:47 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/2017-04-04_everything-is-cute/</guid>
+        <description>&lt;p&gt;Sogar Jonglierbälle sehen hier irgendwie niedlich aus.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/balls.jpg&#34; alt=&#34;Kawaii&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Ein Bankkonto eröffnen und ins Wohnheim umziehen</title>
-      <link>/posts/2017_04_04-moving/</link>
-      <pubDate>Tue, 04 Apr 2017 19:51:28 +0900</pubDate>
+      </item>
       
-      <guid>/posts/2017_04_04-moving/</guid>
-      <description>&lt;p&gt;Heute geht es endlich in mein Zimmer im Wohnheim. Falls irgendein Geldautomat
+    
+      
+      <item>
+        <title>Ein Bankkonto eröffnen und ins Wohnheim umziehen</title>
+        <link>/posts/2017_04_04-moving/</link>
+        <pubDate>Tue, 04 Apr 2017 19:51:28 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_04_04-moving/</guid>
+        <description>&lt;p&gt;Heute geht es endlich in mein Zimmer im Wohnheim. Falls irgendein Geldautomat
 meine Kreditkarte heute annimmt. Vor lauter Aufregung vergesse ich im Laden
 einen Blick auf die Verpackung meines Frühstücks zu werfen, sonst wäre mir
 vielleicht aufgefallen was ich da kaufe. Auf den ersten Blick sieht es aus wie
@@ -159,15 +166,17 @@ Besprechung am nächsten Morgen einlädt.&lt;/p&gt;
 
 &lt;!-- Links: --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Montag und nicht viel zu tun</title>
-      <link>/posts/2017_04_03-break/</link>
-      <pubDate>Mon, 03 Apr 2017 18:46:01 +0900</pubDate>
+      </item>
       
-      <guid>/posts/2017_04_03-break/</guid>
-      <description>&lt;p&gt;Ich bin spät aufgestanden und hab nach dem Duschen endlich die Dokumente für das
+    
+      
+      <item>
+        <title>Montag und nicht viel zu tun</title>
+        <link>/posts/2017_04_03-break/</link>
+        <pubDate>Mon, 03 Apr 2017 18:46:01 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_04_03-break/</guid>
+        <description>&lt;p&gt;Ich bin spät aufgestanden und hab nach dem Duschen endlich die Dokumente für das
 Wohnheim ausgefüllt. Dann hab ich in dem Buch gelesen, das ich mir in der
 Bücherei ausgeliehen hatte. Japanische Märchen. Der Affe scheint hier nicht so
 beliebt zu sein, da er in der Hälfte der Märchen die ich gelesen habe immer der
@@ -199,15 +208,17 @@ lese vor dem Schlafen gehen noch etwas im Märchenbuch.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/lazy_monday/dinner.JPG&#34; alt=&#34;Dinner&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Sonntag</title>
-      <link>/posts/2017_04_02-first_sunday/</link>
-      <pubDate>Sun, 02 Apr 2017 07:13:28 +0900</pubDate>
+      </item>
       
-      <guid>/posts/2017_04_02-first_sunday/</guid>
-      <description>&lt;p&gt;Komische Nacht. Ich habe gefühlt nicht geschlafen und bin um 4 Uhr aufgewacht.
+    
+      
+      <item>
+        <title>Sonntag</title>
+        <link>/posts/2017_04_02-first_sunday/</link>
+        <pubDate>Sun, 02 Apr 2017 07:13:28 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_04_02-first_sunday/</guid>
+        <description>&lt;p&gt;Komische Nacht. Ich habe gefühlt nicht geschlafen und bin um 4 Uhr aufgewacht.
 Weiterschlafen ging dann aber trotzdem und plötzlich war es halb 8. Ich hatte für
 heute keinen Plan gemacht und so konnte ich mir Zeit lassen mit aufstehen und
 duschen. Hunger hatte ich irgendwie auch keinen, also ging ich ohne Frühstück
@@ -311,42 +322,48 @@ können und verabschiedete mich um den Döner auf meinem Zimmer zu verdrücken :
 
 &lt;!-- Links: --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>walk_motivation</title>
-      <link>/microposts/walk_motivation/</link>
-      <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
+      </item>
       
-      <guid>/microposts/walk_motivation/</guid>
-      <description>&lt;p&gt;Bei wem das wohl zieht? Aber nette Idee den Kalorienverbrauch für die Entfernung
+    
+      
+      <item>
+        <title>walk_motivation</title>
+        <link>/microposts/walk_motivation/</link>
+        <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/walk_motivation/</guid>
+        <description>&lt;p&gt;Bei wem das wohl zieht? Aber nette Idee den Kalorienverbrauch für die Entfernung
 zum nächsten Bahnhof anzugeben.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/motivation.JPG&#34; alt=&#34;Motivation&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>japanese_toothpaste</title>
-      <link>/microposts/japanese_toothpaste/</link>
-      <pubDate>Sat, 01 Apr 2017 20:02:42 +0900</pubDate>
+      </item>
       
-      <guid>/microposts/japanese_toothpaste/</guid>
-      <description>&lt;p&gt;Ich hab in deutscher Manier erstmal versucht den Deckel abzuschrauben. Leider
+    
+      
+      <item>
+        <title>japanese_toothpaste</title>
+        <link>/microposts/japanese_toothpaste/</link>
+        <pubDate>Sat, 01 Apr 2017 20:02:42 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/japanese_toothpaste/</guid>
+        <description>&lt;p&gt;Ich hab in deutscher Manier erstmal versucht den Deckel abzuschrauben. Leider
 tat sich bei dieser Zahnpasta nichts. Man muss lediglich am Deckel ziehen und
 ihn später wieder drauf drücken.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/toothpaste.jpg&#34; alt=&#34;Toothpaste&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Einkaufen und die Gegend Erkunden</title>
-      <link>/posts/2017_04_01-first_saturday/</link>
-      <pubDate>Sat, 01 Apr 2017 11:29:50 +0900</pubDate>
+      </item>
       
-      <guid>/posts/2017_04_01-first_saturday/</guid>
-      <description>&lt;p&gt;Die Nacht war wieder ähnlich wie gestern. Bin gegen 23 Uhr geweckt worden, weil
+    
+      
+      <item>
+        <title>Einkaufen und die Gegend Erkunden</title>
+        <link>/posts/2017_04_01-first_saturday/</link>
+        <pubDate>Sat, 01 Apr 2017 11:29:50 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_04_01-first_saturday/</guid>
+        <description>&lt;p&gt;Die Nacht war wieder ähnlich wie gestern. Bin gegen 23 Uhr geweckt worden, weil
 ein paar Jungs aus meinem Gang aus dem Bad zurück kamen. Ich konnte aber bis
 halb 4 weiterschlafen bevor ich mit großem Durst und trockenem Mund erneut
 aufwachte. Zum Glück hab ich mir eine Flasche Wasser neben das Bett gestellt.
@@ -435,15 +452,17 @@ meinem Zimmer und höre Musik, schaue einen etwas anstrengenden französchen Fil
 und schreibe die Ereignisse der letzten Tage zusammen. Was ich morgen mache weiß
 ich noch nicht.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Versicherung und Wohnort anmelden</title>
-      <link>/posts/2017_03_31-townhall/</link>
-      <pubDate>Fri, 31 Mar 2017 11:18:11 +0900</pubDate>
+      </item>
       
-      <guid>/posts/2017_03_31-townhall/</guid>
-      <description>&lt;p&gt;Die erste Nacht war überraschenderweise völlig in Ordnung. Ich bin einmal gegen
+    
+      
+      <item>
+        <title>Versicherung und Wohnort anmelden</title>
+        <link>/posts/2017_03_31-townhall/</link>
+        <pubDate>Fri, 31 Mar 2017 11:18:11 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_03_31-townhall/</guid>
+        <description>&lt;p&gt;Die erste Nacht war überraschenderweise völlig in Ordnung. Ich bin einmal gegen
 Mitternacht aufgewacht, weil jemand laut war. Hab nur kurz auf die Uhr gesehen
 und mich wieder umgedreht. Das gleiche nochmal um halb 2. Am Morgen bin ich wach
 geworden weil die Sonne aufging und ich den Vorhang nicht ganz zugemacht habe.
@@ -539,15 +558,17 @@ weil die Internetverbindung mehrfach unterbrach und ich dann zu müde wurde.&lt;
 
 &lt;!-- Links: --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Reise nach Tsukuba</title>
-      <link>/posts/2017_03_29-travel_to_japan/</link>
-      <pubDate>Wed, 29 Mar 2017 12:53:30 +0200</pubDate>
+      </item>
       
-      <guid>/posts/2017_03_29-travel_to_japan/</guid>
-      <description>&lt;p&gt;Der Tag fängt früh an. 5 Uhr aufstehen, damit ich meiner Schwester auf
+    
+      
+      <item>
+        <title>Reise nach Tsukuba</title>
+        <link>/posts/2017_03_29-travel_to_japan/</link>
+        <pubDate>Wed, 29 Mar 2017 12:53:30 +0200</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_03_29-travel_to_japan/</guid>
+        <description>&lt;p&gt;Der Tag fängt früh an. 5 Uhr aufstehen, damit ich meiner Schwester auf
 Wiedersehen sagen kann, bevor Sie zur Arbeit fährt. Das ist das Mindeste, wenn
 ich schon an Ihrem 17. Geburtstag auswandere.&lt;/p&gt;
 
@@ -718,21 +739,10 @@ zurück fällt mir schon etwas schwer. Als ich ins Zimmer komme, ist es kurz nac
 21 Uhr. Ich falle wie ein Stein ins Bett und schlafe direkt ein. Das waren
 anstrengende 33 Stunden.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      </item>
       
-      <guid>/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;über-mich&#34;&gt;Über mich&lt;/h1&gt;
-
-&lt;p&gt;Wenn mir was eingefallen ist, schreibe ich das hier &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
+    
+      
     
   </channel>
 </rss>
