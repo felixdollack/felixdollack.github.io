@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_04_05-meeting_and_shopping/</loc>
+    <lastmod>2017-04-05T21:35:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/2017-04-04_everything-is-cute/</loc>
+    <lastmod>2017-04-04T22:28:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2017_04_04-moving/</loc>
+    <lastmod>2017-04-04T19:51:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_04_03-break/</loc>
     <lastmod>2017-04-03T18:46:01+09:00</lastmod>
   </url>
@@ -42,19 +57,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-03T18:46:01+09:00</lastmod>
+    <lastmod>2017-04-05T21:35:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/microposts/</loc>
-    <lastmod>2017-04-01T23:08:12+09:00</lastmod>
+    <lastmod>2017-04-04T22:28:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-04-03T18:46:01+09:00</lastmod>
+    <lastmod>2017-04-05T21:35:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
