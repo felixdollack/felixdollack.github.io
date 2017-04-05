@@ -9,4 +9,4 @@ Ich hab in deutscher Manier erstmal versucht den Deckel abzuschrauben. Leider
 tat sich bei dieser Zahnpasta nichts. Man muss lediglich am Deckel ziehen und
 ihn später wieder drauf drücken.
 
-![Zimmer](/img/minis/toothpaste.jpg)
+![Toothpaste](/img/minis/toothpaste.jpg)
