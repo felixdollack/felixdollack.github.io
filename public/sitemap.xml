@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_04_06_first-seminar/</loc>
+    <lastmod>2017-04-06T21:58:58+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_04_05-meeting_and_shopping/</loc>
     <lastmod>2017-04-05T21:35:22+09:00</lastmod>
   </url>
@@ -57,7 +62,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-05T21:35:22+09:00</lastmod>
+    <lastmod>2017-04-06T21:58:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,7 +74,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-04-05T21:35:22+09:00</lastmod>
+    <lastmod>2017-04-06T21:58:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
