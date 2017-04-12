@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_04_09_Tokio-Handyvertrag-Shopping/</loc>
+    <lastmod>2017-04-09T19:53:33+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/microposts/2017-04-08_toilet/</loc>
     <lastmod>2017-04-08T22:35:36+09:00</lastmod>
   </url>
@@ -77,7 +82,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-08T22:35:36+09:00</lastmod>
+    <lastmod>2017-04-09T19:53:33+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,7 +94,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-04-08T19:53:03+09:00</lastmod>
+    <lastmod>2017-04-09T19:53:33+09:00</lastmod>
     <priority>0</priority>
   </url>
   
