@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_04_11_LastFreeDay/</loc>
+    <lastmod>2017-04-11T07:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_04_10_WelcomeParty/</loc>
     <lastmod>2017-04-10T00:43:36+09:00</lastmod>
   </url>
@@ -87,7 +92,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-10T00:43:36+09:00</lastmod>
+    <lastmod>2017-04-11T07:12:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +104,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-04-10T00:43:36+09:00</lastmod>
+    <lastmod>2017-04-11T07:12:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
