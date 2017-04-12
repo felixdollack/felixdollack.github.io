@@ -28,5 +28,6 @@ noch 3 Labore aussuchen, damit ich nicht automatisch irgendeinem zugeteilt
 werde. Da sich die Aufgaben langsam stapeln, verbringe ich den Rest des
 Nachmittags damit, meine Aufgaben zu priorisieren und eine Liste zu erstellen.
 Und weil mich das ganze Entscheidungen treffen ziemlich angestrengt hat, gönne
-ich mir zum Abendessen die doppelte Menge und esse zwei Mahlzeiten. Morgen
-stehen 4 Vorlesungen von 10 Uhr bis 16:30 Uhr an. Bin gespannt womit es los geht.
+ich mir zum Abendessen die doppelte Menge und esse zwei Mahlzeiten. Insgesamt
+stehen morgen 4 Vorlesungen von 10 Uhr bis 16:30 Uhr an. Bin gespannt womit es
+los geht.
