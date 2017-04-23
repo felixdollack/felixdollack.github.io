@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_04_21_bread-and-beer/</loc>
+    <lastmod>2017-04-21T20:46:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/2017_04_21_womanonly/</loc>
+    <lastmod>2017-04-21T12:40:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_04_20_everydaylife/</loc>
     <lastmod>2017-04-20T00:46:32+09:00</lastmod>
   </url>
@@ -137,19 +147,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-20T00:46:32+09:00</lastmod>
+    <lastmod>2017-04-21T20:46:38+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/microposts/</loc>
-    <lastmod>2017-04-08T22:35:36+09:00</lastmod>
+    <lastmod>2017-04-21T12:40:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-04-20T00:46:32+09:00</lastmod>
+    <lastmod>2017-04-21T20:46:38+09:00</lastmod>
     <priority>0</priority>
   </url>
   
