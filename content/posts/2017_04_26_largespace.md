@@ -34,7 +34,7 @@ auf den 8 kleinen Monitoren rechts an der Wand gesehen werden.
 
 ![Beispiel](/img/2017_04_26/space.jpg)
 
-Ein Beispiel, dass uns gezeigt wurde, ist der Innenraum einer römischen (?)
+Ein Beispiel, dass uns gezeigt wurde, ist der Innenraum einer romanischen
 Kirche. Mit 3D Brillen ausgestattet spazieren wir durch den Raum und sehen uns
 um. In diesem Beispiel trägt ein Nutzer eine spezielle Brille mit kleinen
 reflektierenden Kugeln. So erkennen 20 Kameras am oberen Ende der umschließenden

@@ -21,7 +21,7 @@ aus unerfindlichen Gründen, im Besitz von 1000 Euro ist und diese gerne
 Umtauschen möchte. Zum Glück gibt es an der Universität gibt es eine Bankfiliale
 die das anbietet. Als das erledigt ist, treffen wir zufällig Minatsu, die gerade
 ebenfalls zurück zum Wohnheim läuft, also gehen wir zu dritt. Gegen 17 Uhr sind
-wir im Gemeindschaftsraum und jeder arbeitet etwas für sich. Ich muss noch
+wir im Gemeinschaftsraum und jeder arbeitet etwas für sich. Ich muss noch
 einige Emails beantworten. Um kurz vor 18 Uhr kommt Sano, ein Japaner aus dem
 höheren Semester, mit einer schweren Kiste in den Raum. Er hat Snacks, Getränke
 und Essen für die Willkommens-Party für uns neue Studenten dabei.

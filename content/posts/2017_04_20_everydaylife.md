@@ -62,5 +62,5 @@ Hab einen Schokokeks dazu gegessen, um den Kaffeegeschmack zu überdecken. Danac
 esse ich mit Chun Kwang in der Mensa zu Abend. Die verschiedenen Teile der Mensa
 (Ramen, Udon, Curry und ital. Nudeln) haben bis kurz vor 7 am Abend geöffnet.
 Dank dem Kaffee bin ich ziemlich wach und bleibe bis 1 Uhr in der Nacht im
-Gemeindschaftsraum. Morgen um kurz vor 9 Uhr ist wieder das wöchentliche
+Gemeinschaftsraum. Morgen um kurz vor 9 Uhr ist wieder das wöchentliche
 Gruppentreffen.

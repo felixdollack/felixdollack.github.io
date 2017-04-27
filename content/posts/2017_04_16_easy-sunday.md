@@ -10,7 +10,7 @@ kann ich endlich etwas in dem Roman [Ready Player One] von Ernest Cline lesen,
 den ich von Karlos (Australien) geschenkt bekommen habe. Keine Ahnung wo er das
 Buch auf Deutsch her hat. Im Anschluss daran habe ich noch einige Vokabeln
 wiederholt, bis mich der Hunger zum Aufstehen bewegt hat. Nach dem Frühstück
-habe ich es mir auf dem Sofa im Gemeindschaftsraum gemütlich gemacht und den
+habe ich es mir auf dem Sofa im Gemeinschaftsraum gemütlich gemacht und den
 Rest des Tages nach Literatur Rund um mein Forschungsthema gesucht und mir
 überlegt was ich für die Forschung an Geldmitteln beantragen muss. Dazu werde
 ich mich am Freitag mit meinem Betreuer treffen. Bislang sind mir nur ein paar
