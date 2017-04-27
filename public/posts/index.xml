@@ -8,8 +8,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Tue, 25 Apr 2017 13:37:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 07:35:55 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Large Space</title>
+        <link>/posts/2017_04_26_largespace/</link>
+        <pubDate>Wed, 26 Apr 2017 07:35:55 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_04_26_largespace/</guid>
+        <description>&lt;p&gt;Heute haben wir endlich die technische Führung durch den großen Raum für
+virtuelle Realität. Leider erst am späten Nachmittag um kurz vor 17 Uhr.
+Am Vormittag habe ich die letzten Blogeinträge nachgeholt und die Daten von
+meiner Masterarbeit auf meinen Laptop kopiert. Weil ich schon etwas spät dran
+bin, habe ich mir, anstatt Mittagessen zu gehen, beim Bäcker ein Stück Pizza und
+ein Quarktörtchen gekauft. Vor dem Unterricht ist gerade noch genug Zeit beides
+zu essen.&lt;/p&gt;
+
+&lt;p&gt;Die zweite Unterrichtsstunde fällt aus, weil der Dozent eine wichtige
+Besprechung hat. Um die Zeit bis zu der Führung zu überbrücken, gehe ich ins
+Labor. Dort suche ich nach der Arbeit eines ehemaligen Studenten, der sich mit
+der akustischen Detektion von Gelächter beschäftigt hat. Außerdem installiere
+ich Software um die Ergebnisse meiner Masterarbeit zu reproduzieren.&lt;/p&gt;
+
+&lt;p&gt;Gegen 17 Uhr treffen wir uns vor dem Eingang des Empowerment Studios. Wir das
+sind Taisei Sugiyama, Minatsu Sugimoto, Chun Xie, Yuta Kozaki, Chun Kwang Tan
+und ich. Professor Enzaki führt uns in den Raum. Er ist insgesamt 25 Meter lang
+und 15 Meter breit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/fullview.jpg&#34; alt=&#34;Large Space&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/control.jpg&#34; alt=&#34;Kontrollraum&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Es braucht 8 Computer um das Bild für diesen Raum zu berechnen. Die Computer
+sind in den beiden schwarzen Türmen versteckt und die Vorschau des Bildes kann
+auf den 8 kleinen Monitoren rechts an der Wand gesehen werden.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/space.jpg&#34; alt=&#34;Beispiel&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ein Beispiel, dass uns gezeigt wurde, ist der Innenraum einer römischen (?)
+Kirche. Mit 3D Brillen ausgestattet spazieren wir durch den Raum und sehen uns
+um. In diesem Beispiel trägt ein Nutzer eine spezielle Brille mit kleinen
+reflektierenden Kugeln. So erkennen 20 Kameras am oberen Ende der umschließenden
+Wände die Position und Ausrichtung und passen das Bild entsprechend an.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/tracker.jpg&#34; alt=&#34;Tracker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das System ist in der Lage die Position und Ausrichtung von bis zu 32 Nutzern
+gleichzeitig zu erkennen. Professor Enzaki erklärt uns noch einige Einzelheiten
+zur Entwicklung von neuen Anwendungen, woraufhin wir beschließen unser Thema im
+Projekt etwas zu vereinfachen. Wenn wir erst Ergebnisse haben, werde ich das
+hier natürlich zeigen ;)&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -724,53 +777,6 @@ Und weil mich das ganze Entscheidungen treffen ziemlich angestrengt hat, gönne
 ich mir zum Abendessen die doppelte Menge und esse zwei Mahlzeiten. Insgesamt
 stehen morgen 4 Vorlesungen von 10 Uhr bis 16:30 Uhr an. Bin gespannt womit es
 los geht.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Finanzielle Unterstützung und die Willkommens-Party</title>
-        <link>/posts/2017_04_10_WelcomeParty/</link>
-        <pubDate>Mon, 10 Apr 2017 00:43:36 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_04_10_WelcomeParty/</guid>
-        <description>&lt;p&gt;Nach 12 Stunden Schlaf geht es mir deutlich besser. Ich habe keine Kopf- und
-auch keine Gliederschmerzen mehr. Und meine Temperatur fühlt sich auch normal
-an. Für 10 Uhr ist eine Orientierungsveranstaltung angesetzt, bei der uns
-erklärt werden soll, für welche Forschungsbezogenen Aktivitäten wir Geld
-bekommen können und welche Formulare wir dafür ausfüllen müssen.&lt;/p&gt;
-
-&lt;p&gt;Nach der Orientierung gehen wir (die 6 neuen Studenten) gemeinsam zum
-Mittagessen. Wir verstehen uns alle super und ich denke bekommen gute Freunde.
-Um Zugang zu dem Gebäude zu bekommen in dem mein Schreibtisch steht, gehe ich
-nach dem Essen zum EMP Office. Außerdem habe ich ein paar Fragen zur Erstattung
-der Fahrtkosten vom Workshop am Wochenende. Weil Sie noch ein Dokument von mir
-brauchen, das im Wohnheim liegt, gehe ich es holen und treffe Chun Kwang, der,
-aus unerfindlichen Gründen, im Besitz von 1000 Euro ist und diese gerne
-Umtauschen möchte. Zum Glück gibt es an der Universität gibt es eine Bankfiliale
-die das anbietet. Als das erledigt ist, treffen wir zufällig Minatsu, die gerade
-ebenfalls zurück zum Wohnheim läuft, also gehen wir zu dritt. Gegen 17 Uhr sind
-wir im Gemeindschaftsraum und jeder arbeitet etwas für sich. Ich muss noch
-einige Emails beantworten. Um kurz vor 18 Uhr kommt Sano, ein Japaner aus dem
-höheren Semester, mit einer schweren Kiste in den Raum. Er hat Snacks, Getränke
-und Essen für die Willkommens-Party für uns neue Studenten dabei.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/party/party.jpg&#34; alt=&#34;Party People&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Es war ein lustige Abend und wir hatten viel Spaß. Um 20 Uhr war die Party
-offiziell vorbei. Aber eine Hand voll Leute (mich eingeschlossen) blieb noch bis
-halb 12. In meinem Zimmer habe ich dann noch 1 Stunde lang Einträge für den Blog
-geschrieben, da ich im Moment etwas hinterher hänge :P&lt;/p&gt;
-
-&lt;p&gt;Ach übrigens, wen es interessiert was ich bei Ikea gekauft habe, der kann sich
-das unten stehende Bild anschauen, dann weiß er es. Vorhänge, eine Pfanne, ein
-paar Dosen, Teller und Schüssel, ein Holzbrett, Stäbchen zum Kochen (die sind
-etwas länger als normale Essstäbchen, damit man sich die Finger nicht verbrennt),
-Geschirrhandtücher, ein kleines Handtuch als Badvorleger und eine Box um meine
-Kabel und Kleinkram aufzubewahren.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/party/goodies.jpg&#34; alt=&#34;Ikea&#34; /&gt;&lt;/p&gt;
 </description>
       </item>
       
