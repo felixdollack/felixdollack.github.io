@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_05_02_ayako_jap/</loc>
+    <lastmod>2017-05-02T00:08:12+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_05_01_labrotation_ps4/</loc>
     <lastmod>2017-05-01T23:01:54+09:00</lastmod>
   </url>
@@ -192,7 +197,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-05-01T23:01:54+09:00</lastmod>
+    <lastmod>2017-05-02T00:08:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -204,7 +209,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-05-01T23:01:54+09:00</lastmod>
+    <lastmod>2017-05-02T00:08:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
