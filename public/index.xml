@@ -8,8 +8,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Tue, 09 May 2017 20:24:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 21:26:33 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title></title>
+        <link>/microposts/2017_05_10_advertisments/</link>
+        <pubDate>Wed, 10 May 2017 21:26:33 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/2017_05_10_advertisments/</guid>
+        <description>&lt;p&gt;Diese Art der Werbung finde ich seltsam. Ich habe versucht mir vorzustellen, wie
+das wohl in Deutschland angenommen würde. Vermutlich sind selbst große Städte
+wie München, Frankfurt, Hamburg oder Berlin zu klein oder nicht dicht genug
+besiedelt für sowas. Außerdem ist der Aufbau deutscher Städte ja auch anders.
+Dort gibt es fast immer ein Stadtzentrum und eine Art Fußgängerzone oder einen
+verkehrsberuhigten Bereich in dem die Läden liegen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_05_10/clothtruck.jpg&#34; alt=&#34;Fahrende Werbung&#34; /&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Alltag</title>
+        <link>/posts/2017_05_10_Alltag/</link>
+        <pubDate>Wed, 10 May 2017 19:31:38 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_10_Alltag/</guid>
+        <description>&lt;p&gt;Heute war nichts besonderes los. Morgens nach dem Aufstehen hab ich Wäsche
+gewaschen und japanisch Vokabeln wiederholt. Dann bin ich um halb 11 mit dem
+Fahrrad an die Uni gefahren und habe mir zwei Stücke Pizza zu Mittag gekauft.
+Im anschließenden Unterricht ging es heute 2 Stunden lang über qualitative und
+quantitative Forschungsmethoden. Danach war ich bis kurz vor 20 Uhr im Labor,
+mit Ausnahme der dreiviertel Stunde Abendessen um 18 Uhr. Wirklich was geschafft
+hab ich aber trotzdem nicht. Ich bin gerade aber auch ziemlich unstrukturiert.&lt;/p&gt;
+
+&lt;p&gt;Am Freitag werde ich mich mal hinsetzten und aufschreiben, Was ich Wann zu
+erledigen habe. Morgen habe ich zwei lange Vorlesungen. Eine am Morgen und eine
+am Nachmittag. Die am Nachmittag soll 3 Stunden dauern. Na ich hoffe nicht &amp;hellip;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -740,119 +781,6 @@ um auszuprobieren, ob ich das Experiment aus meiner Masterarbeit noch zum laufen
 bekomme. Das 3D-Modell und die virtuelle Umgebung scheinen zu funktionieren und
 Ton bekomme ich auch abgespielt. Leider fehlt gerade ein Grafikadapter, damit
 ich noch die Videobrille ausprobieren kann. Danach muss ich morgen mal suchen&amp;hellip;&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Large Space</title>
-        <link>/posts/2017_04_26_largespace/</link>
-        <pubDate>Wed, 26 Apr 2017 07:35:55 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_04_26_largespace/</guid>
-        <description>&lt;p&gt;Heute haben wir endlich die technische Führung durch den großen Raum für
-virtuelle Realität. Leider erst am späten Nachmittag um kurz vor 17 Uhr.
-Am Vormittag habe ich die letzten Blogeinträge nachgeholt und die Daten von
-meiner Masterarbeit auf meinen Laptop kopiert. Weil ich schon etwas spät dran
-bin, habe ich mir, anstatt Mittagessen zu gehen, beim Bäcker ein Stück Pizza und
-ein Quarktörtchen gekauft. Vor dem Unterricht ist gerade noch genug Zeit beides
-zu essen.&lt;/p&gt;
-
-&lt;p&gt;Die zweite Unterrichtsstunde fällt aus, weil der Dozent eine wichtige
-Besprechung hat. Um die Zeit bis zu der Führung zu überbrücken, gehe ich ins
-Labor. Dort suche ich nach der Arbeit eines ehemaligen Studenten, der sich mit
-der akustischen Detektion von Gelächter beschäftigt hat. Außerdem installiere
-ich Software um die Ergebnisse meiner Masterarbeit zu reproduzieren.&lt;/p&gt;
-
-&lt;p&gt;Gegen 17 Uhr treffen wir uns vor dem Eingang des Empowerment Studios. Wir das
-sind Taisei Sugiyama, Minatsu Sugimoto, Chun Xie, Yuta Kozaki, Chun Kwang Tan
-und ich. Professor Enzaki führt uns in den Raum. Er ist insgesamt 25 Meter lang
-und 15 Meter breit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/fullview.jpg&#34; alt=&#34;Large Space&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/control.jpg&#34; alt=&#34;Kontrollraum&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Es braucht 8 Computer um das Bild für diesen Raum zu berechnen. Die Computer
-sind in den beiden schwarzen Türmen versteckt und die Vorschau des Bildes kann
-auf den 8 kleinen Monitoren rechts an der Wand gesehen werden.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/space.jpg&#34; alt=&#34;Beispiel&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ein Beispiel, dass uns gezeigt wurde, ist der Innenraum einer romanischen
-Kirche. Mit 3D Brillen ausgestattet spazieren wir durch den Raum und sehen uns
-um. In diesem Beispiel trägt ein Nutzer eine spezielle Brille mit kleinen
-reflektierenden Kugeln. So erkennen 20 Kameras am oberen Ende der umschließenden
-Wände die Position und Ausrichtung und passen das Bild entsprechend an.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_26/tracker.jpg&#34; alt=&#34;Tracker&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Das System ist in der Lage die Position und Ausrichtung von bis zu 32 Nutzern
-gleichzeitig zu erkennen. Professor Enzaki erklärt uns noch einige Einzelheiten
-zur Entwicklung von neuen Anwendungen, woraufhin wir beschließen unser Thema im
-Projekt etwas zu vereinfachen. Wenn wir erst Ergebnisse haben, werde ich das
-hier natürlich zeigen ;)&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Besprechung mit meinem Chef</title>
-        <link>/posts/2017_04_25_reasearchmeeting/</link>
-        <pubDate>Tue, 25 Apr 2017 13:37:27 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_04_25_reasearchmeeting/</guid>
-        <description>&lt;p&gt;Mein Toast und die Marmelade waren leer. Deswegen bin ich heute zum Frühstück
-in ein Cafe an der Uni gegangen. Danach spreche ich im Labor mit Joana über ihr
-Thema. Sie versucht eine Art Spielzeug für Kinder mit Autismus, die von sich aus
-meist eher stumm sind, zu entwickeln, um sie dazu zu bewegen ihre Stimme mehr zu
-nutzen. Sie schildert mir ein paar Probleme, an denen sie gerade arbeitet. Da es
-um Akustik und Signalverarbeitung geht, habe ich sogar ein paar Ideen.&lt;/p&gt;
-
-&lt;p&gt;Mittags gehe ich wieder mit den anderen aus dem Labor zum Mittagessen. Danach
-schicke ich einige Artikel und Informationen zu Joana und bereite mich auf mein
-Treffen mit meinem Betreuer Kenji vor. Um 16 Uhr ist es endlich soweit. Ich habe
-30 Minuten, um das Wichtigste zu klären. Brauche ich den Kurs zu Forschungsethik
-an der Klinik wirklich? Knappe Antwort, Nein. Gut, dann muss ich das Treffen mit
-meiner Projektgruppe heute nicht absagen. Nächste Frage. Kann ich am
-Japanischunterricht teilnehmen? Ja, aber nicht am Intensivkurs. Das hätte ich
-mir auch selber denken können. Ich hab auch keine Zeit mich jeden Morgen in den
-Kurs zu setzten. Hab ja noch andere Sachen zu tun. Letzte Frage meinerseits.
-Ich möchte seine Meinung zur Konferenz in Stockholm und ob ich den Flug auch
-bezahlt bekomme, wenn ich anschließend noch eine Woche in Deutschland bleibe.
-Er findet, dass das eine wichtige Konferenz ist und es passt gut zu meinem
-Thema. Und ja, es ist kein Problem, wenn ich im August, wo ja eh Vorlesungsfrei
-ist, etwas Urlaub dranhänge.&lt;/p&gt;
-
-&lt;p&gt;Bezüglich meiner Forschung soll ich zunächst meine Masterarbeit aufarbeiten und
-ein kleines Anschlussexperiment durchführen. Mir ist kurz nach der
-Veröffentlichung nämlich ein möglicher Fehler aufgefallen den ich gerne prüfen
-würde. Zu dem Thema mit dem ich mich beworben habe (Einfluss von internem
-Feedback auf den Spracherwerb bei Robotern), soll ich eine Mindmap machen und
-versuchen etwas spezifischer zu werden. Außerdem soll ich mit Joana zur Keio
-Universität nach Tokyo fahren. Dort ist eine therapeutische Einrichtung zur
-Unterstützung von Kindern mit Autismus. Ich soll beobachten ob und wie sich bei
-diesen Kindern Fortschritt beim Spracherwerb äußert. Dazu stehen später auch
-Videoaufnahmen zur Verfügung, um das ganze eventuell Automatisiert zu bestimmen.
-In Zusammenhang dazu gibt es eine Masterarbeit, in der versucht wurde anhand des
-Audiosignals Gelächter zu bestimmen und so Rückschlüsse über die Laune des
-Kindes in der Therapie zu ziehen. Was wiederum den Rückschluss erlauben würde,
-ob die Therapie förderlich für das Kind ist. Wer geht schon gerne wo hin, wo man
-keinen Spaß hat? Nach einer halben Stunde sind wir fertig. Mein Betreuer muss
-zum Unterricht und ich treffe meine Projektgruppe.&lt;/p&gt;
-
-&lt;p&gt;Wir überlegen weiter welches Projekt wir umsetzen wollen. Unsere Ideen habe sich
-schon etwas angenähert, aber Kozaki will sich noch nicht festlegen. Nach 1,5 h
-Ist klar wir brauchen ein weiteres Treffen. Kozaki schreibt gerade an einer
-Veröffentlichung, deswegen geben wir uns 3 Wochen Zeit. Ich hoffe wir haben dann
-endlich die zündende Idee. Vielleicht hilft es uns, wenn wir morgen Abend die
-technische Führung durch den virtuellen Raum hatte, für den unser Projekt
-gedacht ist. Arbeit hab ich jetzt jedenfalls erstmal genug. Zudem startet
-demnächst auch mein Austausch mit 2 anderen Laboren an der Uni. Dem Labor für
-Kansei (=Emotionales) Design und dem Labor für Computer Vision und maschinellem
-Lernen.&lt;/p&gt;
 </description>
       </item>
       
