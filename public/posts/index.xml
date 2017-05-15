@@ -8,8 +8,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Sun, 14 May 2017 22:37:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 13:40:20 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Seminar Marathon</title>
+        <link>/posts/2017_05_15_seminars/</link>
+        <pubDate>Mon, 15 May 2017 13:40:20 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_15_seminars/</guid>
+        <description>&lt;p&gt;Heute morgen ist statt unserem üblichen wöchentlichen Seminar die Vorstellung
+der Projekte, welche die Bachelor- und Masterstudenten in den letzten 6 Wochen
+umgesetzt haben. Dafür treffen wir uns im Large Space.&lt;/p&gt;
+
+&lt;p&gt;Das erste Projekt nennt sich &lt;em&gt;Drone Fishing&lt;/em&gt;. Man braucht mindestens 2 Personen.
+Eine Person steuert durch Handbewegungen eine Drone und die Andere trägt einen
+Hut an dem Klettband befestigt ist. An der Drone hängt ein Haken der ebenfalls
+mit Klettband umwickelt ist. Das Ziel ist es die Drone über die Person zu
+steuern und den Hut zu angeln. Die Steuerung der Drone sieht einfach aus, stellt
+sich allerdings als schwierig für ungeübte Nutzer heraus. Aber hat Spaß gemacht
+und die Idee ist lustig.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/drone.jpg&#34; alt=&#34;Drone Fishing&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das zweite Projekt ist &lt;em&gt;Space Drawing Ball&lt;/em&gt;. Dafür hat die Gruppe einen
+riesengroßen Wasserball mit reflektierendem Material beklebt, so dass die
+Bewegungssensoren im Large Space seine Position bestimmen können.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/space.jpg&#34; alt=&#34;Space Drawing Ball&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Für die Präsentation der dritten Gruppe gehen wir ins Freie. Alle
+Gruppenmitglieder tragen einen schwarzen Anzug und dunkle Sonnenbrillen. Sie
+sehen aus wie die Man in Black. Einer der drei öffnet einen Aluminiumkoffer, wie
+bei einem zwielichtigen Geschäft in einem Action Film. Darin befindet sich eine
+&amp;ldquo;Waffe&amp;rdquo;. Der &lt;em&gt;Color Blaster&lt;/em&gt;. Im Lauf des Blasters ist eine Kamera versteckt. An
+der Seite befinden sich LEDs die eine Farbe anzeigen auf die gezielt werden
+muss. Beim Drücken des Auslösers wird ein Foto aufgenommen und die Farbe im
+Zentrum des Bildes bestimmt. Hat man die Farbe getroffen, wechseln die LEDs zur
+nächsten Farbe. Beim Drücken des Auslösers und dem Treffen einer Farbe (richtig
+oder falsch) ertönen Soundeffekte. Wir haben alle großen Spaß beim ausprobieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/blaster.jpg&#34; alt=&#34;Color Blaster&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Für die letzten 2 Projekte gehen wir in unser Labor. Gruppe Vier hat einen
+kleinen Roboter Namens &lt;em&gt;Kuzurobo&lt;/em&gt; (jap. kuzu = Trümmer) gebaut, der Müll vom
+Zimmerboden sammeln soll. Für den Fall, dass der japanische Student zu sehr mit
+lernen beschäftigt ist und zum Beispiel seine Taschentücher nicht zum Mülleimer
+tragen will, ruft er per Handy seinen Roboter, welcher die Taschentücher dann
+vom Boden aufsammelt. Der Roboter ist die weiße Box auf dem Gruppenfoto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/teams.jpg&#34; alt=&#34;Alle Gruppen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Die letzte Gruppe hatte die Aufgabe mit einem &lt;em&gt;Zauberstab&lt;/em&gt; (à la Harry Potter)
+eine Aktion auszuführen. Letztendlich ist der Zauberstab nur noch Show. Die
+eigentliche Aktion wird durch die Bewegung des Nutzers, welche mit einer 3D
+Kamera aufgezeichnet wird, ausgelöst. In diesem Fall ist es das Entriegeln einer
+magischen Schatztruhe (von der ich eleider kein gutes Foto habe).&lt;/p&gt;
+
+&lt;p&gt;Um 12 sind wir mit den Präsentationen fertig und gehen zum Mittagessen in die
+Mensa. Danach gebe ich ein Zertifikat über die erfolgreiche Teilnahme an der
+Aufklärung, wie ich mich im Universitätsnetzwerk zu verhalten habe, im
+Sekretariat ab. Von 13 Uhr bis 15 Uhr lausche ich dem Arbeitsgruppentreffen von
+Prof. Fukui und danach fahre ich zum Labor Prof. Yamanaka. Dort ist heute zwar
+kein Gruppentreffen, aber ich möchte ein paar Sachen nachlesen und muss noch
+eine Hausaufgabe für den Diskussionskurs fertig machen.&lt;/p&gt;
+
+&lt;p&gt;Am Abend treffen wir uns um 19 Uhr zum Feiern der erfolgreich abgeschlossenen
+Projektarbeiten in einem Okonomiyaki Restaurant. Okonomiyaki lässt sich schlecht
+übersetzen, deswegen schicke ich euch für eine Erklärung besser zu &lt;a href=&#34;https://de.wikipedia.org/wiki/Okonomiyaki&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -839,50 +911,6 @@ getrockneter und geriebener Seetang (sieht aus wie geriebenes Basilikum) oben
 drauf. Wir haben insgesmat zirka 60 Bällchen verdrückt. War sehr lecker :)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_04_30/takoyaki.jpg&#34; alt=&#34;Takoyaki&#34; /&gt;&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Wochenende</title>
-        <link>/posts/2017_04_29_/</link>
-        <pubDate>Sat, 29 Apr 2017 00:52:05 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_04_29_/</guid>
-        <description>&lt;p&gt;Endlich Wochenende :) Ich habe bis 10 geschlafen. Dann hat mich der Hunger
-geweckt. Zum Frühstück gibt es eine Schüssel Müsli und eine Banane. Dann treffe
-ich mich mit Chun Kwang, um zwei Shoppingzentren, die uns empfohlen wurden,
-auszukundschaften. Als wir beim ersten ankommen, sehen wir Karlos in einem
-Cafe. Wir drehen erst eine kurze Runde durch den Laden und gesellen uns dann für
-ein zweites Frühstück zu ihm. Ich hatte Pfannkuchen mit Banane, Schokosoße und
-Sahne.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_29/pancake.jpg&#34; alt=&#34;Pfannkuchen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Er erzählt uns von einem weiteren Einkaufszentrum das Gebrauchtwaren verkauft
-und begleitet uns dort hin. Auf 3 Etagen verteilt finden sich Klamotten, Möbel,
-Ausrüstungen zum Angeln, Snowboard fahren, Mountainbikes, Musikinstrumente und
-jede Menge Elektronik.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_29/game64.jpg&#34; alt=&#34;Nintendo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wir nehmen Karlos mit zu dem zweiten Einkaufszentrum das auf unserer Tour stand.
-Dort gibt es einen kleinen Laden mit importierten Lebensmitteln. Unter anderem
-saure deutsche Gurken von Kühne, Haribo Gummibärchen und (ganz wichtig, wenn
-auch nicht ganz billig) Nutella. In dem Glas sind 200 Gramm und es kostet circa
-so viel wie ein Großes aus Deutschland.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_04_29/nutella.jpg&#34; alt=&#34;Nutella&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In diesem Einkaufszentrum finde ich auch endlich ein paar Schuhe die als
-Hausschuhe im Labor und dem Wohnheim zum Einsatz kommen werden. Auf dem Rückweg
-zum Wohnheim halten wir bei einem weiteren Supermarkt um Zutaten für &lt;a href=&#34;https://de.wikipedia.org/wiki/Tako-yaki&#34;&gt;Takoyaki&lt;/a&gt;
-zu kaufen. Takoyaki sind kleine Bällchen mit Oktopus. Minatsu hat das richtige
-Gerät, um die Bällchen zu machen. Das ist der Plan für morgen Mittag. Wir machen
-zu dritt im Gemeinschaftsraum Takoyaki.&lt;/p&gt;
-
-&lt;!-- Links: --&gt;
 </description>
       </item>
       
