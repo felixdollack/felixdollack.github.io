@@ -8,8 +8,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Mon, 15 May 2017 14:46:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 21:42:22 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Projekt</title>
+        <link>/posts/2017_05_16_pbr/</link>
+        <pubDate>Tue, 16 May 2017 21:42:22 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_16_pbr/</guid>
+        <description>&lt;p&gt;Heute habe ich mich wieder mit meiner Projektgruppe (Yuta und Minatsu) zum
+Brainstormen getroffen. Wir konnten uns endlich auf ein Thema einigen. Wer
+werden, angelehnt an alte Arcade Games, einen Space Shooter basteln. Da das
+Programmieren des Large Space anspruchsvoll scheint, greifen wir bei den
+Grafiken vorerst auf vorhandenes Material zurück, das wir bei &lt;a href=&#34;http://www.kenney.nl&#34;&gt;Kenney&lt;/a&gt; gefunden
+haben. Das könnte dann so aussehen:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_05_16/sample.png&#34; alt=&#34;Space Shooter&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Ziel des Spiel wird es sein, dass gegnerische Raumschiff zu zerstören.
+Um ein Raumschiff zu steuern, werden 2 Personen nötig sein. Insgesamt spielen
+also 4 Spieler gleichzeitig. Um das Schiff über das Spielfeld zu bewegen, müssen
+die beiden Spieler am Rand des Spielfelds auf und ab laufen. Durch Armbewegungen
+(welche genau, müssen wir uns noch überlegen) kann das Schiff gedreht werden.
+Klatschen die Spieler in die Hände oder stampfen sie mit den Füßen, feuert das
+Schiff Laserstrahlen ab. Für den Fall, dass es beide Spieler irgendwie
+hinbekommen sollten ihren Herzschlag aneinander anzupassen und in einem gewissen
+Bereich zu halten wird ein Spezialangriff ausgelöst. Das dürfte allerdings nicht
+so einfach werden, da man sich bei dem Spiel ja sportlich betätigen muss.
+Immerhin hat der Large Space eine Größe von 15 mal 23 Metern.&lt;/p&gt;
+
+&lt;p&gt;Jeder Spieler bekommt ein tragbares Gerät (wahrscheinlich ein Handschuh), das
+mit Sensoren ausgestattet ist und einen kleinen Clip an den Schuh, um das
+Stampfen zu detektieren. Auf dem Gerät werden auch Vibrationsmotoren sein, um
+dem Spieler anzuzeigen, wenn das Schiff getroffen wurde, entweder vom
+gegnerischen Laser oder Asteroiden bzw. Weltraumschrott (wir sind uns noch nicht
+über die Details im Klaren, aber was davon wir letztendlich umsetzen, wird davon
+abhängen wie gut wir vorankommen).&lt;/p&gt;
+
+&lt;p&gt;Anfang Juni treffen wir uns wieder. Bis dahin wollen wir eine Liste mit den
+benötigten Teilen anfertigen, uns erkundigen wie der Bestellvorgang über die Uni
+läuft, sowie ein einfaches Beispiel der Spielmechanik und eine Designidee des
+tragbaren Geräts haben.&lt;/p&gt;
+
+&lt;p&gt;Ich bin schon gespannt, was wir aus der Idee machen werden :)&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -768,58 +816,6 @@ leider schon verplant.&lt;/p&gt;
 irgendwo was trinken gehen. Ich kann bei ihm übernachten und dann mal sehen, ob
 ich am Samstag noch mehr erkunde oder ob ich die Schnauze schon voll habe von
 der Großstadt. Die nächsten 2 Einträge kommen dementsprechend später ;)&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Arbeiten am Feiertag</title>
-        <link>/posts/2017_05_03_work/</link>
-        <pubDate>Wed, 03 May 2017 13:21:29 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_05_03_work/</guid>
-        <description>&lt;p&gt;Das spät Aufstehen wird langsam zur Gewohnheit. Daran muss ich dringend
-arbeiten. Heute ist das okay. Schließlich ist der Tag ein offizieller Feiertag.
-Mein einziger Tagesordnungspunkt heute ist, dass ich nochmal in den Large Space
-an der Uni gehe und mir Programmcode von den letzten Jahren als Beispiele hole.
-Damit ich einen groben Überblick bekomme, wie man ein Programm für den Virtual
-Reality Raum schreibt. Zur Erinnerung hier nochmal ein Foto aus einer anderen
-Perspektive.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_03/largespace.jpg&#34; alt=&#34;Large Space&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In der gleichen Halle vor dem Large Space ist eine größere Freifläche. Am
-Sonntag ist Open Studio (quasi Tag der offenen Tür). Dort werden dann einzelne
-Studienarbeiten präsentiert und man kann auch ein paar Sachen ausprobieren denke
-ich. Ich würde zu gerne das große schwarze Gestell ausprobieren. Das ist der
-Unterbau für einen großen Roboter (der noch in Planung ist). Der Professor
-möchte damit auf 18 Meter hinaus.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_03/openarea.jpg&#34; alt=&#34;Open Space&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Nachdem ich den Programmcode kopiert habe, bin ich froh wieder draußen zu sein.
-Der Raum mit dem Computer wird per Klimaanlage auf 18 Grad runter gekühlt, damit
-die Server, die für die Projektion zuständig sind, nicht überhitzen. Zum Glück
-scheint die Sonne.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_03/me.jpg&#34; alt=&#34;Ich in der Sonne&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ich schaue noch kurz im Labor vorbei. Im Eingang steht das Exoskelett wegen dem
-mein Studienprogramm an dieser Uni überhaupt existiert. Ganz nebenbei hat es den
-Professor der es erfunden hat zum Multimillionär gemacht. Getroffen habe ich
-Herrn Sakai bislang aber noch nicht.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_03/hal.jpg&#34; alt=&#34;Exoskelett&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Nach dem Abendessen und zwei Folgen Breaking Bad mit Chun Kwang, verbringe ich
-den restlichen Abend mit Literaturrecherche. Da das Whiteboard im
-Gemeinschaftsraum sonst selten genutzt wird, schreibe ich alles was ich für
-wichtig halte auf. Gegen 1 Uhr bin ich ins Bett gegangen. Das Whiteboard hab ich
-so gelassen. Dann kann ich an einem der kommenden Abende noch daran weiter
-arbeiten.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_03/brainstorming.jpg&#34; alt=&#34;Mindmap&#34; /&gt;&lt;/p&gt;
 </description>
       </item>
       
