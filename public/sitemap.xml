@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_05_19_hayfever/</loc>
+    <lastmod>2017-05-19T23:35:12+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_05_18_work/</loc>
     <lastmod>2017-05-18T14:45:00+09:00</lastmod>
   </url>
@@ -287,7 +292,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-05-18T14:45:00+09:00</lastmod>
+    <lastmod>2017-05-19T23:35:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -299,7 +304,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-05-18T14:45:00+09:00</lastmod>
+    <lastmod>2017-05-19T23:35:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
