@@ -8,8 +8,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Tue, 23 May 2017 01:08:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 00:51:12 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Arbeitspensum steigt langsam</title>
+        <link>/posts/2017_05_24/</link>
+        <pubDate>Wed, 24 May 2017 00:51:12 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_24/</guid>
+        <description>&lt;p&gt;Heute Vormittag war ich von 9 Uhr bis zum Mittagessen um halb 12 im Labor. Ich
+habe meinen monatlichen Fortschrittsbericht fertig gemacht und abgegeben.
+Außerdem habe ich eine neue Grafikkarte für meine PC in der Uni bestellt, weil
+die alte Karte von der neuen Software für die &lt;a href=&#34;https://www.oculus.com/rift/&#34;&gt;Oculus Rift&lt;/a&gt; leider nicht mehr
+unterstützt wird. Das muss ich zum Glück nicht selbst bezahlen, die 500 Euro hab
+ich nicht mal eben so :D&lt;/p&gt;
+
+&lt;p&gt;Nach dem Mittagessen habe ich 4 Vorträge gehört. Der Erste war von einem
+Professor der sich mit dem Schutz von kritischer Infrastruktur vor verheerenden
+Erdbeben und Tsunamis beschäftigt. Die anderen drei Vorträge werden von
+Post-Doktoranden gehalten die ihre aktuellen Arbeiten vorstellen. Das erste
+Projekt nennt sich das dritte Auge. Das Ziel dieses Projektes ist es den
+Mona-Lisa Effekt bei Videokonferenzen zu verringern. Egal aus welchem
+Blickwinkel man den Bildschirm mit seinem Gegenüber betrachtet, es sieht immer
+so aus als ob man angeschaut wird. Durch Eye Tracking (das verfolgen der
+Blickrichtung der Augen) können zusätzliche Daten übermittelt werden die in Form
+eines Auges auf dem Bildschirm dargestellt werden. Ist etwas schwierig zu
+erklären. Am Besten einfach im Video anschauen ;)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/zp4oxv7NhLA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Im dritten Vortrag wurde uns von den Fortschritten und Problemen bei der
+Fertigstellung der Software zur Steuerung der Projektoren im Large Space
+berichtet. Nicht ganz so spannend, jedenfalls solange es nicht funktioniert,
+weil ich nichts dazu zeigen kann. Beim letzten Vortrag ging es um einen
+Badeanzug, der mit Sensoren ausgestattet ist, um beim Schwimmtraining zu helfen
+und dem Träger durch Vibration und akustische Signale Feedback zu seiner
+Schwimmtechnik zu geben. Das ist aber wohl eher für Leute gedacht die schon
+Schwimmen können&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Für die nächste Stunde am Donnerstag in zwei Wochen dürfen wir alle einen
+Mini-Vortrag zu unseren Forschungsthemen vorbereiten. Da kommt eine Dozentin aus
+Kyoto die unsere Ideen bewerten und uns Ratschläge dazu geben soll.&lt;/p&gt;
+
+&lt;p&gt;Jetzt muss ich wieder zum Ende kommen. Es ist wieder halb 1 und ich hab Morgen
+um 8:40 Uhr wieder Unterricht. Gute Nacht :)&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -772,74 +825,6 @@ Glas Ingwerlimonade getrunken :)&lt;/p&gt;
 Literatur lesen und Wäsche will ich auch waschen. Das wird dann wohl den
 Vormittag füllen. Für heute (es ist schon wieder nach 0 Uhr) mach ich das Licht
 aus.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gruppenrunde und Laboraustausch</title>
-        <link>/posts/2017_05_08_/</link>
-        <pubDate>Mon, 08 May 2017 08:46:22 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_05_08_/</guid>
-        <description>&lt;p&gt;Heute wäre ich beinahe zu spät zum wöchentlichen Arbeitsgruppentreffen gekommen.
-War doch ziemlich spät gestern. So langsam fühle ich auch was von meinem
-Heuschnupfen. Das Graß rund ums Haus ist bald 30 cm hoch und steht kurz vor der
-Blüte. Mal sehen wie schlimm es wird.&lt;/p&gt;
-
-&lt;p&gt;Im wöchentlichen Treffen stehen 4 Vorträge auf dem Programm. Eigentlich sollen
-alle versuchen in Englisch vorzutragen, aber heute gibt es bis auf den letzten
-Vortrag nur Japanisch. Der erste stellt seine Arbeit an einem Dialog basierten
-Make-Up System für visuell beeinträchtigte Personen vor. Das Gerät sieht aus wie
-ein Spiegel über dem eine Kamera hängt. Es werden Fotos vom Gesicht gemacht,
-während LEDs am Rand ihre Farbe wechseln. Mit Hilfe der verschiedenfarbigen
-Fotos kann das System dann die Verteilung und Sauberkeit des aufgetragenen
-Make-Ups bewerten. Der zweite Vortragende berichtet über seine Versuche mit
-verschiedenen Elektroden um eine Unterarmprothese mit Muskelsignalen des
-Oberarms zu steuern. Mehr hab ich davon leider nicht verstanden. Nach einer
-kurzen Pause, in der ich endlich frühstücke, geht es mit den anderen beiden
-Vorträgen weiter. Der dritte Vortrag ist über einen Roboter mit dem man in einem
-festgelegten Spielfeld fangen spielen kann. Der Roboter verfolgt die Spieler im
-Spielfeld und bekommt von zwei, neben dem Spielfeld aufgestellten, Kameras
-Informationen über die eigene Position und die aller Spieler im Feld. Die
-Spieler im Beispielvideo scheinen großen Spaß zu haben :D Den letzten Vortrag
-hält Joana, die eine Veröffentlichungen über spielerische Gesundheitschecks bei
-Kindern vorstellt. Die Autoren nutzen drei mit Sensoren ausgestattete Würfel auf
-deren Seiten Bilder zur Geschichte der drei kleinen Schweinchen gedruckt sind.
-Die Würfel sind in die Geschichte integriert und so muss das Kind zum Beispiel
-in einen Sensor pusten, wenn der Wolf die Hütten wegpustet oder den Würfel fest
-drücken, wenn sich die drei Schweinchen vor Angst festhalten. So können
-verschiedene Gesundheitsdaten, wie zum Beispiel das Lungenvolumen, die
-Temperatur, der Puls und der Sauerstoffgehalt im Blut der Kinder erfasst werden.
-Beim Vergleich dieser Untersuchung mit einer konventionellen Untersuchung beim
-Arzt zeigte sich, dass die Kinder entspannter sind und aktiver an der
-Untersuchung teilnehmen. Pünktlich um halb 12 sind wir fertig und können alle
-zum Mittagessen gehen.&lt;/p&gt;
-
-&lt;p&gt;Nach dem Mittagessen sitze ich 2 Stunden im Labor und überlege weiter woran ich
-genau Forschen will. Das ist aber alles noch nicht so ausgegoren. Um kurz vor 3
-muss ich aufhören und für meinen Austausch mit einer anderen Arbeitsgruppe zur
-Fakultät für Verhaltens- und Neurowissenschaften laufen. Da ich von dem
-Professor keine Antwort auf die Frage des Orts bekommen habe, frage ich seine
-Sekretärin. Sie spricht selbst leider kein Englisch und versteht nur die Hälfte
-von dem was ich sage, aber ich bin mit Japanisch auch nicht besser. Irgendwie
-haben wir es dann noch hinbekommen und ich komme gerade rechtzeitig zur
-Gruppenrunde. Die Arbeitsgruppe besteht nur aus 10 Leuten, deswegen sitzen wir
-in einem kleinen Kreis um einen Fernseher auf dem die Vortäge gezeigt werden.
-Die Themen sind so ganz anders als bei den Ingenieuren in meiner Gruppe. Es geht
-um das Messen von Empathie bei Kindern, die objektive Bewertung von ästhetischem
-Vergnügen (ich weiß nicht ob ich das richtig übersetzt habe: aesthetic pleasure)
-und wie man den Menschen Schutzimpfungen mit einer Kampange schmackhaft machen
-kann. Wie auch in der Arbeitsgruppe für Bildverarbeitung und Maschinelles Lernen
-werde ich 4 Wochen lang zu deren Treffen am Montag gehen, um deren Forschung
-kennen zu lernen und eventuell einen neuen Blick auf mein eigenes
-Forschungsthema zu finden. Jedenfalls muss ich nach den 4 Wochen einen kurzen
-Vortrag darüber halten, was ich dort gelernt habe und wie ich es anwenden kann.&lt;/p&gt;
-
-&lt;p&gt;Morgen hab ich außer dem Japanisch Kurs am Nachmittag keinen Unterricht. Heißt
-ich kann ein paar Botengänge (zur Post, zur Bank und zum EMP Sekretariat)
-erledigen.&lt;/p&gt;
 </description>
       </item>
       
