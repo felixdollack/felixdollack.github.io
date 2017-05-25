@@ -8,8 +8,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Wed, 24 May 2017 00:51:12 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 00:11:35 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Sensornetzwerke und Debattieren</title>
+        <link>/posts/2017_05_26/</link>
+        <pubDate>Fri, 26 May 2017 00:11:35 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_26/</guid>
+        <description>&lt;p&gt;Donnerstag morgen beginnt der Unterricht immer um 8:40 Uhr. Heute bin ich 20
+Minuten früher dran und kann zusätzlich zu meinem Frühstück noch einen kleinen
+Snack aus dem Cafe in der Mensa holen.&lt;/p&gt;
+
+&lt;p&gt;Im Unterricht geht es um drahtlose Sensornetzwerke. Das sind mindestens 2 Geräte
+die mit Sensoren, zum Beispiel für Temperatur, Luftdruck und Luftfeuchtigkeit
+ausgestattet sind. Zusätzlich haben die Geräte ein Funkmodul (Bluetooth, WLAN,
+Radiotransmitter), um ihre Daten untereinander auszutauschen und gegebenenfalls
+an eine Sammelstelle zu senden.&lt;/p&gt;
+
+&lt;p&gt;In den letzten 20 Jahren hat sich das Klima in Japan stark verändert und so gibt
+es im Hochsommer in Tokyo immer wieder lokale, heftige Regenschauer, die sich
+mit den herkömmlichen Wetterdaten nicht vorhersagen lassen. Um in Erfahrung zu
+bringen, wann, wo und eventuell warum der Regen genau dort fällt, sind in Tokyo
+alle Taxis zu einem drahtlosen Sensornetzwerk zusammengeschlossen. Wenn es
+regnet benutzen die Fahrer ihre Scheibenwischer. Mit der Intensität des Regens,
+nimmt auch die Wischfrequenz zu. Diese Daten, als auch die aktuelle GPS-Position
+des Wagens werden übermittelt. Auf diese Weise kann gemessen werden, wo es wann
+wie stark geregnet hat. Über die Zeit ergibt sich möglicherweise ein Muster aus
+dem Maßnamen zur Abschwächung der starken Regenfälle in der Stadt abgeschätzt
+werden können (Ergebnisse wurden uns leider keine gezeigt).&lt;/p&gt;
+
+&lt;p&gt;Ein anderes Beispiel ist das Projekt &lt;a href=&#34;http://www.argo.ucsd.edu&#34;&gt;ARGO&lt;/a&gt;. 30 Länder der Welt haben derzeit knapp 4000 Bojen in die Weltmeere geschickt um die Temperatur, den Salzgehalt und die Flussgeschwindigkeit des Meeres von der Oberfläche bis zu einer Tiefe von 2000 Metern zu erfassen und so die Auswirkungen des Klimawandels auf das Meer zu beobachten. Auf der Weltkarte sieht das ungefähr so aus:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.argo.ucsd.edu/statusbig.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ich finde diese Art der Datenerfassung super spannend. Das beste ist, Jeder kann auf diese Daten zugreifen.&lt;/p&gt;
+
+&lt;p&gt;Nach dem Mittagessen bin ich für ein kurzes Schläfchen ins Labor gegangen und habe mich mich 15 Minuten auf ein Sofa gelegt. Danach bin ich zum Debattierunterricht gegangen. Dieser Unterricht dauert immer ewig (kurz vor 2 bis 6 Uhr Abends). Das aktuelle Thema ist die Frage ob sich Japan an Militärrobotern forschen soll. Heute hatten wir eine sehr anstrengende und harte Diskussion, wobei wir in Teams von 4 Leuten eingeteilt waren. Der Dozent war über das Diskussionslevel sehr überrascht und ich glaube auch etwas erfreut. Man hat ihm angesehen, wie viel Spaß er hatte den heutigen Unterricht zu halten :D&lt;/p&gt;
+
+&lt;p&gt;Weil wir am Ende ziemlich hungrig waren, sind wir in einer kleinen Gruppe von 6 Leuten noch Essen gegangen.
+Ich habe mich zur Abwechslung mal gegen was frittiertes und stattdessen für ein etwas gesünderes Stück Fisch entschieden und habe 3 Schüsseln Reis gefuttert, weil das Nachfassen umsonst war.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/static/img/2017_05_26/dinner.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Morgen früh startet der Kurs Grundlagen des maschinellen Lernens. Der Kurs beginnt ebenfalls um 8 Uhr. Am Nachmittag habe ich dann noch japanisch Unterricht, bevor ich ins Wochenende starten kann. Diesmal habe ich mir keinen Ausflug vorgenommen, da ich demnächst ein paar kleinere Vorträge halten muss, die ich gerne schon vorbereiten möchte. Vielleicht gehe ich an einem Tag ins Tsukuba Expo Zentrum, um mir eine Ausstellung anzusehen. Werde ich etwas davon abhängig machen, wie weit ich mit den Vorträgen komme.&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -766,65 +815,6 @@ hab ich aber trotzdem nicht. Ich bin gerade aber auch ziemlich unstrukturiert.&l
 &lt;p&gt;Am Freitag werde ich mich mal hinsetzten und aufschreiben, Was ich Wann zu
 erledigen habe. Morgen habe ich zwei lange Vorlesungen. Eine am Morgen und eine
 am Nachmittag. Die am Nachmittag soll 3 Stunden dauern. Na ich hoffe nicht &amp;hellip;&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Training und japanisch-mexikanisches Abendessen</title>
-        <link>/posts/2017_05_09_practise/</link>
-        <pubDate>Tue, 09 May 2017 20:24:17 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_05_09_practise/</guid>
-        <description>&lt;p&gt;Ich verstehe nicht warum ich immer so früh aufwache, wenn ich eigentlich nichts
-zu tun habe. Naja egal, ist eben so. Nach der Morgenwäsche und dem Frühstück
-fahre ich mit meinem Fahrrad in die Stadt zur Postbank. Die Verwaltung hat mir
-einen Brief mit einem Formular geschickt, dass ich dort ausgefüllt wieder
-abgeben muss. Die Sachbearbeiterin erinnert sich zum Glück noch an mich und so
-muss ich nicht erst versuche mich auf japanisch verständlich zu machen. Ich
-dachte immer Deutschlands Beamte sind pingelig, aber Japan toppt das glaube ich
-noch. Das Problem mit dem Formular war, dass ich beim ersten mal ausfüllen, als
-ich mein Konto eröffnet habe, das K von Benedikt leicht über die Umrandung des
-Formulars geschrieben habe. Als das erledigt ist, überweise ich noch die Miete
-für diesen Monat und mache mich auf den Weg zurück ins Wohnheim.&lt;/p&gt;
-
-&lt;p&gt;Vor dem Mitagessen, zu dem ich an der Uni gehen will, kann ich ein Zertifikat
-aus dem Sekrätariat abholen das die Annerkennung der Fächer aus dem
-Masterstudium bestätigt. Weil ich gerade da bin, werde ich auch gleich als
-Fotomodell entführt. Die Verwaltung will neue Flyer und Broschüren drucken und
-braucht neue unverbrauchte Gesichter. Da komme ich ihnen gerade recht.&lt;/p&gt;
-
-&lt;p&gt;Nach dem Mittagessen (wen es interessiert, es gab Curry) bin ich zum
-Japanischunterricht geradelt. Es geht alles so viel schneller mit dem Fahrrad.
-Im Unterricht haben wie heute i-Adjektive (es gibt noch na-Adjektive) behandelt.
-Danach bin ich zurück zum Labor. Wir haben uns für 17 Uhr zum Völkerball
-verabredet. Am Wochenende ist Sportfest und unser Labor hat ein Team für
-Völkerball angemeldet. Wir haben 1 Stunde lang gespielt und hatten viel Spaß.
-Das hat mich ein bisschen an Sportunterricht erinnert :D&lt;/p&gt;
-
-&lt;p&gt;Nach dem Training bin ich mit Karlos (Australier) Abendessen gegangen. Wir haben
-ganz in der Nähe der Universität eine kleine Bar Namens 4bar gefunden. Die
-Einrichtung war etwas rustikaler als alles was ich bislang gesehen habe und der
-Besitzer scheint Rennräder zu mögen oder selbst zu fahren.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_09/4bar.jpg&#34; alt=&#34;4Bar&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Das Essen war super lecker. Ich hatte Taco-Reis. Taco war aber keiner im Essen.
-Das ist wohl eher, um dem Essen einen mexikanischen Namen zu verleihen. Die
-Basis des Gerichts ist Reis, wer hätte das gedacht. Darüber verstreut ist Salat,
-feine Karotten- und Käsestreifen sowie Salat. Der erste echte Salat den ich in
-Japan gegessen habe. Alles was sonst als Salat verkauft wird, ist in
-Wirklichkeit gehobeltes Weißkraut. Um das Essen abzurunden ist oben drauf ein
-Klecks Tomatensalsa und am Rand eine Avocado aufgeschichtet. Dazu hab ich ein
-Glas Ingwerlimonade getrunken :)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_09/tacorice.jpg&#34; alt=&#34;Mein Abendessen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Morgen hab ich ab dem Mittagessen wieder Vorlesung. Dafür muss ich noch
-Literatur lesen und Wäsche will ich auch waschen. Das wird dann wohl den
-Vormittag füllen. Für heute (es ist schon wieder nach 0 Uhr) mach ich das Licht
-aus.&lt;/p&gt;
 </description>
       </item>
       
