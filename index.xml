@@ -8,8 +8,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Sun, 28 May 2017 20:51:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 21:58:57 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Eine neue Woche beginnt...</title>
+        <link>/posts/2017_05_29/</link>
+        <pubDate>Mon, 29 May 2017 21:58:57 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_29/</guid>
+        <description>&lt;p&gt;&amp;hellip; mit Montag. Wie jede Woche beginnt der Tag mit der Gruppenrunde im Labor.
+Heute kann ich mich irgendwie nicht dazu bewegen den Vorträgen zu folgen. Erst
+am Ende werde ich aus meiner Geistesabwesenheit gerissen, als ich mit meinem
+Fortschrittsbericht an der Reihe bin. Viel zu berichten gibt es allerdings
+nicht. Ich habe Hausaufgaben gemacht und Lua als neue Programmiersprache für
+mich entdeckt. Wen es interessiert, der kann &lt;a href=&#34;https://www.lua.org/start.html#what&#34;&gt;hier&lt;/a&gt; mehr über die Sprache lesen.&lt;/p&gt;
+
+&lt;p&gt;Nach der morgentlichen Runde gehen alle zum Mittagessen in die Mensa. Danach
+drucke ich im Labor ein Schreiben des Finanzamts aus, die noch eine Unterschrift
+und Beleg von mir haben wollen.&lt;/p&gt;
+
+&lt;p&gt;Um dreiviertel 2 bin ich zu einer Vorlesung zum Thema neurobiologische Basis von
+Erinnerung and Lernen gegangen. Der Dozent hat in wunderbarem Englisch verkündet,
+dass er die Vorlesung leider auf Japanisch halten muss -.-
+Ich habe glaube ich den eigentlichen Punkt der Volesung nicht verstanden.
+Mitbekommen habe ich, dass er zwei bekannte Experimente zu Erinnerung und Lernen
+erklärt hat. Das eine wird (aus dem Englischen übersetzt) Wasserlabyrinth
+genannt. Dabei befindet sich eine Platform unter der Wasseroberfläche eines
+Pools mit trübem Wasser. In dem Experiment werden Mäuse im Wasser ausgesetzt.
+Nachdem die Mäuse gelernt haben wo sich die lebensrettende Platform befindet,
+wird ihnen ein Mittel gespritzt, dass bestimmte Rezeptoren im Gehirn blockiert,
+was sich zum Beispiel wie Altsheimer auswirkt. Das Experiment wird wiederholt,
+woraufhin die Mäuse länger brauchen um die Platform, die sie eigentlich kennen
+sollten, zu finden. Obwohl das thematisch schon spannend ist, musste ich mir
+alle Mühe geben nicht einzuschlafen. Das passiert mir immer in diesem
+Vorlesungsraum. Nach nur 20 Minuten fange ich an zu gähnen und mir fallen die
+Augen zu. Morgen hab ich dort wieder Vorlesung. Ich werde mal anregen die Tür
+offen zu lassen, vielleicht hilft das.&lt;/p&gt;
+
+&lt;p&gt;Ganz nebenbei scheint nach langem Forschen und einigen Niederlagen durch Zufall
+ein mögliches Mittel gegen &lt;a href=&#34;http://www.deutschlandfunk.de/alzheimer-arznei-koennte-symptome-rueckgaengig-machen.676.de.html?dram:article_id=385132&#34;&gt;Alzheimer&lt;/a&gt; gefunden geworden zu sein.&lt;/p&gt;
+
+&lt;p&gt;Nach der Vorlesung bin ich mit Floris, Karlos und Chun Kwang in Ali&amp;rsquo;s Kebab Haus
+zum Abendessen gewesen. Es gab Döner im Angebot, aber ich habe mir für indischen
+Reis und Naan Brot entschieden. Döner kann ich mir wann anders auch noch essen.&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -667,78 +715,6 @@ Pendel im inneren der Gebäude verbaut, welche die Schwingungen aufnehmen sollen
 Das kann dann zum Beispiel so aussehen:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_15/structure.jpg&#34; alt=&#34;Erdbebensicheres Bauen&#34; /&gt;&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Seminar Marathon</title>
-        <link>/posts/2017_05_15_seminars/</link>
-        <pubDate>Mon, 15 May 2017 13:40:20 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_05_15_seminars/</guid>
-        <description>&lt;p&gt;Heute morgen ist statt unserem üblichen wöchentlichen Seminar die Vorstellung
-der Projekte, welche die Bachelor- und Masterstudenten in den letzten 6 Wochen
-umgesetzt haben. Dafür treffen wir uns im Large Space.&lt;/p&gt;
-
-&lt;p&gt;Das erste Projekt nennt sich &lt;em&gt;Drone Fishing&lt;/em&gt;. Man braucht mindestens 2 Personen.
-Eine Person steuert durch Handbewegungen eine Drone und die Andere trägt einen
-Hut an dem Klettband befestigt ist. An der Drone hängt ein Haken der ebenfalls
-mit Klettband umwickelt ist. Das Ziel ist es die Drone über die Person zu
-steuern und den Hut zu angeln. Die Steuerung der Drone sieht einfach aus, stellt
-sich allerdings als schwierig für ungeübte Nutzer heraus. Aber hat Spaß gemacht
-und die Idee ist lustig.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/drone.jpg&#34; alt=&#34;Drone Fishing&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Das zweite Projekt ist &lt;em&gt;Space Drawing Ball&lt;/em&gt;. Dafür hat die Gruppe einen
-riesengroßen Wasserball mit reflektierendem Material beklebt, so dass die
-Bewegungssensoren im Large Space seine Position bestimmen können.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/space.jpg&#34; alt=&#34;Space Drawing Ball&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Für die Präsentation der dritten Gruppe gehen wir ins Freie. Alle
-Gruppenmitglieder tragen einen schwarzen Anzug und dunkle Sonnenbrillen. Sie
-sehen aus wie die Man in Black. Einer der drei öffnet einen Aluminiumkoffer, wie
-bei einem zwielichtigen Geschäft in einem Action Film. Darin befindet sich eine
-&amp;ldquo;Waffe&amp;rdquo;. Der &lt;em&gt;Color Blaster&lt;/em&gt;. Im Lauf des Blasters ist eine Kamera versteckt. An
-der Seite befinden sich LEDs die eine Farbe anzeigen auf die gezielt werden
-muss. Beim Drücken des Auslösers wird ein Foto aufgenommen und die Farbe im
-Zentrum des Bildes bestimmt. Hat man die Farbe getroffen, wechseln die LEDs zur
-nächsten Farbe. Beim Drücken des Auslösers und dem Treffen einer Farbe (richtig
-oder falsch) ertönen Soundeffekte. Wir haben alle großen Spaß beim ausprobieren.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/blaster.jpg&#34; alt=&#34;Color Blaster&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Für die letzten 2 Projekte gehen wir in unser Labor. Gruppe Vier hat einen
-kleinen Roboter Namens &lt;em&gt;Kuzurobo&lt;/em&gt; (jap. kuzu = Trümmer) gebaut, der Müll vom
-Zimmerboden sammeln soll. Für den Fall, dass der japanische Student zu sehr mit
-lernen beschäftigt ist und zum Beispiel seine Taschentücher nicht zum Mülleimer
-tragen will, ruft er per Handy seinen Roboter, welcher die Taschentücher dann
-vom Boden aufsammelt. Der Roboter ist die weiße Box auf dem Gruppenfoto.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_15/teams.jpg&#34; alt=&#34;Alle Gruppen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Die letzte Gruppe hatte die Aufgabe mit einem &lt;em&gt;Zauberstab&lt;/em&gt; (à la Harry Potter)
-eine Aktion auszuführen. Letztendlich ist der Zauberstab nur noch Show. Die
-eigentliche Aktion wird durch die Bewegung des Nutzers, welche mit einer 3D
-Kamera aufgezeichnet wird, ausgelöst. In diesem Fall ist es das Entriegeln einer
-magischen Schatztruhe (von der ich eleider kein gutes Foto habe).&lt;/p&gt;
-
-&lt;p&gt;Um 12 sind wir mit den Präsentationen fertig und gehen zum Mittagessen in die
-Mensa. Danach gebe ich ein Zertifikat über die erfolgreiche Teilnahme an der
-Aufklärung, wie ich mich im Universitätsnetzwerk zu verhalten habe, im
-Sekretariat ab. Von 13 Uhr bis 15 Uhr lausche ich dem Arbeitsgruppentreffen von
-Prof. Fukui und danach fahre ich zum Labor Prof. Yamanaka. Dort ist heute zwar
-kein Gruppentreffen, aber ich möchte ein paar Sachen nachlesen und muss noch
-eine Hausaufgabe für den Diskussionskurs fertig machen.&lt;/p&gt;
-
-&lt;p&gt;Am Abend treffen wir uns um 19 Uhr zum Feiern der erfolgreich abgeschlossenen
-Projektarbeiten in einem Okonomiyaki Restaurant. Okonomiyaki lässt sich schlecht
-übersetzen, deswegen schicke ich euch für eine Erklärung besser zu &lt;a href=&#34;https://de.wikipedia.org/wiki/Okonomiyaki&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- Links: --&gt;
 </description>
       </item>
       
