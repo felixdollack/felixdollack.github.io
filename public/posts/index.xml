@@ -8,8 +8,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Tue, 30 May 2017 22:25:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 21:39:25 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Interessante Vorträge und PC Probleme die es nicht geben dürfte</title>
+        <link>/posts/2017_05_31/</link>
+        <pubDate>Wed, 31 May 2017 21:39:25 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_05_31/</guid>
+        <description>&lt;p&gt;Heute habe ich den ganzen Vormittag damit zugebracht einen Report zur naiven
+Bayes Klassifikation zu schreiben. Statistik ist ja so gar nicht mein Ding. Das
+Mittagessen habe ich ausgelassen und bin direkt zur Vorlesung.
+Zunächst hat ein Professor aus dem Bereich Social Robotics vorgesprochen. Eine
+seiner Arbeiten war unter anderem, das Lernverhalten von Kindern zu untersuchen,
+die Unterricht mit einem ungezogenen Roboter besuchen. Fazit ist, die Kinder
+korrigieren das Verhalten des Roboters und lernen dabei selbst viel mehr als
+ohne den Roboter.&lt;/p&gt;
+
+&lt;p&gt;Danach hat Nicolas Schweighofer (in keinster Weise verwandt mit dem deutschen
+Schauspieler) aus Kalifornien referriert. Er ist eigentlich Franzose und hat
+klassischen Maschinenbau studiert, kam dann aber in Kontakt mit Statistik und
+Computersimulationen und ist jetzt ein führender Wissenschaftler im Bereich der
+Neuro-Rehabilitation. Er erforscht und modelliert die Rehabilitationsdauer, den
+-erfolg und weitere Faktoren bei Patienten die nach einem Schlaganfall wieder
+die Kontrolle über ihre Bewegungen erlernen müssen.&lt;/p&gt;
+
+&lt;p&gt;Als der Unterricht um 15 Uhr endlich vorbei ist, hole ich mir etwas Gebäck aus
+der Cafeteria und gehe ins Labor. Ich leihe mir den PC von Issei, um zu sehen
+ob meine Grafikkarte da rein passt. In meinem PC-Gehäuse ist nämlich so ein ka*k
+Blech genau an der Stelle eingebaut, wo eine große Grafikkarte Platz braucht.
+Vielen Dank für gar nichts Dell. Die Karte passte in Isseis PC, aber das
+Netzteil seines Computers war mit nur 450 Watt leider zu schwach. Deswegen habe
+ich mir ein 750 Watt Netzteil und ein größeres Gehäuse bestellt, damit ich bald
+einen eigenen PC zum Arbeiten habe und endlich mit dem Folgeexperiment aus
+meiner Masterarbeit anfangen kann.&lt;/p&gt;
+
+&lt;p&gt;Morgen geht der Juni los. Das Stipendium ist schon überwiesen, so dass ich
+nächste Woche wieder Miete bezahlen und lecker Essen gehen kann :D
+Außerdem muss ich Morgen zwei kurze Vorträge halten. Einen in Kunst und
+Technologie, über meine bisherigen Arbeiten im Studium und den Anderen in Smart
+Human Sensing, wo wir uns eine Anwendung von Sensornetzwerken in der Universität
+überlegen sollten. Ich werde die Mensa vorschlagen, nachdem es Mittags nicht so
+einfach ist einen Platz zu finden. Nachdem es mehrere Mensen gibt, wäre es nett
+zu wissen, wie viele Plätze noch frei sind und ob sich der Weg zu einer anderen
+Mensa auch lohnt. Mal sehen wie das ankommt&amp;hellip; :)&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -706,54 +753,6 @@ gestellt wurde, neu zu formatieren, nach Bauteilen für das Projekt meiner Grupp
 gesucht und gemeinsam mit Karlos an einigen Ideen gesponnen. Karlos hat nächste
 Woche etwas Luft, daher haben wir beschlossen gemeinsam eine unserer Ideen zum
 Leben zu erwecken. Was genau wird noch nicht verraten :P&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Projekt</title>
-        <link>/posts/2017_05_16_pbr/</link>
-        <pubDate>Tue, 16 May 2017 21:42:22 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_05_16_pbr/</guid>
-        <description>&lt;p&gt;Heute habe ich mich wieder mit meiner Projektgruppe (Yuta und Minatsu) zum
-Brainstormen getroffen. Wir konnten uns endlich auf ein Thema einigen. Wer
-werden, angelehnt an alte Arcade Games, einen Space Shooter basteln. Da das
-Programmieren des Large Space anspruchsvoll scheint, greifen wir bei den
-Grafiken vorerst auf vorhandenes Material zurück, das wir bei &lt;a href=&#34;http://www.kenney.nl&#34;&gt;Kenney&lt;/a&gt; gefunden
-haben. Das könnte dann so aussehen:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_05_16/sample.png&#34; alt=&#34;Space Shooter&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Das Ziel des Spiel wird es sein, dass gegnerische Raumschiff zu zerstören.
-Um ein Raumschiff zu steuern, werden 2 Personen nötig sein. Insgesamt spielen
-also 4 Spieler gleichzeitig. Um das Schiff über das Spielfeld zu bewegen, müssen
-die beiden Spieler am Rand des Spielfelds auf und ab laufen. Durch Armbewegungen
-(welche genau, müssen wir uns noch überlegen) kann das Schiff gedreht werden.
-Klatschen die Spieler in die Hände oder stampfen sie mit den Füßen, feuert das
-Schiff Laserstrahlen ab. Für den Fall, dass es beide Spieler irgendwie
-hinbekommen sollten ihren Herzschlag aneinander anzupassen und in einem gewissen
-Bereich zu halten wird ein Spezialangriff ausgelöst. Das dürfte allerdings nicht
-so einfach werden, da man sich bei dem Spiel ja sportlich betätigen muss.
-Immerhin hat der Large Space eine Größe von 15 mal 23 Metern.&lt;/p&gt;
-
-&lt;p&gt;Jeder Spieler bekommt ein tragbares Gerät (wahrscheinlich ein Handschuh), das
-mit Sensoren ausgestattet ist und einen kleinen Clip an den Schuh, um das
-Stampfen zu detektieren. Auf dem Gerät werden auch Vibrationsmotoren sein, um
-dem Spieler anzuzeigen, wenn das Schiff getroffen wurde, entweder vom
-gegnerischen Laser oder Asteroiden bzw. Weltraumschrott (wir sind uns noch nicht
-über die Details im Klaren, aber was davon wir letztendlich umsetzen, wird davon
-abhängen wie gut wir vorankommen).&lt;/p&gt;
-
-&lt;p&gt;Anfang Juni treffen wir uns wieder. Bis dahin wollen wir eine Liste mit den
-benötigten Teilen anfertigen, uns erkundigen wie der Bestellvorgang über die Uni
-läuft, sowie ein einfaches Beispiel der Spielmechanik und eine Designidee des
-tragbaren Geräts haben.&lt;/p&gt;
-
-&lt;p&gt;Ich bin schon gespannt, was wir aus der Idee machen werden :)&lt;/p&gt;
-
-&lt;!-- Links: --&gt;
 </description>
       </item>
       
