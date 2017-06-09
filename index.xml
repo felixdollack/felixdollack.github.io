@@ -8,8 +8,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Thu, 08 Jun 2017 22:56:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 15:30:31 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Trockene Regenzeit und Vorbereitungen für Forschung</title>
+        <link>/posts/2017_06_09/</link>
+        <pubDate>Fri, 09 Jun 2017 15:30:31 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_06_09/</guid>
+        <description>&lt;p&gt;Am Vormittag hatte ich wieder Unterricht in maschinellem Lernen und anschließend
+war ich mit Karlos und Alberto im Cafe Marhaban (wie vor 2 Wochen schonmal).
+Allerdings war das Wetter heute traumhaft und wir konnten draußen sitzen.&lt;/p&gt;
+
+&lt;p&gt;Im Japanischunterricht habe ich erfahren, dass diese Woche die Regenzeit
+begonnen hat. Wobei der Lehrer meinte, dass es unterschiedlich ist. Mal regnet
+es eine Woche ohne Unterlass und mal ist es einfach nur wolkig und man sieht die
+Sonne eine Woche lang nicht wirklich. Das Thema das wir heute im Unterricht
+durchgenommen haben, war wie man sich beim Arzt verständlich macht oder in der
+Apotheke nach der richtigen Medizin fragt. Sowas praktisches hab ich bisher noch
+nicht gelernt (und zum Glück auch nicht gebraucht).&lt;/p&gt;
+
+&lt;p&gt;Nach dem Unterricht bin ich direkt nach Hause. Im Gemeinschaftsraum habe ich
+mehrere Konferenzen rausgesucht, auf denen ich zeitnah (eventuell noch dieses
+Jahr) etwas veröffentlichen kann, da ich bis Anfang nächsten Jahres eine
+internationale Publikation brauche, um weiter in dem Programm an der Uni bleiben
+zu können. Ich möchte das Experiment aus meiner Masterarbeit mit leichten
+Veränderungen nochmal durchführen, aber ich brauche noch das OK aus Deutschland
+von dem Betreuer meiner Masterarbeit. Eventuell arbeitet er auch daran mit, mal
+sehen was er mir auf meine Anfrage antworten wird.&lt;/p&gt;
+
+&lt;p&gt;Am Abend habe ich einen Vortrag für Montag vorbereitet. Ich muss zum Ende des
+Laboraustauschs einen kurzen Vortrag über das Gelernte und wie ich es in meiner
+Arbeit einsetzen kann, halten. Ich nehme diese Gelegenheit war, um der
+Arbeitsgruppe mein kürzlich entdecktes Thema vorzustellen und hoffe auf
+konstruktive Kritik. Leider hab ich darüber etwas die Zeit vergessen und erst
+gegen 23 Uhr zu Abend gegessen :D&lt;/p&gt;
+
+&lt;p&gt;(Mögliches, etwas sinnloses, Anwendungsszenario meiner Arbeit)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.explosm.net/comics/Dave/comicbathroom1.png&#34; alt=&#34;Paralanguage&#34; /&gt;
+(gefunden auf &lt;a href=&#34;http://explosm.net/comics/3172/&#34;&gt;http://explosm.net/comics/3172/&lt;/a&gt;)&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -687,59 +730,6 @@ Ausflug vorgenommen, da ich demnächst ein paar kleinere Vorträge halten muss,
 die ich gerne schon vorbereiten möchte. Vielleicht gehe ich an einem Tag ins
 Tsukuba Expo Zentrum, um mir eine Ausstellung anzusehen. Werde ich etwas davon
 abhängig machen, wie weit ich mit den Vorträgen komme.&lt;/p&gt;
-
-&lt;!-- Links: --&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Arbeitspensum steigt langsam</title>
-        <link>/posts/2017_05_24/</link>
-        <pubDate>Wed, 24 May 2017 00:51:12 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_05_24/</guid>
-        <description>&lt;p&gt;Heute Vormittag war ich von 9 Uhr bis zum Mittagessen um halb 12 im Labor. Ich
-habe meinen monatlichen Fortschrittsbericht fertig gemacht und abgegeben.
-Außerdem habe ich eine neue Grafikkarte für meine PC in der Uni bestellt, weil
-die alte Karte von der neuen Software für die &lt;a href=&#34;https://www.oculus.com/rift/&#34;&gt;Oculus Rift&lt;/a&gt; leider nicht mehr
-unterstützt wird. Das muss ich zum Glück nicht selbst bezahlen, die 500 Euro hab
-ich nicht mal eben so :D&lt;/p&gt;
-
-&lt;p&gt;Nach dem Mittagessen habe ich 4 Vorträge gehört. Der Erste war von einem
-Professor der sich mit dem Schutz von kritischer Infrastruktur vor verheerenden
-Erdbeben und Tsunamis beschäftigt. Die anderen drei Vorträge werden von
-Post-Doktoranden gehalten die ihre aktuellen Arbeiten vorstellen. Das erste
-Projekt nennt sich das dritte Auge. Das Ziel dieses Projektes ist es den
-Mona-Lisa Effekt bei Videokonferenzen zu verringern. Egal aus welchem
-Blickwinkel man den Bildschirm mit seinem Gegenüber betrachtet, es sieht immer
-so aus als ob man angeschaut wird. Durch Eye Tracking (das verfolgen der
-Blickrichtung der Augen) können zusätzliche Daten übermittelt werden die in Form
-eines Auges auf dem Bildschirm dargestellt werden. Ist etwas schwierig zu
-erklären. Am Besten einfach im Video anschauen ;)&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/zp4oxv7NhLA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Im dritten Vortrag wurde uns von den Fortschritten und Problemen bei der
-Fertigstellung der Software zur Steuerung der Projektoren im Large Space
-berichtet. Nicht ganz so spannend, jedenfalls solange es nicht funktioniert,
-weil ich nichts dazu zeigen kann. Beim letzten Vortrag ging es um einen
-Badeanzug, der mit Sensoren ausgestattet ist, um beim Schwimmtraining zu helfen
-und dem Träger durch Vibration und akustische Signale Feedback zu seiner
-Schwimmtechnik zu geben. Das ist aber wohl eher für Leute gedacht die schon
-Schwimmen können&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Für die nächste Stunde am Donnerstag in zwei Wochen dürfen wir alle einen
-Mini-Vortrag zu unseren Forschungsthemen vorbereiten. Da kommt eine Dozentin aus
-Kyoto die unsere Ideen bewerten und uns Ratschläge dazu geben soll.&lt;/p&gt;
-
-&lt;p&gt;Jetzt muss ich wieder zum Ende kommen. Es ist wieder halb 1 und ich hab Morgen
-um 8:40 Uhr wieder Unterricht. Gute Nacht :)&lt;/p&gt;
 
 &lt;!-- Links: --&gt;
 </description>
