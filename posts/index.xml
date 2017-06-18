@@ -8,8 +8,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Fri, 16 Jun 2017 20:02:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 20:05:57 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Botanischer Garten</title>
+        <link>/posts/2017_06_18_botanical_garden/</link>
+        <pubDate>Sun, 18 Jun 2017 20:05:57 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_06_18_botanical_garden/</guid>
+        <description>&lt;p&gt;Ich fasse das Wochenende mal wieder in einem Eintrag zusammen. Gestern (Samstag)
+war nicht viel los. Ich wollte eigentlich arbeiten und ein paar Berichte fertig
+machen. War aber nichts. Am Abend habe ich mit meinen Großeltern geskypt, weil
+die 50sten Hochzeitstag gefeiert haben. Ich hab meine Geschwister, Nichten und
+Onkels alle kurz gesehen und mit meinen Großeltern und einem Becher Orangensaft
+angestoßen :) Das war dann auch schon alles Erwähnenswerte.&lt;/p&gt;
+
+&lt;p&gt;Heute bin ich wieder spät aufgestanden, war aber endlich mal wieder draußen. Von
+14 bis 16 Uhr habe ich den botanischen Garten von Tsukuba erkundet und ein paar
+Fotos gemacht. Die Bilder sind in diesem &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157685103829996&#34;&gt;Album&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_06_18/IMG_3828.jpg&#34; alt=&#34;Botanischer Garten&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Gleich am Eingang steht ein Schild, man solle sich vor Bienen in Acht nehmen.
+2 Minuten später weiß ich was gemeint ist. Die englische Übersetzung war falsch.
+Es sind Hornissen gemeint. Ich bin gerade mal am Anfang des Weges vorbei an ein
+paar Beerensträuchern als mich plötzlich eine Hornisse umkreist. Gruselig groß
+war die. Zum Glück hat sie das Interesse nach 2 Runden verloren und ist davon
+gebrummt. Die Hornisse war bestimmt 7 Zentimeter groß. Für Bilder am Besten mal
+bei Google nach japanischer Hornisse suchen. Ich war nicht in der Stimmung sie
+zu verfolgen und mich am Ende noch für ein Foto stechen zu lassen :P&lt;/p&gt;
+
+&lt;p&gt;Das Geländer des botanischen Gartens ist sehr weitläufig und grob in zwei
+Bereiche eingeteilt. Die Vegetationszonen der Welt und Pflanzen die menschliches
+Leben unterstützen, damit sind Nutzpflanzen gemeint. Außerdem gibt es noch drei
+Gewächshäuser. Ein Großes für Pflanzen des tropischen Regenwalds,&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_06_18/IMG_3801.jpg&#34; alt=&#34;Tropisches Gewächshaus&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ein etwas kleineres für Wasserpflanzen und noch ein Großes für Savannen- und
+Wüstenpflanzen mit vielen Kakteen. Im Tropenhaus war die Temperatur wie draußen
+bei 22 Grad. Aber die Luftfeuchtigkeit lag bei 85 Prozent. Das war kaum zum
+Aushalten.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_06_18/IMG_3806.jpg&#34; alt=&#34;Kakteen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Beim Laufen durch die Anlage habe ich mir viel Zeit gelassen und versucht nicht
+über irgendwelche Abgaben oder Aufgaben nachzudenken. Hat denke ich ganz gut
+funktioniert.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_06_18/IMG_3820.jpg&#34; alt=&#34;Biene&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In den Blumen vor den Gewächshäusern habe ich dann auch noch eine echte Biene
+entdeckt. Vor der muss ich mich zum Glück nicht in Acht nehmen :D&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -549,68 +606,6 @@ es etwas schlecht, obwohl das Wetter durchaus dazu eingeladen hat. Naja nächste
 Wochenende hoffentlich wieder&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Gute Nacht :)&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Neuer alter Computer</title>
-        <link>/posts/2017_06_02/</link>
-        <pubDate>Fri, 02 Jun 2017 23:32:29 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_06_02/</guid>
-        <description>&lt;p&gt;Ich hab es um halb 8 aus dem Bett geschafft und bin zur Machine Learning
-Vorlesung gefahren. Der Unterricht war diesmal etwas interessanter als letzte
-Woche. Wir haben uns mit der Erkennung von handschriftlichen Zahlen beschäftigt.
-Ein Klassiker, wenn man sich zum ersten Mal mit Neuronalen Netzwerken
-beschäftigt. Nach circa 15 Minuten Training von mehr als 50000 handgeschriebenen
-Zahlen ist der Computer in der Lage 95 Prozent der Testdaten richtig zu
-erkennen. Das beste Ergebnis das bislang erzielt wurde, liegt bei 99.79 Prozent
-und übertrifft den Menschen um mehrere Hundert Zeichen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://neuralnetworksanddeeplearning.com/images/mnist_really_bad_images.png&#34; alt=&#34;MNIST&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Meiner Meinung nach sind das in der obere Reihe: 0, 8, 2, 7, 9, 8, 8, 5 und 1.
-Was für eine Sauklaue :D&lt;/p&gt;
-
-&lt;p&gt;Danach durften wir etwas mit einem bereits Trainierten Netzwerk von Google zur
-Bilderkennung spielen. Die Ergebnisse sind zum Teil sehr lustig, wenn man sich
-die Bilder anschaut.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://caffaknitted.typepad.com/.a/6a00e54f8f86dc883401287636e5db970c-800wi&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Der Hund mit einer Papiertüte über dem Kopf wird mit 49 prozentiger Sicherheit
-für ein Vogelhaus gehalten :D&lt;/p&gt;
-
-&lt;p&gt;Nach dem Unterricht war ich in der Mensa zu Mittag essen und bin zum
-Japanischunterricht. Der Lehrer am Freitag legt großen Wert auf Konversation.
-Nach einer kurzen Wiederholung am Anfang, erfragen wir in kleinen Gruppen
-unsere tägliche Routine (Aufstehen, Frühstücken, zum Unterricht bzw. ins Büro
-gehen, etc.).&lt;/p&gt;
-
-&lt;p&gt;Als ich um kurz nach 15 Uhr ins Labor komme, warten bereits zwei Packete auf
-mich. Mein neues PC-Gehäuse und das Netzteil sind angekommen. Nachdem ich den
-Empfang quittiert habe, fange ich an den alten Computer auszuschlachten und
-alles in das neue Gehäuse zu setzten.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_06_02/empty.jpg&#34; alt=&#34;Neues Gehäuse&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Es hat etwas länger Gedauert, da das Motherboard (die große grüne Platte auf dem
-Bild oben) einige Anschlüsse hat, die nicht im Handbuch dokumentiert waren.
-Nachdem ich auch noch das alte Netzteil auseinandergenommen und ein Kabel im
-alten Gehäuse filetiert hatte, wusste ich wie ich die Anschlüsse zu verbinden
-habe. Um 19:10 Uhr war ich mit allem fertig und konnte den Computer erfolgreich
-starten.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_06_02/done.jpg&#34; alt=&#34;Neues Innenleben&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Seit dem Abendessen sitze ich am Schreibtisch in meinem Zimmer und lese
-Veröffentlichungen zur akustischen Klassifizierung von Lachen. Zum Einen, weil
-mein Betreuer mir das vorgeschlagen hat, zum Anderen, weil ich am Montag einen
-Vortrag halten soll und ich noch nicht weiß, was und vor allem worüber ich
-erzählen will. Deswegen werde jetzt noch eine Veröffentlichung zu Ende lesen und
-dann ins Bett gehen. Ist schon wieder so spääät.&lt;/p&gt;
 </description>
       </item>
       
