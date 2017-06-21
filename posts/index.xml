@@ -8,8 +8,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Tue, 20 Jun 2017 22:22:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 01:21:57 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Definition Human Informatics</title>
+        <link>/posts/2017_06_21/</link>
+        <pubDate>Wed, 21 Jun 2017 01:21:57 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_06_21/</guid>
+        <description>&lt;p&gt;Heute hat es geregnet. Den ganzen Tag. Hätte ich mit rechnen können in der
+Regenzeit. Regenzeit heißt aber nicht Monsun. Also keine sturzflutartigen
+Ergüsse. Ganz normaler Regen, wie bei einem kurzen Schauer. Nur eben länger.&lt;/p&gt;
+
+&lt;p&gt;Vormittags habe ich angefangen das Regal aufzubauen. Nach der Hälfte habe ich
+aufgehört. Das Problem jeder Regalboden ist nur ein Gitter und die Füße des
+Kühlschrankes stehen etwas ungünstig auf dem untersten Boden. Ich werde mir zwei
+Latten oder ein dünnes Brett aus dem Baumarkt holen müssen. Wo der ist weiß ich
+ja inzwischen. Mal sehen ob ich das Morgen noch irgendwo unterbringe, oder auf
+nächste Woche verschieben muss. Um 12 Uhr bin ich mit einem Regenschirm zum
+Unterricht zur Uni gelaufen. Alle neuen Studenten (das sind dieses Jahr nur 6)
+haben ihre Definitionen der Hauptbegriffe des Studiengangs vorgestellt und
+anschließend mit den Professoren darüber diskutiert.&lt;/p&gt;
+
+&lt;p&gt;Ich bin im Studiengang Empowerment Informatics und studiere für einen
+Doktortitel in Human Informatics. Empowerment lässt sich ganz gut mit Befähigung
+übersetzen. Informatics hat, anders als ich selbst angenommen habe, nicht
+ausschließlich mit Computern zu tun, sondern meint generelle
+Informationsverarbeitung. Ziel des Studiengangs ist es durch das Analysieren und
+Verstehen von Informationen den Menschen zu befähigen Dinge zu tun. Dabei
+betrachten wir 3 Bereiche. Die Physiologie und den Bewegungsapparat des
+Menschen (z.B. hat er Beine zum Gehen?), seine Funktionen (z.B. kann er alleine
+zur Toilette gehen?) und sein soziales Umfeld (z.B. wird erwartet, dass er
+alleine zur Toilette geht?). Weiterhin lassen sich die Ergebnisse unserer
+Informationsverarbeitung unter 3 Säulen gruppieren. Ergänzung (Supplement),
+Erweiterung (Extension) und Harmonisierung (Harmonization). Mit Ergänzung ist
+die Erhaltung oder Wiederherstellung von Funktionen gemeint (zum Beispiel eine
+Protese für einen Amputierten, aber auch das Anpassen der Umwelt durch den Bau
+einer Rollstuhlrampe). Erweiterung meint das Hinzufügen von neuen Funktionen
+durch Geräte (z.B. zum Beispiel Taucherausrüstung) oder das Verbessern von
+bereits vorhandenen Funktionen (z.B. Laufschuhe um besser bzw. schneller zu
+rennen). Zwischen Ergänzungen und Erweiterungen gibt es Überschneidungen und die
+Definitionen variieren im Einzelfall leicht. Harmonisierung ist am schwersten zu
+erklären, da es nichts physisch Greifbares darstellt. Damit ist die Bedienung
+von Geräten, die Interaktion in beide Richtungen (die Maschinen passen sich
+neuerdings ja an den Nutzer an) und das Gefühl, dass Nutzer und Leute in deren
+Umgebung damit Verbinden gemeint. Ich denke, das habe ich selber noch nicht
+richtig verstanden :)&lt;/p&gt;
+
+&lt;p&gt;Am Abend bzw. in der Nacht habe ich den Report für Machine Learning am Freitag
+fertig gemacht. Und jetzt muss ich schleunigst ins Bett. Es ist schon wieder
+halb 3 in der Nacht :D&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -572,58 +625,6 @@ Mensa. Bevor ich nach Hause bin, hab ich noch Wasser und Toast gekauft, damit
 ich heute Nacht nicht verdursten und Morgen frühstücken kann. Zu Hause
 angekommen, müssen fleißige Helfer unterwegs gewesen sein. Heute früh stand das
 Gras noch einen halben Meter hoch. Abends war alles Gras ums Haus abgemäht :D&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Rauchende Köpfe</title>
-        <link>/posts/2017_06_06/</link>
-        <pubDate>Tue, 06 Jun 2017 23:40:59 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_06_06/</guid>
-        <description>&lt;p&gt;Heute war wieder so ein anstrengender Tag. Den Vormittag habe ich damit
-verbracht, die ganzen Veröffentlichungen zur akustische Detektion von Ironie
-zu lesen. Dabei hat sich in meinem Hinterkopf die Idee zur akustischen Detektion
-von Emotion eingenistet. Ich habe meine Erkenntnisse aus den Veröffentlichungen
-auf einem A4 Blatt zusammengekritzelt und bin um 13 Uhr, nach einem kurzen Stop
-für was zu Essen, zur Diskussionsrunde an die Uni gefahren. Wir haben in 3
-verschiedenen Konstellationen (Pro-Kontra-Richter) insgesamt 2,5 Stunden
-diskutiert. Hat Spaß gemacht, aber war super anstrengend. Die Luft wird in dem
-Raum immer sehr schnell knapp und obwohl die Temperatur draußen mit 21 Grad sehr
-angenehm war, ist der Raum dank unserer rauchenden Köpfe schnell zum Kochtopf
-mutiert :D&lt;/p&gt;
-
-&lt;p&gt;Zwischendurch habe ich in einer kurzen Pause den Ablauf und meine kürzlichen
-Arbeiten für die Besprechung mit meinem Betreuer zusammengefasst. Um kurz nach
-18 Uhr war der Unterricht zu Ende und ich bin zur Besprechung ins Labor. Kenji
-haben meine Ideen zur Erkennung von Ironie und Emotionen gefallen. Er ist auch
-am Erfassen der Sprachgeschwindigkeit (wie viele Wörter pro Minute)
-interessiert. Er meint ich sollte unbedingt mit an die Schule für Spezielle
-Kinder fahren und mir die Einrichtung dort anschauen. In knapp 2 Wochen, an
-einem Samstag, ist der nächste Termin. Ich stimme zu und will gerade meine
-Tasche und den Laptop von meinem Arbeitsplatz holen, als die 3 neuen japanischen
-Masterstudenten Luis (Austausch aus Peru) und mich fragen, ob wir sie zum
-Abendessen begleiten. Da sagt man nicht nein. Wir sind in ein Familienrestaurant
-geradelt, das bei Studenten auf Grund der Preise sehr beliebt zu sein scheint.
-Ich hab mir leckeren Nudelauflauf bestellt und wir haben uns über Japanisch und
-Englisch lernen unterhalten.&lt;/p&gt;
-
-&lt;p&gt;Nach dem Essen sind wir gegen halb 9 zurück ins Labor geradelt. Ich habe mir nur
-noch meine Tasche geholt und mich verabschiedet. Zurück in meinem Zimmer habe
-ich nach Literatur für Sprachgeschwindigkeit gesucht und bin dabei auf eine mir
-bislang völlig unbekannte Disziplin in der Akustikforschung gestoßen.
-Die &lt;strong&gt;Akustische Paralinguistik&lt;/strong&gt;, beschäftigt sich mit Signalen der
-sprachlichen Mitteilungen, die keine eigentliche Information enthalten, wie
-Lautstärke, Sprachrhythmus und Pausen, sowie Intonation und Tonhöhe in Sprachen,
-in denen sie nicht bedeutungsrelevant sind. Aus diesen Signalen können
-Rückschlüsse auf die Emotion des Sprechers, Adressat (Kind oder Erwachsener) der
-Sprachnachricht und das Verhältnis zwischen Sprecher und Empfänger (befreundet
-oder fremd) abgeleitet werden.&lt;/p&gt;
-
-&lt;p&gt;Ich glaube (endültig) das wird mein Forschungsgebiet. Anstelle des Spracherwerbs
-von Robotern :) Mehr dazu vielleicht in 2 Wochen&amp;hellip;&lt;/p&gt;
 </description>
       </item>
       
