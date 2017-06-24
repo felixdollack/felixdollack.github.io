@@ -8,8 +8,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Fri, 23 Jun 2017 23:58:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 19:54:41 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Ein ganz normaler Samstag</title>
+        <link>/posts/2017_06_24/</link>
+        <pubDate>Sat, 24 Jun 2017 19:54:41 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_06_24/</guid>
+        <description>&lt;p&gt;An Tagen wie heute fällt es mir schwer etwas zu schreiben, dass nicht zu sehr
+nach langweiliger Routine klingt. Aber zum Glück ist mir gerade noch was
+eingefallen.&lt;/p&gt;
+
+&lt;p&gt;Am Vormittag habe ich an meiner Präsentation für Montag gearbeitet. Naja,
+eigentlich auch nicht wirklich. Ich habe die Zeit damit verbracht nach einer
+guten Vorlage zu suchen und mir überlegt welche Bilder und Audiobeispiele ich
+verwenden will. Ist zum Teil wichtig, aber im Großen und Ganzen nicht so
+zielführend gewesen. Mittags habe ich mir einen Salat geholt und einen Amazon
+Gutschein gekauft. Konnte es wieder nicht lassen und hab ein paar Sachen
+bestellt. Laut Bestellbestätigung soll alles bis auf ein GPS-Modul schon Morgen
+hier sein. Na, ich bin gespannt. Als ich um halb 1 meinen Salat fertig gegessen
+hatte, hat sich Floris gemeldet, ob ich Lust habe mit ihm das Saba-Sandwich zu
+holen (jap. saba - Mackrele), das wir schon so lange probieren wollen und jedes
+Mal vom Restaurantbesitzer vertröstet werden. Wie auch heute. Allerdings ist er
+heute ziemlich gesprächig und so erfahren wir endlich warum wir so oft kein
+Glück haben. Er scheint nicht die richtigen Makrelen zu bekommen. Für sein
+Sandwich scheint er sonst kleine, noch junge Makrelen zu verarbeiten. Jetzt sind
+wir etwas schlauer. Da Floris so nichts zu Mittag bekommt, sind wir bei Lawson
+einkaufen gewesen. Ich hab mir eine Mini-Pizza mitgenommen, damit ich den Ofen,
+den ich heute Abend endlich angeschlossen habe, Morgen mal testen kann.&lt;/p&gt;
+
+&lt;p&gt;Am Abend bin ich gegen 18 Uhr kurz zur Uni gefahren, um Geld abzuheben und ein
+Problem mit meinem, vor einiger Zeit bestellten, Arduino Mikrokontroller zu
+beheben. Weil ich schon mal an meinem Arbeitsplatz war, habe ich gleich noch ein
+paar Fotos von meinem Experiment für meine Präsentation gemacht. Der
+vermeintliche Fehler mit dem Arduino, war gar keiner. Als ich mir die Platine
+genauer angeschaut habe, habe ich gemerkt, dass er anders aussieht. Nach einer
+kurzen Suche im Internet bin ich auf eine Seite gestoßen die darauf hinweißt,
+dass manche der in China günstig hergestellten Arduinos andere Bauteile
+verwenden. So wie der den ich gekauft habe. Damit mein Laptop in ordentlich
+erkennt, muss ich einen speziellen Treiber installieren. Um das auszuprobieren
+bin ich 1 Stunde später, um 19 Uhr, zurück nach Hause geradelt.&lt;/p&gt;
+
+&lt;p&gt;Treiber installiert, Laptop neu gestartet, Arduino angesteckt und läuft. Wie
+schön einfach Technik doch manchmal sein kann :D&lt;/p&gt;
+
+&lt;p&gt;Jetzt kann ich mit einem kombinierten Temperatur- und Feuchtigkeitssensor, sowie
+dem Arduino und einem kleinen Display das Klima in meinem Zimmer überwachen.
+Aufgebauen werde ich das aber erst nach meinem Vortrag. Ich will es mit der
+Prokrastination (Arbeitsvermeidung) ja nicht zu weit treiben ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_06_24/kit.jpg&#34; alt=&#34;Arduino&#34; /&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -583,49 +637,6 @@ geschlichtet gewesen wären, hätte es auch ein Messie-Haus sein können.&lt;/p&
 
 &lt;p&gt;Leider habe ich kein brauchbares Regal gefunden und musste unverrichteter Dinge
 wieder nach Hause.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Trockene Regenzeit und Vorbereitungen für Forschung</title>
-        <link>/posts/2017_06_09/</link>
-        <pubDate>Fri, 09 Jun 2017 15:30:31 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_06_09/</guid>
-        <description>&lt;p&gt;Am Vormittag hatte ich wieder Unterricht in maschinellem Lernen und anschließend
-war ich mit Karlos und Alberto im Cafe Marhaban (wie vor 2 Wochen schonmal).
-Allerdings war das Wetter heute traumhaft und wir konnten draußen sitzen.&lt;/p&gt;
-
-&lt;p&gt;Im Japanischunterricht habe ich erfahren, dass diese Woche die Regenzeit
-begonnen hat. Wobei der Lehrer meinte, dass es unterschiedlich ist. Mal regnet
-es eine Woche ohne Unterlass und mal ist es einfach nur wolkig und man sieht die
-Sonne eine Woche lang nicht wirklich. Das Thema das wir heute im Unterricht
-durchgenommen haben, war wie man sich beim Arzt verständlich macht oder in der
-Apotheke nach der richtigen Medizin fragt. Sowas praktisches hab ich bisher noch
-nicht gelernt (und zum Glück auch nicht gebraucht).&lt;/p&gt;
-
-&lt;p&gt;Nach dem Unterricht bin ich direkt nach Hause. Im Gemeinschaftsraum habe ich
-mehrere Konferenzen rausgesucht, auf denen ich zeitnah (eventuell noch dieses
-Jahr) etwas veröffentlichen kann, da ich bis Anfang nächsten Jahres eine
-internationale Publikation brauche, um weiter in dem Programm an der Uni bleiben
-zu können. Ich möchte das Experiment aus meiner Masterarbeit mit leichten
-Veränderungen nochmal durchführen, aber ich brauche noch das OK aus Deutschland
-von dem Betreuer meiner Masterarbeit. Eventuell arbeitet er auch daran mit, mal
-sehen was er mir auf meine Anfrage antworten wird.&lt;/p&gt;
-
-&lt;p&gt;Am Abend habe ich einen Vortrag für Montag vorbereitet. Ich muss zum Ende des
-Laboraustauschs einen kurzen Vortrag über das Gelernte und wie ich es in meiner
-Arbeit einsetzen kann, halten. Ich nehme diese Gelegenheit war, um der
-Arbeitsgruppe mein kürzlich entdecktes Thema vorzustellen und hoffe auf
-konstruktive Kritik. Leider hab ich darüber etwas die Zeit vergessen und erst
-gegen 23 Uhr zu Abend gegessen :D&lt;/p&gt;
-
-&lt;p&gt;(Mögliches, etwas sinnloses, Anwendungsszenario meiner Arbeit)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://files.explosm.net/comics/Dave/comicbathroom1.png&#34; alt=&#34;Paralanguage&#34; /&gt;
-(gefunden auf &lt;a href=&#34;http://explosm.net/comics/3172/&#34;&gt;http://explosm.net/comics/3172/&lt;/a&gt;)&lt;/p&gt;
 </description>
       </item>
       
