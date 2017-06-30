@@ -8,8 +8,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Thu, 29 Jun 2017 19:57:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 19:58:16 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Nachtschicht (freiwillig)</title>
+        <link>/posts/2017_06_30/</link>
+        <pubDate>Fri, 30 Jun 2017 19:58:16 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_06_30/</guid>
+        <description>&lt;p&gt;Heute bin ich erst um halb 10 aufgewacht. Aber nicht weil ich verschlafen habe,
+sondern weil ich gestern Nacht bis 3 Uhr an einem Bildverarbeitungsproblem für
+eine Studienfreundin aus Frankfurt gesessen habe. Die Aufgabe überschneidet sich
+zufällig mit dem Stoff den ich letzte Woche Freitag hier an der Uni gelernt habe.
+Von daher hab ich es als Übung genommen. Ich habe zwar in der Nacht nichts
+brauchbares zu Stande gebracht, aber dafür eine Menge verstanden.&lt;/p&gt;
+
+&lt;p&gt;Zum Mittagessen habe ich es an die Uni geschafft. Danach habe ich den Antrag auf
+Kostenübernahme meines Fluges nach Schweden weg geschickt und einige Änderungen
+am Code für mein Experiment gemacht. Danach habe mich wieder mit der
+Bildverarbeitung beschäftigt und tatsächlich was geschafft :)&lt;/p&gt;
+
+&lt;p&gt;Das Programm das ich geschrieben habe, entfernt Bildrauschen aus Röntgenbilder
+und gruppiert die Elemente im Bild durch ändern der Farbe in 3 Strukturen.
+Knochen, Hohlraum (bzw. Flüssigkeit) und Hirn :D&lt;/p&gt;
+
+&lt;p&gt;Genug getan für heute. Jetzt ist es viertel vor 10 und ich muss noch nach Hause
+und Abendessen. Morgen versuche ich mal einen Frisör zu finden. Dafür muss ich
+auch noch nachschauen was ich dem sagen muss, damit er mir den Kopf nicht
+rasiert :D&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -625,52 +656,6 @@ dem Mittagessen muss ich mich mit ein paar anderen Studenten circa zwei Stunden
 für Fragen des Bewertungskommitees des Studiengangs zur Verfügung halten. Und um
 17 Uhr treffe ich mich noch mit meiner Gruppe zum Ausarbeiten unserer Argumente
 für die nächste Debatte in zwei Wochen. Und dann ist Wochenende :)&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Eigentlich studiere ich Kunst ...</title>
-        <link>/posts/2017_06_14/</link>
-        <pubDate>Wed, 14 Jun 2017 19:29:55 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_06_14/</guid>
-        <description>&lt;p&gt;Heute Morgen war ich mit Yuta und Minatsu zur Bepsrechung unseres Projekts
-verabredet. Minatsu hat es, im wörtlichen Sinne, total verpennt. Yuta und ich
-haben uns Gedanken über einen möglichen Namen gemacht. Sind aber noch zu keinem
-Ergebnis gekommen.&lt;/p&gt;
-
-&lt;p&gt;Um 13 Uhr war die Künstlerin und Professorin Frau Kodama von der Universität für
-Elektrokommunikation aus Tokio zu Gast, um uns einige Ihrer Projekte
-vorzustellen. Sie hat Physik in Hokkaido (die Große Insel im Norden von Japan)
-und später Kunst hier in Tsukuba studiert und war eine Vorreiterin auf dem
-Gebiet von Ferrofluiden. Ein Ferrofluid ist eine Flüssigkeit (häufig Öl) die mit
-Metallpartikel von wenigen Nanometern Größe vermischt ist. Setzt man diese
-Flüssigkeit einem Magnetfeld aus, arrangieren sich die Partikel in der
-Flüssigkeit entlang der Magnetfeldlinien.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/cFa9SVsxfug&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Wer noch mehr Videos von Ferrofluid sehen will, kann sich den &lt;a href=&#34;https://www.youtube.com/channel/UCkJhKJbEF8uyYLRFkS4s-9g/videos&#34;&gt;Youtube Kanal&lt;/a&gt;
-von Frau Kodama ansehen.&lt;/p&gt;
-
-&lt;p&gt;Im Verlauf des Vortrags wird (nicht zum ersten Mal) deutlich, dass sehr viele
-der gerade im Bereich Medienkunst aktiven und etwas berühmteren japanischen
-Künstler an der Universität Tsukuba studiert haben. Nach dem Vortrag sagte unser
-Professor: &amp;ldquo;In 15 Jahren seid ihr erfolgreiche Künstler.&amp;rdquo; Ich denke mal das
-bleibt abzuwarten ;D&lt;/p&gt;
-
-&lt;p&gt;Am Abend war ich etwas länger (bis halb 10) im Labor, um endlich die Hausaufgabe
-für Morgen früh zu machen und diesen Eintrag hier zu schreiben. Wenn ich das zu
-Hause mache trödle ich immer so lange rum, dass es dann schon Mitternacht ist,
-bis ich endlich damit fertig bin ;)&lt;/p&gt;
-
-&lt;!-- Links: --&gt;
 </description>
       </item>
       
