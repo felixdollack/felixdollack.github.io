@@ -8,8 +8,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Mon, 15 May 2017 14:46:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 22:51:57 +0900</lastBuildDate>
     <atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>2017_07_05</title>
+        <link>/microposts/2017_07_05/</link>
+        <pubDate>Wed, 05 Jul 2017 22:51:57 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/2017_07_05/</guid>
+        <description>&lt;p&gt;Werden Kameras und Sensoren im Straßenverkehr richtig eingesetzt, kann man für
+eine Stadtautobahn wie in Tokyo eine Staukarte erstellen und in Echtzeit
+updaten. Grüne Linien bedeuten freie Fahrt und rote Linien bedeuten Stau :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_07_04/trafficmap.jpg&#34; alt=&#34;Staukarte&#34; /&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
