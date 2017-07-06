@@ -8,8 +8,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Wed, 05 Jul 2017 23:01:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 23:18:21 +0900</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Workshop Tag 4</title>
+        <link>/posts/2017_07_06/</link>
+        <pubDate>Thu, 06 Jul 2017 23:18:21 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_07_06/</guid>
+        <description>&lt;p&gt;Vorletzter Tag des Workshops. Heute haben wir uns Geschäftsmodelle für unsere
+Produktideen überlegt. Wen müssen wir anstellen, mit wem zusammenarbeiten,
+welche Werte bieten wir mit unserem Produkt an, welche Ausgaben haben wie und
+wie können wir Profit machen. Dafür haben wir eine etwas größere Tabelle auf ein
+Whiteboard gezeichnet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2017_07_06/map.jpg&#34; alt=&#34;Transportkanal&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wir sind insgesamt gut voran gekommen, aber ich sitze derzeit noch daran eine
+Demonstration unserer Idee aufzubauen. Dafür kümmern sich die anderen beiden
+Gruppenmitglieder um die Präsentation. Aber langsam wird es Zeit fürs Bett. Es
+ist jetzt halb 2 Morgens.&lt;/p&gt;
+
+&lt;p&gt;Morgen ist neben dem Workshop auch noch eine weitere Unterrichtsstunde im
+Diskutieren. Wobei die &amp;ldquo;Stunde&amp;rdquo; insgesamt über 4,5 Stunden geht. Wenn ich damit
+fertig bin, darf ich direkt zurück zum Workshop, um dort mit den anderen die
+finale Präsentation vor den Dozenten und einigen Wirtschaftsvertretern zu
+halten. Ich freue mich schon aufs Wochenende :D&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -720,59 +749,6 @@ eine vernünftige Quelle für die Werte finden, die ich für das Experiment nutz
 will. Im Prinzip läuft es also jetzt. Für das Treffen mit meinem Betreuer habe
 ich mir eben noch eine A4 Seite voller Stichpunkte zusammengeschrieben. Und weil
 ich heute genug geschafft habe, gehe ich mal früher ins Bett. Gute Nacht :)&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Definition Human Informatics</title>
-        <link>/posts/2017_06_21/</link>
-        <pubDate>Wed, 21 Jun 2017 01:21:57 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_06_21/</guid>
-        <description>&lt;p&gt;Heute hat es geregnet. Den ganzen Tag. Hätte ich mit rechnen können in der
-Regenzeit. Regenzeit heißt aber nicht Monsun. Also keine sturzflutartigen
-Ergüsse. Ganz normaler Regen, wie bei einem kurzen Schauer. Nur eben länger.&lt;/p&gt;
-
-&lt;p&gt;Vormittags habe ich angefangen das Regal aufzubauen. Nach der Hälfte habe ich
-aufgehört. Das Problem jeder Regalboden ist nur ein Gitter und die Füße des
-Kühlschrankes stehen etwas ungünstig auf dem untersten Boden. Ich werde mir zwei
-Latten oder ein dünnes Brett aus dem Baumarkt holen müssen. Wo der ist weiß ich
-ja inzwischen. Mal sehen ob ich das Morgen noch irgendwo unterbringe, oder auf
-nächste Woche verschieben muss. Um 12 Uhr bin ich mit einem Regenschirm zum
-Unterricht zur Uni gelaufen. Alle neuen Studenten (das sind dieses Jahr nur 6)
-haben ihre Definitionen der Hauptbegriffe des Studiengangs vorgestellt und
-anschließend mit den Professoren darüber diskutiert.&lt;/p&gt;
-
-&lt;p&gt;Ich bin im Studiengang Empowerment Informatics und studiere für einen
-Doktortitel in Human Informatics. Empowerment lässt sich ganz gut mit Befähigung
-übersetzen. Informatics hat, anders als ich selbst angenommen habe, nicht
-ausschließlich mit Computern zu tun, sondern meint generelle
-Informationsverarbeitung. Ziel des Studiengangs ist es durch das Analysieren und
-Verstehen von Informationen den Menschen zu befähigen Dinge zu tun. Dabei
-betrachten wir 3 Bereiche. Die Physiologie und den Bewegungsapparat des
-Menschen (z.B. hat er Beine zum Gehen?), seine Funktionen (z.B. kann er alleine
-zur Toilette gehen?) und sein soziales Umfeld (z.B. wird erwartet, dass er
-alleine zur Toilette geht?). Weiterhin lassen sich die Ergebnisse unserer
-Informationsverarbeitung unter 3 Säulen gruppieren. Ergänzung (Supplement),
-Erweiterung (Extension) und Harmonisierung (Harmonization). Mit Ergänzung ist
-die Erhaltung oder Wiederherstellung von Funktionen gemeint (zum Beispiel eine
-Protese für einen Amputierten, aber auch das Anpassen der Umwelt durch den Bau
-einer Rollstuhlrampe). Erweiterung meint das Hinzufügen von neuen Funktionen
-durch Geräte (z.B. zum Beispiel Taucherausrüstung) oder das Verbessern von
-bereits vorhandenen Funktionen (z.B. Laufschuhe um besser bzw. schneller zu
-rennen). Zwischen Ergänzungen und Erweiterungen gibt es Überschneidungen und die
-Definitionen variieren im Einzelfall leicht. Harmonisierung ist am schwersten zu
-erklären, da es nichts physisch Greifbares darstellt. Damit ist die Bedienung
-von Geräten, die Interaktion in beide Richtungen (die Maschinen passen sich
-neuerdings ja an den Nutzer an) und das Gefühl, dass Nutzer und Leute in deren
-Umgebung damit Verbinden gemeint. Ich denke, das habe ich selber noch nicht
-richtig verstanden :)&lt;/p&gt;
-
-&lt;p&gt;Am Abend bzw. in der Nacht habe ich den Report für Machine Learning am Freitag
-fertig gemacht. Und jetzt muss ich schleunigst ins Bett. Es ist schon wieder
-halb 3 in der Nacht :D&lt;/p&gt;
 </description>
       </item>
       
