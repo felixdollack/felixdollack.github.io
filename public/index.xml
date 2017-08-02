@@ -8,8 +8,117 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Tue, 01 Aug 2017 16:01:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 12:57:17 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Erdbeben</title>
+        <link>/posts/2017_08_02/</link>
+        <pubDate>Wed, 02 Aug 2017 12:57:17 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_08_02/</guid>
+        <description>&lt;p&gt;Heute bin ich in der Nacht um 2:02 Uhr wachgerüttelt worden. Erdbeben. Hat alles
+ordentlich gewackelt. Nach ungefähr einer halben Minute war es wieder vorbei.
+Dann ging eine Art Alarm in einem der Häuser an. Ich bin zum Flur, um die
+Nachricht besser zu hören. War leider auf Japanisch und das Einzige was ich
+verstanden habe, war Telefon. Ich habe die Nachricht daher als unwichtig
+abgetan und bin zurück ins Zimmer. Dort habe ich mein Fenster geöffnet und
+gelauscht wie mein Umfeld reagiert. Nachdem es sowohl im Haus als auch draußen
+ruhig geblieben ist, habe ich mich zurück ins Bett gelegt. Um 7:16 Uhr bin ich
+vom nächsten Erdebeben geweckt worden. Diesmal war es zwar etwas länger, dafür
+aber weniger stark. Danach war dank der Unterbrechung in der Nacht noch müde,
+deswegen habe ich mich nochmal im Bett umgedreht und bis halb 10
+weitergeschlafen. Nach dem Aufstehen habe ich dann kurz recherchiert, wie stark
+die Erdbeben waren und wie die Japaner das bewerten, damit ich für das nächste
+Mal einen Anhaltspunkt habe, ab wann Panik angebracht ist :D&lt;/p&gt;
+
+&lt;p&gt;Es gab scheinbar um kurz nach halb 1 in der Nacht schon ein Beben, davon habe
+ich nichts mitbekommen. Zwischen dem stärkeren Beben in der Nacht und dem das
+mich Morgens geweckt hat gab es noch 3 kleinere Beben, die allerdings so schwach
+waren, dass sie in Tsukuba nicht mehr gemessen werden konnten.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Uhrzeit&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Tiefe&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Stärke&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Werte in Tsukuba nach JMA&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;00:38&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;60 km&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3.6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;02:02&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;10 km&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5.5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt; 07:16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;50 km&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4.6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Die Erklärung zur Japanischen Skala (&lt;a href=&#34;https://de.wikipedia.org/wiki/JMA-Skala&#34;&gt;JMA&lt;/a&gt;) ist wie folgt:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Intensität&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Wirkung auf den Menschen&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Situation in Gebäuden&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Situation im Freien&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt; 1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;für manche Menschen spürbar&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt; 3&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;für die meisten Menschen spürbar, löst bei manchen Menschen Angst aus&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Geschirr in Regalen kann scheppern&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Stromleitungen schwingen etwas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;löst verbreitet Angst aus, manche Menschen suchen Schutz, die meisten Schlafenden erwachen&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt; hängende Objekte pendeln erheblich, Geschirr scheppert, instabil aufgestellte Schmuckgegenstände können umfallen&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Stromleitungen schwingen stark, auch für gehende Menschen spürbar, einige Autofahrer bemerken das Beben&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Den restlichen Tag habe ich an der Uni verbracht und weitere Vorbereitungen für
+mein Experiment gemacht. Keisuke hat mir beim Übersetzen der Anleitung ins
+Japanische geholfen und ich habe die Messung meiner Kopfhörer von letzter Woche
+überprüft. Morgen muss ich zusehen, dass ich meinen PC in einen anderen Raum
+stellen kann, der etwas ruhiger ist als unser Büro. Dann kann ich denke ich
+anfangen zu messen.&lt;/p&gt;
+
+&lt;!-- Links: --&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -684,41 +793,6 @@ Minuten mit dem Zug voneinander Entfernt und bieten einiges an Geschichte. Dafü
 kann ich entweder den Nachtbus direkt aus Tsukuba nehmen oder, dank der
 Nebensaison im September, einen günstigen Flug buchen. Aber darüber mache ich
 mir Gedanken, wenn ich zurück in Japan bin.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Sonntag</title>
-        <link>/posts/2017_07_16/</link>
-        <pubDate>Sun, 16 Jul 2017 23:07:23 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/posts/2017_07_16/</guid>
-        <description>&lt;p&gt;Dass ich gestern ein Paar Pausen ausgelassen habe, hat sich heute Morgen gerächt.
-Ich hab den Wecker auf 5 Uhr gestellt, weil ich gestern Nacht eine halbe Stunde
-überzogen habe. Aufgewacht bin ich, aber weil ich nicht sofort aufgestanden bin,
-habe ich bis kurz nach 9 Uhr weiter geschlafen. Weil es durch die Hitze ziemlich
-stickig im Raum geworden ist, habe ich die Fenster aufgemacht und eine Zikade an
-meinem Mückenschutz gefunden.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2017_07_16/cicade1.jpg&#34; alt=&#34;Zikade&#34; /&gt;
-&lt;img src=&#34;/img/2017_07_16/cicade2.jpg&#34; alt=&#34;Zikade&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Den Rest des Tages habe ich dann tatsächlich Nichts gemacht. Jedenfalls nichts
-anstrengendes. Ich saß die meiste Zeit im Gemeinschaftsraum, habe Musik gehört
-und nebenbei die Videoaufnahmen der 360 Grad Kamera von der Therapie gestern
-als normales Video konvertiert und den Ton in einer Extradatei abgespeichert.&lt;/p&gt;
-
-&lt;p&gt;Am Abend war ich kurz Einkaufen und habe mir Thunfisch-Mais Salat gemacht. Dann
-habe ich nach der günstigsten Strecke ans Meer gesucht. Das kürzeste ist um die
-2 Stunden mit dem Zug entfernt. Mit einem Auto könnte man einen direkteren Weg
-nehmen, dann wären es nur 45 Minuten, aber an dem Strand gibt es leider keinen
-Bahnhof. Ich demnächst mal in Erfahrung bringen müssen, wie ich an einen
-japanischen Führerschein komme. Das wird auch eine Weile dauern. Das Wetter für
-Morgen sieht jedenfalls nicht besonders gut aus. Ich hoffe, dass es sich noch
-ändert und ich trocken ans Meer, oder wo auch immer ich Morgen spontan hinfahre,
-kommen kann.&lt;/p&gt;
 </description>
       </item>
       
