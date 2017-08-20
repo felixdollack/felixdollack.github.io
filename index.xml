@@ -8,8 +8,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Sat, 19 Aug 2017 18:45:27 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 18:40:22 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Interspeech Tutorials</title>
+        <link>/posts/2017_08_20/</link>
+        <pubDate>Sun, 20 Aug 2017 18:40:22 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/posts/2017_08_20/</guid>
+        <description>&lt;p&gt;Heute waren die beiden Tutorials an der Universität Stockholm für die ich
+überhaupt nach Europa geflogen bin. Die Tutorials waren ein Vorgeschmack auf die
+Interspeech Konferenz die in der kommenden Woche statt findet. Da ich noch
+nichts zu präsentieren habe, macht es für mich wenig Sinn an der Konferenz
+teilzunehmen, daher bin ich nur für die Tutorials (man könnte es auch
+Vorlesungen nennen) nach Stockholm gekommen. Da ich mit etwas Jetlag gerechnet
+habe, war der Tag gestern als Puffer eingeplant, allerdings fühle ich mich
+ziemlich fit. Ich werde vielleicht etwas früher müde, als für die Zeitzone
+normal, aber das ist kein Hindernis trotzdem bis zu meiner üblichen Zeit um 23
+Uhr wach zu bleiben. Ich bin heute Morgen etwas früher, nämlich um 10 vor 5
+aufgewacht. Sollte das tatsächlich Jetlag sein, finde ich das für urprünglich 7
+Stunden Zeitdifferenz völllig ok. Es kann aber auch sein, dass es an dem vielen
+Wasser lag, das ich gestern Nacht noch getrunken habe :D&lt;/p&gt;
+
+&lt;p&gt;In den beiden Tutorials ging es um (1) Echtzeit Monitoring von Stimmverhalten
+und (2) die Simulation von Spracherwerb. Beim Monitoring ging es um eine
+praktische Lösung das Nutzungsverhalten von Leuten die im Beruf ihre Stimme viel
+nutzen müssen, wie zum Beispiel Lehrer/innen oder Sänger/innen, unter Einhaltung
+der Datenschutzgesetze, aufzunehmen. Die Aufnahmen werden zur Erforschung von
+Knötchenbildung und anderen Stimmproblemen genutzt. Im zweiten Teil, bei der
+Simulation von Spracherwerb, habe ich jede Menge über Spracherwerb gelernt und
+erfahren welche Methoden bei der Simulation brauchbare Ergebnisse bringen, wo
+noch Lücken zu füllen sind und was es noch zu erforschen bzw. Vermutungen zu
+überprüfen gilt.&lt;/p&gt;
+
+&lt;p&gt;Am Abend habe ich mich noch daran gemacht der japanischen Bürokratie genüge zu
+tun und die Formulare mit Ergebnissen meiner Reise auszufüllen. Außerdem steht
+der monatliche Report bald wieder an, also hab ich das auch gleich erledigt.
+Morgen Vormittag fliege ich dann zurück nach Frankfurt und fahre mit der Bahn
+weiter nach Oldenburg, wo ich bis Donnerstag Mittag an der Fachhochschule
+arbeiten und an den Abenden Freunde besuchen werde :)&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -551,22 +593,6 @@ Baustelle mit der ich mich füher oder später sowieso beschäftigen muss.&lt;/p
 da sie bislang noch nicht mit dem Mikrokontroller Arduino gearbeitet hat. Morgen
 Nachmittag helfe ich Monica als Proband in ihrem Experiment und muss dem
 Dozenten vom Diskussionsunterricht noch Rückmeldung zu seinem Unterricht geben.&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
-        <title>Baustellen Pegel</title>
-        <link>/microposts/construction_meter/</link>
-        <pubDate>Mon, 07 Aug 2017 01:46:52 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/construction_meter/</guid>
-        <description>&lt;p&gt;Baustellen in Tokyo haben einen Pegelmesser, der den Lärm- und Vibrationspegel
-anzeigt. Am Sonntag Nachmittag ist der natürlich besonders niedrig. Es arbeitet
-ja keiner ;)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/minis/noisemeter.jpg&#34; alt=&#34;Pegelanzeige&#34; /&gt;&lt;/p&gt;
 </description>
       </item>
       
