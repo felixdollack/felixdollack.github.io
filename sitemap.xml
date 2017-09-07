@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/posts/2017_09_07/</loc>
+    <lastmod>2017-09-07T20:50:49+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2017_08_20/</loc>
     <lastmod>2017-08-20T18:40:22+09:00</lastmod>
   </url>
@@ -757,7 +762,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-08-20T18:40:22+09:00</lastmod>
+    <lastmod>2017-09-07T20:50:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -769,7 +774,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-08-20T18:40:22+09:00</lastmod>
+    <lastmod>2017-09-07T20:50:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
