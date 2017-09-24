@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Felix Dollack">
+    <meta name="description" content="This is my blog, read it and enjoy.">
+    <meta name="generator" content="Hugo 0.19" />
+
+    
+    <title>toilet &middot; @Felix’s Felix in Japan</title>
+
+    <link rel="stylesheet" href="/css/weblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/css/lightgallery.min.css" type="text/css" />
+    
+
+
+    
+	<link href="/index.xml" rel="alternate" type="application/rss+xml" title="Felix in Japan" />
+	
+  </head>
+  <body class="site">
+
+<header>
+  <nav>
+    
+    <h1><a href="/">Felix in Japan</h1>
+    <div class="menu">
+      
+      <ul>
+        
+            <li>
+              <a href="/posts/">Blog</a>
+              
+                <a href="/posts/index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>
+              
+            </li>
+        
+            <li>
+              <a href="/microposts/">Mini&#39;s</a>
+              
+            </li>
+        
+        <li><a href="/about">About</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+
+  <main class="content">
+    <article class="micropost">
+  <p>Eine dieser High-Tech Toiletten mit Sitzheizung, Musik und Unterbodenwäsche.
+Die Sitzheizung war besonders angenehm ;)</p>
+
+<p><img src="/img/minis/toilet.JPG" alt="HighTech Klo" /></p>
+
+  <a href='/microposts/2017-04-08_toilet/'><aside class="dates">→ 08/04/2017 10:35 PM</aside></a>
+</article>
+
+  </main>
+
+<footer>
+  <div class="footer_text">
+      <div>
+        <h3>Hi, <a href="/about">Ich bin Felix</a></h3>
+        <p>
+          PhD Student an der Universität Tsukuba in Japan.
+Auf dieser Seite führe ich Tagebuch, damit meine Familie und Freunde informiert bleiben.
+
+        </p>
+      </div>
+      
+      <div>
+          <h3><a href="https://www.flickr.com/photos/149203503@N04/">Photo Stream</a></h3>
+          <div id="photos"></div>
+        </div>
+      </div>
+      
+  </div>
+
+  
+    <div class="footer_copyright">
+      &copy; 2017 <a href="/about">Felix Dollack</a>
+       - Made in Tsukuba, Japan
+    </div>
+  
+</footer>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    <script src="/js/weblog.js" charset="utf-8"></script>
+    
+
+    <script type="text/javascript">
+
+  
+  $(function() {
+    
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=149203503@N04&format=json&jsoncallback=?", function(data) {
+      iweblog.application.displayImages(data, 8);
+    });
+  });
+
+</script>
+
+    
+  </body>
+</html>
+
