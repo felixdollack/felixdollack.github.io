@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
-    <title>@Felix’s Felix in Japan - Microposts</title>
+    <title>Microposts on Felix in Japan</title>
     <link>/microposts/index.xml</link>
-    <description>All entries in Microposts on Felix in Japan</description>
+    <description>Recent content in Microposts on Felix in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
     <lastBuildDate>Mon, 14 Aug 2017 22:34:52 +0900</lastBuildDate>
     <atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Neue T-Shirts</title>
+      <link>/microposts/2017_08_14/</link>
+      <pubDate>Mon, 14 Aug 2017 22:34:52 +0900</pubDate>
       
-      <item>
-        <title>Neue T-Shirts</title>
-        <link>/microposts/2017_08_14/</link>
-        <pubDate>Mon, 14 Aug 2017 22:34:52 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017_08_14/</guid>
-        <description>&lt;p&gt;Ich habe vor einer Weile neue T-Shirts bestellt. Der Laden hat die Lieferung in
+      <guid>/microposts/2017_08_14/</guid>
+      <description>&lt;p&gt;Ich habe vor einer Weile neue T-Shirts bestellt. Der Laden hat die Lieferung in
 einzelne Sendungen aufgeteilt. Ich hatte schon befürchtet, die kommen nicht
 bevor ich in den Urlaub fliege. Habe gerade eben die erste Lieferung aus dem
 Briefkasten gefischt. Ja, der Briefträger hat 4 T-Shirts durch den Briefschlitz
@@ -29,81 +26,71 @@ gequetscht :D&lt;/p&gt;
 &lt;p&gt;Von links nach rechts, Batman, das Danke-Krokodil, Ramen-Ramses und der
 Storm Trooper aus Star Wars.&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>Baustellen Pegel</title>
+      <link>/microposts/construction_meter/</link>
+      <pubDate>Mon, 07 Aug 2017 01:46:52 +0900</pubDate>
       
-      <item>
-        <title>Baustellen Pegel</title>
-        <link>/microposts/construction_meter/</link>
-        <pubDate>Mon, 07 Aug 2017 01:46:52 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/construction_meter/</guid>
-        <description>&lt;p&gt;Baustellen in Tokyo haben einen Pegelmesser, der den Lärm- und Vibrationspegel
+      <guid>/microposts/construction_meter/</guid>
+      <description>&lt;p&gt;Baustellen in Tokyo haben einen Pegelmesser, der den Lärm- und Vibrationspegel
 anzeigt. Am Sonntag Nachmittag ist der natürlich besonders niedrig. Es arbeitet
 ja keiner ;)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/noisemeter.jpg&#34; alt=&#34;Pegelanzeige&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>2017_07_05</title>
+      <link>/microposts/2017_07_05/</link>
+      <pubDate>Wed, 05 Jul 2017 22:51:57 +0900</pubDate>
       
-      <item>
-        <title>2017_07_05</title>
-        <link>/microposts/2017_07_05/</link>
-        <pubDate>Wed, 05 Jul 2017 22:51:57 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017_07_05/</guid>
-        <description>&lt;p&gt;Werden Kameras und Sensoren im Straßenverkehr richtig eingesetzt, kann man für
+      <guid>/microposts/2017_07_05/</guid>
+      <description>&lt;p&gt;Werden Kameras und Sensoren im Straßenverkehr richtig eingesetzt, kann man für
 eine Stadtautobahn wie in Tokyo eine Staukarte erstellen und in Echtzeit
 updaten. Grüne Linien bedeuten freie Fahrt und rote Linien bedeuten Stau :)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_07_04/trafficmap.jpg&#34; alt=&#34;Staukarte&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title></title>
+      <link>/microposts/antiearthquakebuilt/</link>
+      <pubDate>Mon, 15 May 2017 14:46:49 +0900</pubDate>
       
-      <item>
-        <title></title>
-        <link>/microposts/antiearthquakebuilt/</link>
-        <pubDate>Mon, 15 May 2017 14:46:49 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/antiearthquakebuilt/</guid>
-        <description>&lt;p&gt;Damit die großen Gebäude in Japan auch Erdbebensicher sind, werden Dämpfer oder
+      <guid>/microposts/antiearthquakebuilt/</guid>
+      <description>&lt;p&gt;Damit die großen Gebäude in Japan auch Erdbebensicher sind, werden Dämpfer oder
 Pendel im inneren der Gebäude verbaut, welche die Schwingungen aufnehmen sollen.
 Das kann dann zum Beispiel so aussehen:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_15/structure.jpg&#34; alt=&#34;Erdbebensicheres Bauen&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title></title>
+      <link>/microposts/2017_05_13_dodgeball/</link>
+      <pubDate>Sat, 13 May 2017 00:22:56 +0900</pubDate>
       
-      <item>
-        <title></title>
-        <link>/microposts/2017_05_13_dodgeball/</link>
-        <pubDate>Sat, 13 May 2017 00:22:56 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017_05_13_dodgeball/</guid>
-        <description>&lt;p&gt;Unser Intermezzo beim heutigen Sportfest hat nicht lange gedauert. Ein Spiel
+      <guid>/microposts/2017_05_13_dodgeball/</guid>
+      <description>&lt;p&gt;Unser Intermezzo beim heutigen Sportfest hat nicht lange gedauert. Ein Spiel
 dauerte 10 Minuten. Leider haben wir gleich das Erste verloren und waren damit
 raus. Aber wir hatten unseren Spaß und waren danach noch gemeinsam was Essen :D&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_13/team.jpg&#34; alt=&#34;Völkerball Team&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title></title>
+      <link>/microposts/2017_05_10_advertisments/</link>
+      <pubDate>Wed, 10 May 2017 21:26:33 +0900</pubDate>
       
-      <item>
-        <title></title>
-        <link>/microposts/2017_05_10_advertisments/</link>
-        <pubDate>Wed, 10 May 2017 21:26:33 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017_05_10_advertisments/</guid>
-        <description>&lt;p&gt;Diese Art der Werbung finde ich seltsam. Ich habe versucht mir vorzustellen, wie
+      <guid>/microposts/2017_05_10_advertisments/</guid>
+      <description>&lt;p&gt;Diese Art der Werbung finde ich seltsam. Ich habe versucht mir vorzustellen, wie
 das wohl in Deutschland angenommen würde. Vermutlich sind selbst große Städte
 wie München, Frankfurt, Hamburg oder Berlin zu klein oder nicht dicht genug
 besiedelt für sowas. Außerdem ist der Aufbau deutscher Städte ja auch anders.
@@ -112,84 +99,73 @@ verkehrsberuhigten Bereich in dem die Läden liegen.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_10/clothtruck.jpg&#34; alt=&#34;Fahrende Werbung&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>Nur für Frauen</title>
+      <link>/microposts/2017_04_21_womanonly/</link>
+      <pubDate>Fri, 21 Apr 2017 12:40:19 +0900</pubDate>
       
-      <item>
-        <title>Nur für Frauen</title>
-        <link>/microposts/2017_04_21_womanonly/</link>
-        <pubDate>Fri, 21 Apr 2017 12:40:19 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017_04_21_womanonly/</guid>
-        <description>&lt;p&gt;Abends ab 18:30 Uhr bis zum letzten Zug, irgendwann nach Mitternacht, ist der
+      <guid>/microposts/2017_04_21_womanonly/</guid>
+      <description>&lt;p&gt;Abends ab 18:30 Uhr bis zum letzten Zug, irgendwann nach Mitternacht, ist der
 erste Wagen des Zuges ausschließlich Frauen, Kindern und eingeschränkten
 Personen und deren Begleitern vorbehalten.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2017_04_21/womanonly.jpg&#34; alt=&#34;Frauenwagon&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>toilet</title>
+      <link>/microposts/2017-04-08_toilet/</link>
+      <pubDate>Sat, 08 Apr 2017 22:35:36 +0900</pubDate>
       
-      <item>
-        <title>toilet</title>
-        <link>/microposts/2017-04-08_toilet/</link>
-        <pubDate>Sat, 08 Apr 2017 22:35:36 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017-04-08_toilet/</guid>
-        <description>&lt;p&gt;Eine dieser High-Tech Toiletten mit Sitzheizung, Musik und Unterbodenwäsche.
+      <guid>/microposts/2017-04-08_toilet/</guid>
+      <description>&lt;p&gt;Eine dieser High-Tech Toiletten mit Sitzheizung, Musik und Unterbodenwäsche.
 Die Sitzheizung war besonders angenehm ;)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/toilet.JPG&#34; alt=&#34;HighTech Klo&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>Everything Is Cute</title>
+      <link>/microposts/2017-04-04_everything-is-cute/</link>
+      <pubDate>Tue, 04 Apr 2017 22:28:47 +0900</pubDate>
       
-      <item>
-        <title>Everything Is Cute</title>
-        <link>/microposts/2017-04-04_everything-is-cute/</link>
-        <pubDate>Tue, 04 Apr 2017 22:28:47 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/2017-04-04_everything-is-cute/</guid>
-        <description>&lt;p&gt;Sogar Jonglierbälle sehen hier irgendwie niedlich aus.&lt;/p&gt;
+      <guid>/microposts/2017-04-04_everything-is-cute/</guid>
+      <description>&lt;p&gt;Sogar Jonglierbälle sehen hier irgendwie niedlich aus.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/balls.jpg&#34; alt=&#34;Kawaii&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>walk_motivation</title>
+      <link>/microposts/walk_motivation/</link>
+      <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
       
-      <item>
-        <title>walk_motivation</title>
-        <link>/microposts/walk_motivation/</link>
-        <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/walk_motivation/</guid>
-        <description>&lt;p&gt;Bei wem das wohl zieht? Aber nette Idee den Kalorienverbrauch für die Entfernung
+      <guid>/microposts/walk_motivation/</guid>
+      <description>&lt;p&gt;Bei wem das wohl zieht? Aber nette Idee den Kalorienverbrauch für die Entfernung
 zum nächsten Bahnhof anzugeben.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/motivation.JPG&#34; alt=&#34;Motivation&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
+    <item>
+      <title>japanese_toothpaste</title>
+      <link>/microposts/japanese_toothpaste/</link>
+      <pubDate>Sat, 01 Apr 2017 20:02:42 +0900</pubDate>
       
-      <item>
-        <title>japanese_toothpaste</title>
-        <link>/microposts/japanese_toothpaste/</link>
-        <pubDate>Sat, 01 Apr 2017 20:02:42 +0900</pubDate>
-        <author> (Felix Dollack)</author>
-        <guid>/microposts/japanese_toothpaste/</guid>
-        <description>&lt;p&gt;Ich hab in deutscher Manier erstmal versucht den Deckel abzuschrauben. Leider
+      <guid>/microposts/japanese_toothpaste/</guid>
+      <description>&lt;p&gt;Ich hab in deutscher Manier erstmal versucht den Deckel abzuschrauben. Leider
 tat sich bei dieser Zahnpasta nichts. Man muss lediglich am Deckel ziehen und
 ihn später wieder drauf drücken.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/minis/toothpaste.jpg&#34; alt=&#34;Toothpaste&#34; /&gt;&lt;/p&gt;
 </description>
-      </item>
-      
+    </item>
     
   </channel>
 </rss>
