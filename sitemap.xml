@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/2017_10_03/</loc>
+    <lastmod>2017-10-03T11:34:44+09:00</lastmod>
+  </url>
   
   <url>
     <loc>/posts/2017_09_23/</loc>
@@ -362,7 +368,7 @@
   </url>
   
   <url>
-    <loc>/posts/2017_06_13_Nachtrag/</loc>
+    <loc>/posts/2017_06_13_nachtrag/</loc>
     <lastmod>2017-06-13T09:58:23+09:00</lastmod>
   </url>
   
@@ -527,7 +533,7 @@
   </url>
   
   <url>
-    <loc>/posts/2017_05_11_Diskussionsclub/</loc>
+    <loc>/posts/2017_05_11_diskussionsclub/</loc>
     <lastmod>2017-05-11T23:57:14+09:00</lastmod>
   </url>
   
@@ -537,7 +543,7 @@
   </url>
   
   <url>
-    <loc>/posts/2017_05_10_Alltag/</loc>
+    <loc>/posts/2017_05_10_alltag/</loc>
     <lastmod>2017-05-10T19:31:38+09:00</lastmod>
   </url>
   
@@ -677,22 +683,22 @@
   </url>
   
   <url>
-    <loc>/posts/2017_04_12_CourseOrientation/</loc>
+    <loc>/posts/2017_04_12_courseorientation/</loc>
     <lastmod>2017-04-12T20:18:13+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017_04_11_LastFreeDay/</loc>
+    <loc>/posts/2017_04_11_lastfreeday/</loc>
     <lastmod>2017-04-11T07:12:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017_04_10_WelcomeParty/</loc>
+    <loc>/posts/2017_04_10_welcomeparty/</loc>
     <lastmod>2017-04-10T00:43:36+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017_04_09_Tokio-Handyvertrag-Shopping/</loc>
+    <loc>/posts/2017_04_09_tokio-handyvertrag-shopping/</loc>
     <lastmod>2017-04-09T19:53:33+09:00</lastmod>
   </url>
   
@@ -702,7 +708,7 @@
   </url>
   
   <url>
-    <loc>/posts/2017_04_08_ToyohashiWorkshop/</loc>
+    <loc>/posts/2017_04_08_toyohashiworkshop/</loc>
     <lastmod>2017-04-08T19:53:03+09:00</lastmod>
   </url>
   
@@ -771,8 +777,13 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2017-09-24T11:39:19+09:00</lastmod>
+    <lastmod>2017-10-03T11:34:44+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -784,7 +795,17 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-09-24T11:39:19+09:00</lastmod>
+    <lastmod>2017-10-03T11:34:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -3,13 +3,13 @@
   <channel>
 
     <title>@Felix’s Felix in Japan - Microposts</title>
-    <link>/microposts/index.xml</link>
+    <link>/microposts/</link>
     <description>All entries in Microposts on Felix in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <lastBuildDate>Mon, 14 Aug 2017 22:34:52 +0900</lastBuildDate>
-    <atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/microposts/" rel="self" type="application/rss+xml" />
     
       
       <item>
