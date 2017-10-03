@@ -1,4 +1,4 @@
 +++
-date = ""
+date: {{ .Date }}
 draft=true
 +++
