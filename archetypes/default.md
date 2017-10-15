@@ -1,5 +1,5 @@
 +++
 title = ""
-date= {{ .Date }}
-draft=true
+date = {{ .Date }}
+draft = true
 +++
