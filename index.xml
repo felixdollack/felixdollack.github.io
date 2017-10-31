@@ -8,8 +8,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Mon, 30 Oct 2017 13:54:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 23:40:12 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Test für angehende Ärzte</title>
+        <link>/microposts/surgeon_test/</link>
+        <pubDate>Tue, 31 Oct 2017 23:40:12 +0900</pubDate>
+        <author> (Felix Dollack)</author>
+        <guid>/microposts/surgeon_test/</guid>
+        <description>&lt;p&gt;Im Süden Japans, nahe Hiroshima, gibt es eine Klinik mit exzellenten Ärzten die
+einen speziellen Einstellungstest für angehende Ärzte hat. In jeweils 15 Minuten
+müssen die Kandidaten 3 Miniaturaufgaben erledigen. Die Idee finde ich super :D&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/lPEwFNNopfE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+      </item>
+      
     
       
       <item>
