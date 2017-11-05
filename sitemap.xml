@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/microposts/2017_11_06/</loc>
+    <lastmod>2017-11-06T00:17:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2017_11_05/</loc>
+    <lastmod>2017-11-05T08:53:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/microposts/surgeon_test/</loc>
     <lastmod>2017-10-31T23:40:12+09:00</lastmod>
   </url>
@@ -818,19 +828,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-10-31T23:40:12+09:00</lastmod>
+    <lastmod>2017-11-06T00:17:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/microposts/</loc>
-    <lastmod>2017-10-31T23:40:12+09:00</lastmod>
+    <lastmod>2017-11-06T00:17:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-10-30T13:54:52+09:00</lastmod>
+    <lastmod>2017-11-05T08:53:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
