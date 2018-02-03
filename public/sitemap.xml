@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/microposts/2018_02_03/</loc>
+    <lastmod>2018-02-03T20:15:41+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2018_02_03/</loc>
     <lastmod>2018-02-03T11:48:04+09:00</lastmod>
   </url>
@@ -908,13 +913,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-02-03T11:48:04+09:00</lastmod>
+    <lastmod>2018-02-03T20:15:41+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/microposts/</loc>
-    <lastmod>2018-01-05T22:36:00+09:00</lastmod>
+    <lastmod>2018-02-03T20:15:41+09:00</lastmod>
     <priority>0</priority>
   </url>
   
