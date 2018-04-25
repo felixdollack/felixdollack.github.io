@@ -6,10 +6,19 @@
     <description>Recent content in Microposts on Felix in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Feb 2018 20:15:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Apr 2018 12:28:19 +0900</lastBuildDate>
     
 	<atom:link href="/microposts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Imagine the Future ...</title>
+      <link>/microposts/future_teacher/</link>
+      <pubDate>Wed, 25 Apr 2018 12:28:19 +0900</pubDate>
+      
+      <guid>/microposts/future_teacher/</guid>
+      <description>Imagine the Future &amp;hellip; &amp;hellip; ist das Motto der Universität von Tsukuba. Sehr schön verkörpert von diesem Professor :)</description>
+    </item>
     
     <item>
       <title>Frühlingsanfang</title>
