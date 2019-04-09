@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
 	Handle = "Felix"
 	FirstName = "Felix"
 	LastName = "Dollack"
-	AboutPage = "/about"
+	AboutPage = "/aboutme"
 	Location = "Tsukuba, Japan"
 	FlickrID = "149203503@N04"
 
