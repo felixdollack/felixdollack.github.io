@@ -7,8 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Wed, 05 Sep 2018 22:21:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 00:44:13 +0900</lastBuildDate>
     <atom:link href="/microposts/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+      	
+          <title>Online Lebenslauf</title>
+        
+        <link>/microposts/aboutme/</link>
+        <pubDate>Wed, 10 Apr 2019 00:44:13 +0900</pubDate>
+        <author>Felix Dollack</author>
+        <guid>/microposts/aboutme/</guid>
+        <description>&lt;p&gt;Endlich gibt es auf der &amp;ldquo;About&amp;rdquo;-Seite etwas zu lesen. Ich habe einen Online-Lebenslauf
+mit Fotos, wissenschaftlichen Veroeffentlichungen und Projekten gebastelt. Es gibt
+sogar einen Abschnitt in dem ich technische Blogeintraege schreiben kann ohne es
+mit meinem regularen Blog zu vermischen :)&lt;/p&gt;
+
+&lt;p&gt;Schaut&amp;rsquo;s euch an! Einfach auf &amp;ldquo;About&amp;rdquo; klicken oder &lt;a href=&#34;https://felixdollack.github.io/aboutme&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
