@@ -3,8 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2019-05-27T22:27:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-05-27T22:27:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2019_05_27/</loc>
+    <lastmod>2019-05-27T22:27:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2019_05_10/</loc>
     <lastmod>2019-05-10T12:55:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/</loc>
+    <lastmod>2019-04-10T00:44:13+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1104,28 +1127,11 @@
   
   <url>
     <loc>/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-05-10T12:55:49+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/microposts/</loc>
-    <lastmod>2019-04-10T00:44:13+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-05-10T12:55:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
