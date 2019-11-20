@@ -1,5 +1,5 @@
 +++
-title = ""
-date = {{ .Date }}
+title = "{{ .Date }}"
+date = "{{ .Date }}"
 draft = true
 +++
