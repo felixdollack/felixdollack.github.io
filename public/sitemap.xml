@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/microposts/windowsklo/</loc>
-    <lastmod>2020-07-19T14:00:00+09:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-07-21T10:05:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/posts/2020_07_21/</loc>
+    <lastmod>2020-07-21T10:05:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-07-21T10:05:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/windowsklo/</loc>
     <lastmod>2020-07-19T14:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/microposts/</loc>
     <lastmod>2020-07-19T14:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-07-15T17:00:00+09:00</lastmod>
   </url>
   
   <url>
