@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/2020_09_08/</loc>
-    <lastmod>2020-09-08T10:00:15+09:00</lastmod>
+    <loc>/microposts/chupachups/</loc>
+    <lastmod>2020-09-10T09:00:28+09:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-09-10T09:00:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/microposts/</loc>
+    <lastmod>2020-09-10T09:00:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020_09_08/</loc>
     <lastmod>2020-09-08T10:00:15+09:00</lastmod>
   </url>
   
@@ -24,11 +34,6 @@
   
   <url>
     <loc>/microposts/corona_situation/</loc>
-    <lastmod>2020-09-06T23:38:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/microposts/</loc>
     <lastmod>2020-09-06T23:38:06+09:00</lastmod>
   </url>
   
