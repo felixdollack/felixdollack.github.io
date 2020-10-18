@@ -11,7 +11,7 @@ SectionPagesMenu = "main"
 	FirstName = "Felix"
 	LastName = "Dollack"
 	AboutPage = "/aboutme"
-	Location = "Tsukuba, Japan"
+	Location = "Tokyo, Japan"
 	FlickrID = "149203503@N04"
 
 [params]
