@@ -1,1262 +1,758 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
     <lastmod>2020-12-06T11:19:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_12_06/</loc>
     <lastmod>2020-12-06T11:19:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2020-12-06T11:19:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/</loc>
     <lastmod>2020-10-19T21:39:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/expensive_mushrooms/</loc>
     <lastmod>2020-10-19T21:39:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_10_18/</loc>
     <lastmod>2020-10-18T22:15:21+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_09_27_work/</loc>
     <lastmod>2020-09-27T16:20:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/vogelscheuchen/</loc>
     <lastmod>2020-09-12T10:30:48+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/chupachups/</loc>
     <lastmod>2020-09-10T09:00:28+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_09_08/</loc>
     <lastmod>2020-09-08T10:00:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_09_07/</loc>
     <lastmod>2020-09-07T00:39:51+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/corona_situation/</loc>
     <lastmod>2020-09-06T23:38:06+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_07_21/</loc>
     <lastmod>2020-07-21T10:05:21+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/windowsklo/</loc>
     <lastmod>2020-07-19T14:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_07_14/</loc>
     <lastmod>2020-07-15T17:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/tinybeer/</loc>
     <lastmod>2020-06-23T18:36:54+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_june_23/</loc>
     <lastmod>2020-06-23T16:33:51+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/cherries/</loc>
     <lastmod>2020-05-22T15:32:53+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_05_22/</loc>
     <lastmod>2020-05-22T10:00:20+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_03_01_templestay/</loc>
     <lastmod>2020-03-28T23:06:18+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_02_07/</loc>
     <lastmod>2020-02-08T00:57:59+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2020_01_07/</loc>
     <lastmod>2020-01-07T16:40:45+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/nov_20_2019/</loc>
     <lastmod>2019-11-20T09:58:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_07_21/</loc>
     <lastmod>2019-07-21T10:59:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_06_30_edinburgh/</loc>
     <lastmod>2019-06-30T06:06:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/robot_hairwash/</loc>
     <lastmod>2019-06-25T15:54:09+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_06_02/</loc>
     <lastmod>2019-06-04T16:38:18+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_05_27/</loc>
     <lastmod>2019-05-27T22:27:34+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_05_10/</loc>
     <lastmod>2019-05-10T12:55:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/aboutme/</loc>
     <lastmod>2019-04-10T00:44:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_04_08/</loc>
     <lastmod>2019-04-08T17:36:53+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_03_31/</loc>
     <lastmod>2019-04-01T08:35:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_03_25_moving/</loc>
     <lastmod>2019-03-25T22:38:30+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_march_10/</loc>
     <lastmod>2019-03-10T22:19:59+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_march_6th/</loc>
     <lastmod>2019-03-06T19:22:07+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2019_02_16/</loc>
     <lastmod>2019-02-16T19:03:23+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/newyear2019/</loc>
     <lastmod>2019-02-12T08:36:04+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_11_12/</loc>
     <lastmod>2018-11-12T12:13:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_10_21/</loc>
     <lastmod>2018-10-21T22:06:38+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_10_14/</loc>
     <lastmod>2018-10-14T19:43:14+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_10_07/</loc>
     <lastmod>2018-10-07T15:24:08+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_09_17/</loc>
     <lastmod>2018-09-17T11:44:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_09_10/</loc>
     <lastmod>2018-09-10T07:54:44+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/typhoon_jebi/</loc>
     <lastmod>2018-09-05T22:21:50+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_09_03/</loc>
     <lastmod>2018-09-03T07:45:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_08_19/</loc>
     <lastmod>2018-08-19T17:21:58+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_08_07/</loc>
     <lastmod>2018-08-07T12:26:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_07_28/</loc>
     <lastmod>2018-07-28T15:35:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_07_14/</loc>
     <lastmod>2018-07-14T09:24:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_07_09/</loc>
     <lastmod>2018-07-09T09:40:38+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_07_02/</loc>
     <lastmod>2018-07-02T15:37:31+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_06_24/</loc>
     <lastmod>2018-06-27T20:58:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/20180618/</loc>
     <lastmod>2018-06-18T22:38:39+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_06_18/</loc>
     <lastmod>2018-06-18T08:06:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_06_11/</loc>
     <lastmod>2018-06-12T15:32:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_06_03/</loc>
     <lastmod>2018-06-04T21:26:09+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_05_28/</loc>
     <lastmod>2018-05-28T22:51:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_05_20/</loc>
     <lastmod>2018-05-20T22:05:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_05_13/</loc>
     <lastmod>2018-05-13T11:43:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_05_07/</loc>
     <lastmod>2018-05-07T10:41:46+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_04_28/</loc>
     <lastmod>2018-05-01T09:27:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/future_teacher/</loc>
     <lastmod>2018-04-25T12:28:19+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_04_21/</loc>
     <lastmod>2018-04-21T09:50:44+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_04_14/</loc>
     <lastmod>2018-04-14T00:35:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_04_08/</loc>
     <lastmod>2018-04-08T07:59:44+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_03_04/</loc>
     <lastmod>2018-03-04T08:59:42+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_02_24/</loc>
     <lastmod>2018-02-24T15:07:29+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_02_11/</loc>
     <lastmod>2018-02-11T22:47:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2018_02_03/</loc>
     <lastmod>2018-02-03T20:15:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_02_03/</loc>
     <lastmod>2018-02-03T11:48:04+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_01_28/</loc>
     <lastmod>2018-01-28T13:22:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_01_20/</loc>
     <lastmod>2018-01-21T23:39:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_01_14/</loc>
     <lastmod>2018-01-14T21:00:25+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2018_01_06/</loc>
     <lastmod>2018-01-06T10:31:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/streetfood_tsukuba/</loc>
     <lastmod>2018-01-05T22:36:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_12_31/</loc>
     <lastmod>2018-01-01T04:15:34+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/helmet/</loc>
     <lastmod>2017-12-23T17:01:19+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_12_23/</loc>
     <lastmod>2017-12-23T08:26:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_12_12/</loc>
     <lastmod>2017-12-17T01:05:25+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_12_16_latepayment/</loc>
     <lastmod>2017-12-16T15:42:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_12_10/</loc>
     <lastmod>2017-12-10T12:05:25+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_12_02/</loc>
     <lastmod>2017-12-03T01:30:06+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_11_24/</loc>
     <lastmod>2017-11-24T21:43:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_11_19/</loc>
     <lastmod>2017-11-19T10:38:47+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_11_11/</loc>
     <lastmod>2017-11-11T16:46:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_11_06/</loc>
     <lastmod>2017-11-06T00:17:20+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_11_05/</loc>
     <lastmod>2017-11-05T08:53:34+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/surgeon_test/</loc>
     <lastmod>2017-10-31T23:40:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_10_30/</loc>
     <lastmod>2017-10-30T13:54:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_10_28/</loc>
     <lastmod>2017-10-28T18:42:20+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_10_28/</loc>
     <lastmod>2017-10-28T10:18:10+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_10_21/</loc>
     <lastmod>2017-10-22T19:48:46+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_10_14/</loc>
     <lastmod>2017-10-15T16:54:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_10_08/</loc>
     <lastmod>2017-10-08T14:26:31+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_10_03/</loc>
     <lastmod>2017-10-03T11:34:44+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_09_23/</loc>
     <lastmod>2017-09-24T11:39:19+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_09_17/</loc>
     <lastmod>2017-09-17T09:48:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_09_07/</loc>
     <lastmod>2017-09-07T20:50:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_20/</loc>
     <lastmod>2017-08-20T18:40:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_19/</loc>
     <lastmod>2017-08-19T18:45:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_18/</loc>
     <lastmod>2017-08-18T19:35:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_17/</loc>
     <lastmod>2017-08-17T20:10:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_16/</loc>
     <lastmod>2017-08-16T23:22:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_15/</loc>
     <lastmod>2017-08-15T17:39:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_08_14/</loc>
     <lastmod>2017-08-14T22:34:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_14/</loc>
     <lastmod>2017-08-14T20:40:57+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_13/</loc>
     <lastmod>2017-08-13T15:27:40+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_12/</loc>
     <lastmod>2017-08-12T18:53:14+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_11/</loc>
     <lastmod>2017-08-11T19:35:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_10/</loc>
     <lastmod>2017-08-10T23:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_09/</loc>
     <lastmod>2017-08-09T19:43:20+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_08/</loc>
     <lastmod>2017-08-08T17:54:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_07/</loc>
     <lastmod>2017-08-07T19:19:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/construction_meter/</loc>
     <lastmod>2017-08-07T01:46:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_06/</loc>
     <lastmod>2017-08-06T07:04:45+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_05/</loc>
     <lastmod>2017-08-05T11:24:18+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_04/</loc>
     <lastmod>2017-08-04T22:05:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_03/</loc>
     <lastmod>2017-08-03T23:29:58+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_02/</loc>
     <lastmod>2017-08-02T12:57:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_08_01/</loc>
     <lastmod>2017-08-01T16:01:37+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_31/</loc>
     <lastmod>2017-07-31T20:09:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_30/</loc>
     <lastmod>2017-07-30T22:54:02+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_28/</loc>
     <lastmod>2017-07-28T09:12:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_26/</loc>
     <lastmod>2017-07-26T16:46:19+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_25/</loc>
     <lastmod>2017-07-25T19:59:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_24/</loc>
     <lastmod>2017-07-24T20:42:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_23/</loc>
     <lastmod>2017-07-23T21:36:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_22/</loc>
     <lastmod>2017-07-22T22:23:23+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_21/</loc>
     <lastmod>2017-07-21T21:45:45+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_20/</loc>
     <lastmod>2017-07-20T23:19:42+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_19/</loc>
     <lastmod>2017-07-19T08:42:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_18/</loc>
     <lastmod>2017-07-18T11:25:48+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_17/</loc>
     <lastmod>2017-07-17T06:53:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_16/</loc>
     <lastmod>2017-07-16T23:07:23+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_15/</loc>
     <lastmod>2017-07-15T22:14:35+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_14/</loc>
     <lastmod>2017-07-14T21:51:28+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_13/</loc>
     <lastmod>2017-07-13T05:55:06+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_12/</loc>
     <lastmod>2017-07-12T13:10:10+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_11/</loc>
     <lastmod>2017-07-11T07:50:37+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_10/</loc>
     <lastmod>2017-07-10T19:44:59+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_09/</loc>
     <lastmod>2017-07-09T20:42:10+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_08/</loc>
     <lastmod>2017-07-08T23:29:38+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_07/</loc>
     <lastmod>2017-07-07T01:18:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_06/</loc>
     <lastmod>2017-07-06T23:18:21+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_05/</loc>
     <lastmod>2017-07-05T23:01:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_07_05/</loc>
     <lastmod>2017-07-05T22:51:57+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_04/</loc>
     <lastmod>2017-07-04T23:52:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_03/</loc>
     <lastmod>2017-07-03T22:41:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_02_workshop0/</loc>
     <lastmod>2017-07-02T21:43:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_07_01_barber/</loc>
     <lastmod>2017-07-01T19:02:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_30/</loc>
     <lastmod>2017-06-30T19:58:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_29/</loc>
     <lastmod>2017-06-29T19:57:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_28/</loc>
     <lastmod>2017-06-28T20:27:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_27/</loc>
     <lastmod>2017-06-27T20:05:01+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_26/</loc>
     <lastmod>2017-06-26T19:02:02+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_25/</loc>
     <lastmod>2017-06-25T13:24:50+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_24/</loc>
     <lastmod>2017-06-24T19:54:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_23/</loc>
     <lastmod>2017-06-23T23:58:09+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_22/</loc>
     <lastmod>2017-06-22T21:23:35+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_21/</loc>
     <lastmod>2017-06-21T01:21:57+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_20/</loc>
     <lastmod>2017-06-20T22:22:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_19/</loc>
     <lastmod>2017-06-19T11:46:10+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_18_botanical_garden/</loc>
     <lastmod>2017-06-18T20:05:57+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_16/</loc>
     <lastmod>2017-06-16T20:02:04+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_15/</loc>
     <lastmod>2017-06-15T23:47:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_14/</loc>
     <lastmod>2017-06-14T19:29:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_13/</loc>
     <lastmod>2017-06-13T09:58:28+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_13_nachtrag/</loc>
     <lastmod>2017-06-13T09:58:23+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_12/</loc>
     <lastmod>2017-06-12T22:31:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_11/</loc>
     <lastmod>2017-06-11T22:06:09+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_10/</loc>
     <lastmod>2017-06-10T22:49:01+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_09/</loc>
     <lastmod>2017-06-09T15:30:31+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_08/</loc>
     <lastmod>2017-06-08T22:56:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_07/</loc>
     <lastmod>2017-06-07T21:54:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_06/</loc>
     <lastmod>2017-06-06T23:40:59+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_05/</loc>
     <lastmod>2017-06-05T13:45:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_04/</loc>
     <lastmod>2017-06-04T23:29:28+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_02/</loc>
     <lastmod>2017-06-02T23:32:29+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_06_01/</loc>
     <lastmod>2017-06-01T22:06:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_31/</loc>
     <lastmod>2017-05-31T21:39:25+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_30/</loc>
     <lastmod>2017-05-30T22:25:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_29/</loc>
     <lastmod>2017-05-29T21:58:57+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_28/</loc>
     <lastmod>2017-05-28T20:51:07+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_27/</loc>
     <lastmod>2017-05-27T00:35:01+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_26/</loc>
     <lastmod>2017-05-26T00:36:35+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_25/</loc>
     <lastmod>2017-05-25T00:11:35+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_24/</loc>
     <lastmod>2017-05-24T00:51:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_23/</loc>
     <lastmod>2017-05-23T01:08:43+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_22/</loc>
     <lastmod>2017-05-22T23:07:42+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_21_hyoko/</loc>
     <lastmod>2017-05-21T00:14:39+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_20_cook_work/</loc>
     <lastmod>2017-05-20T14:47:45+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_19_hayfever/</loc>
     <lastmod>2017-05-19T23:35:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_18_work/</loc>
     <lastmod>2017-05-18T14:45:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_17_nothing/</loc>
     <lastmod>2017-05-17T23:24:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_16_pbr/</loc>
     <lastmod>2017-05-16T21:42:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/antiearthquakebuilt/</loc>
     <lastmod>2017-05-15T14:46:49+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_15_seminars/</loc>
     <lastmod>2017-05-15T13:40:20+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_14_biketour/</loc>
     <lastmod>2017-05-14T22:37:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_05_13_dodgeball/</loc>
     <lastmod>2017-05-13T00:22:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_12_fridge/</loc>
     <lastmod>2017-05-12T09:22:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_11_diskussionsclub/</loc>
     <lastmod>2017-05-11T23:57:14+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_05_10_advertisments/</loc>
     <lastmod>2017-05-10T21:26:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_10_alltag/</loc>
     <lastmod>2017-05-10T19:31:38+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_09_practise/</loc>
     <lastmod>2017-05-09T20:24:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_08_/</loc>
     <lastmod>2017-05-08T08:46:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_07_openstudio/</loc>
     <lastmod>2017-05-07T23:14:34+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_06_akihabara/</loc>
     <lastmod>2017-05-06T16:10:20+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_05_tokyo/</loc>
     <lastmod>2017-05-05T16:10:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_04_bike/</loc>
     <lastmod>2017-05-04T13:21:32+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_03_work/</loc>
     <lastmod>2017-05-03T13:21:29+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_02_ayako_jap/</loc>
     <lastmod>2017-05-02T00:08:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_05_01_labrotation_ps4/</loc>
     <lastmod>2017-05-01T23:01:54+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_30_takoyaki/</loc>
     <lastmod>2017-04-30T20:22:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_29_/</loc>
     <lastmod>2017-04-29T00:52:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_28_jap_party/</loc>
     <lastmod>2017-04-28T08:07:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_27_class/</loc>
     <lastmod>2017-04-27T22:18:51+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_26_largespace/</loc>
     <lastmod>2017-04-26T07:35:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_25_reasearchmeeting/</loc>
     <lastmod>2017-04-25T13:37:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_24_basicgrant/</loc>
     <lastmod>2017-04-24T13:37:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_23_weekend/</loc>
     <lastmod>2017-04-23T19:57:21+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_21_bread-and-beer/</loc>
     <lastmod>2017-04-21T20:46:38+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017_04_21_womanonly/</loc>
     <lastmod>2017-04-21T12:40:19+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_20_everydaylife/</loc>
     <lastmod>2017-04-20T00:46:32+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_19_healthcheck/</loc>
     <lastmod>2017-04-19T22:26:19+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_18_brainstorming/</loc>
     <lastmod>2017-04-18T23:09:14+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_17_classes-cybathlon/</loc>
     <lastmod>2017-04-17T15:41:43+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_16_easy-sunday/</loc>
     <lastmod>2017-04-16T20:20:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_15_hanami/</loc>
     <lastmod>2017-04-15T22:07:25+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_14_intro-shopping/</loc>
     <lastmod>2017-04-14T22:49:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_13_more-courses/</loc>
     <lastmod>2017-04-13T07:57:26+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_12_courseorientation/</loc>
     <lastmod>2017-04-12T20:18:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_11_lastfreeday/</loc>
     <lastmod>2017-04-11T07:12:47+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_10_welcomeparty/</loc>
     <lastmod>2017-04-10T00:43:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_09_tokio-handyvertrag-shopping/</loc>
     <lastmod>2017-04-09T19:53:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017-04-08_toilet/</loc>
     <lastmod>2017-04-08T22:35:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_08_toyohashiworkshop/</loc>
     <lastmod>2017-04-08T19:53:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_07_orientation-entrance/</loc>
     <lastmod>2017-04-07T08:04:29+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_06_first-seminar/</loc>
     <lastmod>2017-04-06T21:58:58+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_05-meeting_and_shopping/</loc>
     <lastmod>2017-04-05T21:35:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/2017-04-04_everything-is-cute/</loc>
     <lastmod>2017-04-04T22:28:47+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_04-moving/</loc>
     <lastmod>2017-04-04T19:51:28+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_03-break/</loc>
     <lastmod>2017-04-03T18:46:01+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_02-first_sunday/</loc>
     <lastmod>2017-04-02T07:13:28+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/walk_motivation/</loc>
     <lastmod>2017-04-01T23:08:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/microposts/japanese_toothpaste/</loc>
     <lastmod>2017-04-01T20:02:42+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_04_01-first_saturday/</loc>
     <lastmod>2017-04-01T11:29:50+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_03_31-townhall/</loc>
     <lastmod>2017-03-31T11:18:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/2017_03_29-travel_to_japan/</loc>
     <lastmod>2017-03-29T12:53:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
