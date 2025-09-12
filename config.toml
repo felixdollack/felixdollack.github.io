@@ -8,7 +8,7 @@ SectionPagesMenu = "main"
 [pagination]
   pagerSize = 10
 
-[author]
+[params.author]
 	Handle = "Felix"
 	FirstName = "Felix"
 	LastName = "Dollack"
