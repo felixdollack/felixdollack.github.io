@@ -421,10 +421,9 @@ Laut staatlichem Fernsehen liegt das an der Aussprache xD&lt;/p&gt;
 &lt;p&gt;Das ist natürlich völliger Blödsinn! Aber so ist Fernsehn nun mal, wer nichts zu
 sagen hat erfindet eben was &amp;hellip;&lt;/p&gt;
 &lt;p&gt;Der Teil den ich meine started ab 0:30 im Video.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/qtguUkJ0fWM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qtguUkJ0fWM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Ich halte mich mit meiner Freundin seit Ende März hauptsächlich drinnen auf.
 Zum einkaufen gehen wir, (das heißt meistens ich, weil sie arbeiten muss) nur
@@ -542,34 +541,34 @@ Tischvariante von Astrocade nochmal ausstellen. Maker Fair ist eine Messe für
 Bastler und wird an verschiedenen Orten auf der Welt gehalten.  In Deutschland
 gibt es Maker Faires in&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Ort&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Datum&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Sindelfingen&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;7. November&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Dortmund&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;28-29. März&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hannover&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;12-13. September&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Berlin&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;18-19. April&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Chemnitz&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;28-29. März&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Ort&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Datum&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sindelfingen&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7. November&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dortmund&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;28-29. März&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hannover&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;12-13. September&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Berlin&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;18-19. April&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Chemnitz&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;28-29. März&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Wer Zeit hat und in der Nähe ist sollte da ruhig mal vorbeischauen ;)&lt;/p&gt;
 &lt;hr&gt;
@@ -747,15 +746,13 @@ Blick auf das Meer hat.&lt;/p&gt;
         <author>Felix Dollack</author>
         <guid>/microposts/robot_hairwash/</guid>
         <description>&lt;p&gt;Roboter können Haare waschen und ich erfahre das erst 10 Jahre später :D&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/CioVfxwtutM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/CioVfxwtutM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/7nyq-9_t3EE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/7nyq-9_t3EE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
       </item>
@@ -1201,10 +1198,9 @@ Gefühl habe gegen den Strom arbeiten zu müssen.&lt;/p&gt;
 wissenschaftliches Handeln erfordert, aber ich darf doch zumindest konstruktive
 Kritik erwarten, oder etwa nicht?&lt;/p&gt;
 &lt;p&gt;Naja, ich will mich nicht beschweren sondern mit was lustigerem enden ;)&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/eUNs2dUd8Rk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/eUNs2dUd8Rk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Mir wurde gesagt, dass dieses Gerät in Schulen und Krankenhäusern verwendet wird,
 um Eindringlinge bis zum Eintreffen der Polizei unter Kontrolle zu halten :D
@@ -1333,10 +1329,9 @@ dem Weg dorthin bemerkbar. Straßen waren für den Verkehr gesperrt und Familien
 haben Stände mit Essen und Getränken am Wegrand aufgebaut.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_10_07/people.jpg&#34; alt=&#34;Völkerwanderung&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Einen kleinen Ausschnitt des Feuerwerks gibt es hier:&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ec76uR4RWPs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ec76uR4RWPs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Leide wurde nach der Hälfte abgebrochen, da den Zündmeistern wohl an einer
 Stelle ein Fehler unterlaufen ist und einige Feuerwerkskörper zu nah über den
@@ -1366,10 +1361,9 @@ bekannt vor. Aber das Tierchen war mir trotzdem neu. Die Japaner meinten, dass
 es vor ein paar Jahren deutlich mehr davon gab und sie langsam verschwinden und
 sehr selten geworden sind.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_09_17/bagworm.jpg&#34; alt=&#34;Sackspinner&#34;&gt;&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/FbRm4TPTbBA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FbRm4TPTbBA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Am Sonntag war ich dann in Odawara. Das ist eine geschichtsträchtige Stadt
 südlich von Tokyo nahe des Meers an einer alten Handelsstraße. Die erste
@@ -1574,10 +1568,9 @@ wie die Erwachsenen mit dem tragbaren Schrein (zu japanisch mikoshi) zu laufen.&
 drehen und dabei alle am Rand stehenden mit einzubeziehen. So bin ich auch
 dazugekommen bei einem japanischen Sommerfestival einen Schrein durch die Gegend
 zu tragen :D&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/IXYoBASz7c4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IXYoBASz7c4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Der Weg zurück in der Nacht war etwas schwieriger, weil mich das Navi in Tokyo
 ein paar Straßen durch die Stadt gelotst hat, um Weg zwischen zwei Autobahnen zu
@@ -1588,7 +1581,6 @@ in Japan besser ist mit den öffentlichen Verkehrsmitteln zu fahren, solange man
 die Möglichkeit dazu hat. Für abgelegene Orte und Fahrten mit vielen Leuten ohne
 Autobahn, was oft doppelt so lange dauert wie nötig, ist es überlegenswert sich
 ein Auto zu leihen.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -1710,7 +1702,6 @@ mein Restgeld überlassen haben, zum Flughafen gefahren. Er wollte erst mehr fü
 die Fahrt haben, hat dann aber lachend eingewilligt, als ich ihm den Inhalt des
 Geldbeutels vorgezählt habe :D&lt;/p&gt;
 &lt;p&gt;Mehr Fotos vom Urlaub finden sich bei Flickr in diesem &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157696362024742&#34;&gt;Album&lt;/a&gt; ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -1729,7 +1720,6 @@ Insel &lt;a href=&#34;https://www.google.com/maps/place/Phi+Phi+Islands/@7.75273
 ich genau war, schreibe ich dann nächstes Wochenende. Vermutlich etwas später,
 da ich meinen Laptop nicht mitnehme und erstmal eine Abgabefrist habe wenn ich
 wieder zurück bin :D&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -1894,7 +1884,6 @@ Erklärung der vorgetragenen Geschichte. Ich konnte also ungefähr erraten, wann
 welcher Teil dran war. Wen es interessiert, ein anderer Besucher des Konzerts
 hat ein &lt;a href=&#34;https://www.youtube.com/watch?v=LHbLKvccoJA&#34;&gt;Video&lt;/a&gt; hochgeladen ;)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_06_24/concert.jpg&#34; alt=&#34;Kabuki Konzert&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -1941,23 +1930,20 @@ losgelassen.&lt;/p&gt;
 einer Seilrutsche endeten. Ich hatte meine 360 Grad Kamera dabei und habe mich
 etwas ausgetobt (mit &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157696410649171&#34;&gt;fotografieren&lt;/a&gt; und Videos aufnehmen). Das folgende Video
 zeigt das Ende der ersten Route.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/IkKWYCVnbKI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IkKWYCVnbKI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Ein Teil der dritten Route ging über eine Hängebrücke. Die einzige Möglichkeit
 für etwas Halt, war die Sicherungsleine in der Mitte über dem Weg an der ich
 mich mit meiner freien Hand festklammere ;)&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/-Mr6xXPjLMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/-Mr6xXPjLMg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Verglichen mit den Hochseilgärten in denen ich in Deutschland war, hatte ich das
 Gefühl, dass dieser hier mit den 4 Routen ziemlich groß und mit knapp 30 Euro
 auch dementsprechend teuer war.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2002,12 +1988,10 @@ ohne Verletzungen zu versuchen. War ein super Tag, aber jetzt hab ich höllische
 Muskelkater :D&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_06_11/tramp1.jpg&#34; alt=&#34;Trampolinhalle 1/2&#34;&gt;
 &lt;img src=&#34;/img/2018_06_11/tramp2.jpg&#34; alt=&#34;Trampolinhalle 2/2&#34;&gt;&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/O9_t5OXeHsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/O9_t5OXeHsU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2095,7 +2079,6 @@ Packstation nutzen.&lt;/p&gt;
 Sonne zu genießen, da es relativ trocken ist und die Regenzeit demnächst
 anfängt. Dann ist es draußen dauernass und super stickig, da die Hitze bleibt.
 Hoffe bei euch ist es ebenfalls sonnig und ihr habt Zeit den Sommer zu genießen :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2147,7 +2130,6 @@ Trackpad gefunden, dass besser funktioniert und ich finde es grauenhaft eine
 Maus bei einem Laptop zu benutzen. Preislich ist es fast egal, weil bislang alle
 Laptops, die ich mir angeschaut habe und die mir gefallen haben, preislich
 zwischen 1700 und 2000 Euro liegen (&lt;a href=&#34;https://www.apple.com/de/shop/buy-mac/macbook-pro?product=MPXV2D/A&amp;amp;step=config#&#34;&gt;Macbook Pro&lt;/a&gt;, &lt;a href=&#34;http://www.dell.com/de-de/shop/cty/pdp/spd/xps-13-9370-laptop/cnx37016&#34;&gt;Dell XPS&lt;/a&gt;, &lt;a href=&#34;https://consumer.huawei.com/de/tablets/matebook-x-pro/&#34;&gt;Huawei Mate X&lt;/a&gt;).&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2297,7 +2279,6 @@ im Juli und dann Semesterferien im August, aber das ist hier ja auch wieder
 anders, weil man dann im letzten Moment noch Arbeit bekommt. Mal sehen, ob ich
 im Sommer einfach ein paar Tage blau mache und irgendwo anders hinfliege. Bietet
 sich ja an. Asien ist groß und gerade gut gelegen ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2340,7 +2321,6 @@ Ich konnte daher leider nicht weg, weil ich Morgen wieder meinen Job als
 Assistent habe. Aber dafür habe ich mir Karten für das Kabinett der Kuriositäten
 des &lt;a href=&#34;https://www.cirquedusoleil.com/kurios&#34;&gt;Cirque du Soleil&lt;/a&gt; am Donnerstag in Tokyo gegönnt. Und wenn nichts
 dazwischen kommt gehe ich nächsten Samstag in einen Hochseilgarten :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2574,7 +2554,6 @@ ankomme. Hier ist nämlich tatsächlich Frühling. Heute sollen es 20 Grad werde
 zurück fliege ist gleich am ersten Wochenende ein Workshop an dem ich teilnehmen
 muss und danach fängt dann der reguläre Unterricht an. Will noch gar nicht
 darüber nachdenken &amp;hellip;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2624,7 +2603,6 @@ Mitglied im Tee-Club und wird die Teezeremonie mit uns durchführen.&lt;/p&gt;
 &lt;p&gt;In 9 Tagen geht dann mein Flug zurück nach Deutschland :)
 Da bin ich dann für einen Monat und habe hoffentlich nicht ganz so viel für die
 Uni zu tun. Bis dahin gibt es noch einen letzten Eintrag&amp;hellip;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2744,7 +2722,6 @@ lerne ich auch die Aussprache :)&lt;/p&gt;
 &lt;p&gt;Kommende Woche Dienstag soll mein Sofa kommen und am Freitag ist ein Geburtstag
 mit Karaoke geplant. Bis dahin müsste ich dann auch mit der Hälfte meiner
 Abgaben durch sein :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -2880,7 +2857,6 @@ Unterstand sich auf circa 700 Euro belaufen.&lt;/p&gt;
 &lt;p&gt;In der kommenden Woche muss ich Unterlagen für meine Bewertung am Semesterende
 abgeben und mein Poster für die Präsentation am 5. Februar machen. Beides wird
 als &amp;ldquo;Klasur&amp;rdquo; gewertet und zum Vorrücken ins nächste Semester benötigt.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3053,7 +3029,6 @@ weiter unterhalten, gegessen und noch einige Videos geschaut. Ich hab ihnen
 Dinner for One gezeigt, dass sie noch nicht kannten, aber sehr lustig fanden :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_12_31/newyear.jpg&#34; alt=&#34;Party&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;gesundes-neues-jahr-2018-wünsche-ich-allen&#34;&gt;Gesundes neues Jahr 2018 wünsche ich allen!&lt;/h1&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3152,7 +3127,6 @@ der erste Eintrag vermutlich etwas später kommt. Muss mich ja etwas einrichten
 und meine neue Adresse an verschiedene Stellen (Stadt, Uni, Telefonanbieter,
 Bank, Kreditbank, Versicherung, etc.) weitergeben. Das wird ein Spaß :D&lt;/p&gt;
 &lt;p&gt;Für Morgen wünsche ich allen ein fröhliches Weihnachtsfest :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3256,7 +3230,6 @@ geschaut.&lt;/p&gt;
 der Hausarbeiten setzen, damit ich an Weihnachten und Silvester meine Ruhe haben
 kann.&lt;/p&gt;
 &lt;p&gt;Schönen dritten Advent :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3648,7 +3621,6 @@ Buffet und hinterher noch Süßes aus Vietnam, Korea, Indien und ein paar Toffif
 aus Deutschland ;)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_11_11/buffet.jpg&#34; alt=&#34;Buffet&#34;&gt;
 &lt;img src=&#34;/img/2017_11_11/group.jpg&#34; alt=&#34;Festgesellschaft&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3722,7 +3694,6 @@ Donnerstag Abend geht es dann weiter nach Osaka, weil wir Freitag Mittag mit dem
 Businesskurs die Firma Panasonic besuchen. Und Samstag ist dann noch eine Art
 Erntefest der Gemeinschaft von Reisbauern, wo ich letzten Monat bei der Ernte
 geholfen habe.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3737,10 +3708,9 @@ geholfen habe.&lt;/p&gt;
         <description>&lt;p&gt;Im Süden Japans, nahe Hiroshima, gibt es eine Klinik mit exzellenten Ärzten die
 einen speziellen Einstellungstest für angehende Ärzte hat. In jeweils 15 Minuten
 müssen die Kandidaten 3 Miniaturaufgaben erledigen. Die Idee finde ich super :D&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/lPEwFNNopfE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lPEwFNNopfE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 </description>
       </item>
@@ -3771,16 +3741,14 @@ als Aprilscherz veröffentlicht. Yamaha hat auf der Motorshow ein Motorrad
 vorgestellt, dass den Vorstellungen von Google sehr nahe kommt. Es folgt seinem
 Fahrer, wenn dieser zu Fuß vor ihm her läuft und es bleibt, auch beim Versuch es
 umzustoßen, stehen.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/e8iCZUCDZMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/e8iCZUCDZMo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Mir persönlich haben die beiden Konzeptfahrzeuge von Honda am besten gefallen.
 Der kleinere Wagen sieht wegen den Lichtern ein bisschen aus wie ein alter Golf
 :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_10_30/honda.jpg&#34; alt=&#34;Honda Konzeptauto&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -3860,7 +3828,6 @@ das dritte Ticket teilen. Soweit jedenfalls der Plan. Falls wir es Morgen nicht
 hinbekommen, können wir noch nächstes Wochenende fahren, da die Ausstellung
 gerade erst angefangen hat. Falls wir fahren gibt es morgen Abend eventuell noch
 einen weiteren kurzen Eintrag ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -4300,7 +4267,6 @@ Oculus Rift (die virtual Reality Brille, die Bruno auf dem ersten Bild trägt)
 ankommen. Und da Mittwoch bis Freitag noch nichts geplant ist, werde ich
 vermutlich an einem kurzen Vortrag arbeiten und mein neues Spielzeug ausprobieren.
 Die nächsten Fotos und Berichte gibt es dann in einer Woche :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -4344,7 +4310,6 @@ ich vielleicht kurz erwähnen, dass ich nicht mehr täglich schreiben will,
 sondern nur noch, wenn ich was wichtiges oder aufregendes zu erzählen habe.
 Ich finde das Wetter oder mein Essen hier nämlich selbst nicht so spannend, aber
 ich bin ja auch lernfähig ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -4604,7 +4569,6 @@ ausgefüllten Formular gemacht, damit ich das beim nächsten Mal alleine
 hinkriege. Muss ich schließlich ab jetzt bei jeder Flugreise machen. Als das
 erledigt war, habe ich mir noch was zu Essen geholt und bin zurück ins Wohnheim
 gefahren.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -4641,7 +4605,6 @@ nicht herausfinden können.&lt;/p&gt;
 gemeinsam über den Parkour zu radeln und die Straßenregeln zu verinnerlichen.
 Ich bin nach einer Stunde wieder zurück ins Wohnheim, um ein Eis zu essen und
 mich im Schatten zu verstecken :D&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -4674,7 +4637,6 @@ Landkarte in Tsukuba nach einem Ort gesucht an dem ich gestern mit dem Bus
 vorbeigekommen bin und der mir interessant aussah. Der Plan für Morgen ist es,
 dort hinzuradeln und mir das genauer anzuschauen und hier ein paar Fotos zu
 zeigen ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -4779,7 +4741,6 @@ ist Feiertag. Tag des Berges. Beim suchen nach Ausflugszielen habe ich einiges
 gefunden, dass ich irgendwann gerne machen möchte, allerdings habe ich mich noch
 für nichts entscheiden können. Mal sehen, vielleicht fahre ich zum Wasserfall in
 Fukuroda :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -5038,7 +4999,6 @@ nach Hause nehmen. Das Ziel sind alle die interessiert sind. Auch für Kinder is
 einiges geboten. In Hannover gibt es auch jedes Jahr eine &lt;a href=&#34;https://maker-faire.de/hannover/&#34;&gt;Maker Faire&lt;/a&gt;, aber
 jedesmal wenn ich bislang dort hinwollte, ist mir was dazwischen gekommen. Wen
 es interessiert, dieses Jahr findet sie vom 26.-27.08. statt.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -5101,65 +5061,65 @@ Kleinen, das mich Morgens geweckt hat, gab es noch 3 kleinere Beben, die
 allerdings so schwach waren, dass sie in Tsukuba nicht mehr gemessen werden
 konnten.&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Uhrzeit&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Tiefe&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Stärke&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Werte in Tsukuba nach JMA&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;00:38&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;60 km&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;3.6&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;02:02&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10 km&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;5.5&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt; 07:16&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;50 km&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;4.6&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Uhrzeit&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Tiefe&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Stärke&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Werte in Tsukuba nach JMA&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;00:38&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;60 km&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;02:02&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10 km&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt; 07:16&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;50 km&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Die Erklärung zur Japanischen Skala (&lt;a href=&#34;https://de.wikipedia.org/wiki/JMA-Skala&#34;&gt;JMA&lt;/a&gt;) ist wie folgt:&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Intensität&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Wirkung auf den Menschen&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Situation in Gebäuden&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Situation im Freien&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt; 1&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;für manche Menschen spürbar&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt; 3&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;für die meisten Menschen spürbar, löst bei manchen Menschen Angst aus&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Geschirr in Regalen kann scheppern&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Stromleitungen schwingen etwas&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;löst verbreitet Angst aus, manche Menschen suchen Schutz, die meisten Schlafenden erwachen&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt; hängende Objekte pendeln erheblich, Geschirr scheppert, instabil aufgestellte Schmuckgegenstände können umfallen&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Stromleitungen schwingen stark, auch für gehende Menschen spürbar, einige Autofahrer bemerken das Beben&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Intensität&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Wirkung auf den Menschen&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Situation in Gebäuden&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Situation im Freien&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt; 1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;für manche Menschen spürbar&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt; 3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;für die meisten Menschen spürbar, löst bei manchen Menschen Angst aus&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Geschirr in Regalen kann scheppern&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stromleitungen schwingen etwas&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;löst verbreitet Angst aus, manche Menschen suchen Schutz, die meisten Schlafenden erwachen&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt; hängende Objekte pendeln erheblich, Geschirr scheppert, instabil aufgestellte Schmuckgegenstände können umfallen&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Stromleitungen schwingen stark, auch für gehende Menschen spürbar, einige Autofahrer bemerken das Beben&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Den restlichen Tag habe ich an der Uni verbracht und weitere Vorbereitungen für
 mein Experiment gemacht. Keisuke hat mir beim Übersetzen der Anleitung ins
@@ -5167,7 +5127,6 @@ Japanische geholfen und ich habe die Messung meiner Kopfhörer von letzter Woche
 überprüft. Morgen muss ich zusehen, dass ich meinen PC in einen anderen Raum
 stellen kann, der etwas ruhiger ist als unser Büro. Dann kann ich denke ich
 anfangen zu messen.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -5518,7 +5477,6 @@ sein. Verstanden hab ich nicht viel, aber das Arrangement der Stimmen hat bei
 mir für ordentlich Gänsehaut gesorgt :D&lt;/p&gt;
 &lt;p&gt;Für Morgen ist nichts geplant, aber wahrscheinlich werde ich etwas für die Uni
 machen und mich auf das Treffen mit meinem Betreuer vorbereiten.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -5580,7 +5538,6 @@ kann.&lt;/p&gt;
 &lt;p&gt;Morgen will ich zum Iias Einkaufszentrum etwas außerhalb von Tsukuba fahren und
 sehen, ob ich im Sommerschlussverkauf was nettes finde. Eine kurze Hose oder so.
 Am späten Nachmittag höre ich mir dann das Universitätsorchester an :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -5632,10 +5589,9 @@ müsste sich Firefox oder Google Chrome installieren, um das Video mit der 360
 Grad Funktion sehen zu können. Leider stimmt die Ausrichtung am Anfang des
 Videos nicht mit meiner Bewegungsrichtung überein, ihr müsst den Blickwinkel
 daher auf jeden Fall wie eben erklärt ändern.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/nQg-qSue_-k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/nQg-qSue_-k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Um 9 Uhr war ich kurz im EMP Sekretariat, um meine Reiseantrag zu
 unterschreiben. Ich bekomme vor Antritt der Reise 97 % des Fluges und ca 80 Euro
@@ -5708,38 +5664,38 @@ machen, steht dem Tests nichts im Weg. Ich reduziere meine Schlafenszeit aber
 nicht wirklich. Ich verteile sie nur anders. Im Moment fahre ich am Besten mit
 folgendem Plan:&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Einschlafen&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Aufstehen&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;00:00&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;04:40&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;07:20&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;07:40&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10:40&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;11:00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14:00&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14:20&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;17:20&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;17:40&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;20:40&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;21:00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Einschlafen&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Aufstehen&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;00:00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;04:40&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;07:20&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;07:40&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10:40&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11:00&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14:00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14:20&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17:20&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17:40&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;20:40&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;21:00&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Insgesamt schlafe ich so 6 Stunden und 20 Minuten jeden Tag. Wenn ich dem
 Beispiel aus dem Internet folge, wären es nur 4 Stunden, 3 in der Nacht und
@@ -6129,7 +6085,6 @@ dem Zeitpunkt leider Unterricht. Wird aber denke ich nicht so schlimm, da wir
 bereits angefangen haben und die grobe Sturktur bereits steht. Ich hoffe, dass
 ich wenigstens ein Wochenende Ende Juli noch für einen Ausflug nutzen kann. Ich
 würde gerne ans Meer fahren. Mal sehen ob das klappt :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -6307,10 +6262,9 @@ großen Regenschirm unter einem leeren Sitzplatz gefunden. Den muss ein Passagie
 auf dem Weg vergessen haben, da dort seit 3 Stationen niemand mehr gesessen hat.
 Ich hab ihn mit aus dem Zug genommen und einem guten Zweck zugeführt, indem ich
 ihn benutzt habe, um nach Hause zu laufen.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BvXdVxQv430&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BvXdVxQv430?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Vorher habe ich den Holländern noch dabei geholfen mit Taxis zu ihrem Wohnheim
 zu fahren. Die hätten sonst 1 Stunde ohne Regenschirme laufen müssen. Auf dem
@@ -6417,10 +6371,9 @@ Bilder des Tages habe ich in &lt;a href=&#34;https://www.flickr.com/photos/felix
 &lt;p&gt;Die Bahn braucht knapp 15 Minuten bis zu einer Anhöhe zwischen dem linken,
 männlichen Gipfel Nantai und dem rechten, weiblichen Gipfel Nyotai, wobei Sie
 sich zwischendurch eine Steigung von gut 39 % hochkämpft.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/VvmtRGxIGf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VvmtRGxIGf4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Die Sicht auf dem Gipfel ist super. Das Wetter war sehr gut, dafür dass es
 eigentlich ein Hitzegewitter geben sollte, aber leider nicht gut genug, um den
@@ -6435,7 +6388,6 @@ Essen ganz ohne Hilfe in Japanisch bestellt. Da war ich etwas stolz hinterher :D
 auch was das eigentliche Ziel des ganzen ist. Außerdem habe ich um kurz nach 10
 Uhr eine schriftliche Prüfung für die ich jetzt noch etwas lernen muss, daher
 endet der Eintrag jetzt auch ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7016,7 +6968,6 @@ funktioniert.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_06_18/IMG_3820.jpg&#34; alt=&#34;Biene&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In den Blumen vor den Gewächshäusern habe ich dann auch noch eine echte Biene
 entdeckt. Vor der muss ich mich zum Glück nicht in Acht nehmen :D&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7103,10 +7054,9 @@ Gebiet von Ferrofluiden. Ein Ferrofluid ist eine Flüssigkeit (häufig Öl) die 
 Metallpartikel von wenigen Nanometern Größe vermischt ist. Setzt man diese
 Flüssigkeit einem Magnetfeld aus, arrangieren sich die Partikel in der
 Flüssigkeit entlang der Magnetfeldlinien.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/cFa9SVsxfug&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/cFa9SVsxfug?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Wer noch mehr Videos von Ferrofluid sehen will, kann sich den &lt;a href=&#34;https://www.youtube.com/channel/UCkJhKJbEF8uyYLRFkS4s-9g/videos&#34;&gt;Youtube Kanal&lt;/a&gt;
 von Frau Kodama ansehen.&lt;/p&gt;
@@ -7119,7 +7069,6 @@ bleibt abzuwarten ;D&lt;/p&gt;
 für Morgen früh zu machen und diesen Eintrag hier zu schreiben. Wenn ich das zu
 Hause mache trödle ich immer so lange rum, dass es dann schon Mitternacht ist,
 bis ich endlich damit fertig bin ;)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7200,10 +7149,9 @@ ging Abendessen zu holen. Was hab ich dazwischen gemacht? Musik gehört und an
 einer Videodemonstration für das Projekt mit Yuta und Minatsu gebastelt.
 Das Spiel, welches wir uns für den großen Projektionsraum an der Uni ausdenken,
 wird wohl so ähnlich aussehen.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/PBDi7jh5AQM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PBDi7jh5AQM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Das Besondere ist die Steuerung. Es gibt zwei Teams mit je 2 Spielern. Die
 Spieler eines Teams steuern das Raumschiff gemeinsam, durch ihre Bewegung am
@@ -7219,7 +7167,6 @@ nächste Woche auf den neuesten Stand gebracht.&lt;/p&gt;
 mal dort. Außerdem stehe ich in Kontakt mit Jörg, meinem Betreuer von der
 Masterarbeit, um Details für eine Zusammenarbeit in meinem alten Thema
 auszuhandeln.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7612,7 +7559,6 @@ ersten Blick nicht mit anderen Deadlines.&lt;/p&gt;
 &lt;p&gt;Morgen Früh ist wieder maschinelles Lernen angesagt. Eigentlich hab ich nicht so
 sehr Lust drauf und ich brauch die Punkte ja auch nicht, aber ich sollte schon
 gehen. Künstliche Intelligenz erschafft sich nicht von selbst. Zum Glück ;D&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7701,12 +7647,10 @@ ging um &lt;a href=&#34;https://de.wikipedia.org/wiki/Dyslexie&#34;&gt;Dyslexie&
 Film über den stotternden George VI ist sehr zu empfehlen. Ich kannte ihn zum
 Glück schon, allerdings frage ich mich jetzt, was die Dozentin im Report
 erwartet. Naja, ich hab ja eine Woche Zeit, um das herauszufinden &amp;hellip;&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/11gNc3xHM4k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/11gNc3xHM4k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7749,7 +7693,6 @@ ein mögliches Mittel gegen &lt;a href=&#34;http://www.deutschlandfunk.de/alzhei
 &lt;p&gt;Nach der Vorlesung bin ich mit Floris, Karlos und Chun Kwang in Ali&amp;rsquo;s Kebab Haus
 zum Abendessen gewesen. Es gab Döner im Angebot, aber ich habe mir für indischen
 Reis und Naan Brot entschieden. Döner kann ich mir wann anders auch noch essen.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7920,7 +7863,6 @@ Ausflug vorgenommen, da ich demnächst ein paar kleinere Vorträge halten muss,
 die ich gerne schon vorbereiten möchte. Vielleicht gehe ich an einem Tag ins
 Tsukuba Expo Zentrum, um mir eine Ausstellung anzusehen. Werde ich etwas davon
 abhängig machen, wie weit ich mit den Vorträgen komme.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -7949,10 +7891,9 @@ so aus als ob man angeschaut wird. Durch Eye Tracking (das verfolgen der
 Blickrichtung der Augen) können zusätzliche Daten übermittelt werden die in Form
 eines Auges auf dem Bildschirm dargestellt werden. Ist etwas schwierig zu
 erklären. Am Besten einfach im Video anschauen ;)&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/zp4oxv7NhLA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zp4oxv7NhLA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Im dritten Vortrag wurde uns von den Fortschritten und Problemen bei der
 Fertigstellung der Software zur Steuerung der Projektoren im Large Space
@@ -7967,7 +7908,6 @@ Mini-Vortrag zu unseren Forschungsthemen vorbereiten. Da kommt eine Dozentin aus
 Kyoto die unsere Ideen bewerten und uns Ratschläge dazu geben soll.&lt;/p&gt;
 &lt;p&gt;Jetzt muss ich wieder zum Ende kommen. Es ist wieder halb 1 und ich hab Morgen
 um 8:40 Uhr wieder Unterricht. Gute Nacht :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -8148,7 +8088,6 @@ ausspielen. Der Clou ist jedoch, dass man die Karten seiner Mitspieler sehen
 kann, seine eigenen aber nicht kennt. Sehr empfehlenswertes Spiel :)&lt;/p&gt;
 &lt;p&gt;Morgen unernehme ich eine kleine Radtour zum &amp;ldquo;Berg&amp;rdquo; Hyoko. Mal sehen was ich auf
 meinem Weg und dem Gipfel so alles sehe :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -8227,7 +8166,6 @@ fahren im Dunkeln besser zu sehen bin. Außerdem wollte ich ausprobieren, ob ich
 tatsächlich Post an meine Adresse bekomme. Scheint zu funktionieren. Jetzt kann
 ich endlich meinen Ofen bestellen :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_18/led.jpg&#34; alt=&#34;LED Armbänder&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -8299,7 +8237,6 @@ benötigten Teilen anfertigen, uns erkundigen wie der Bestellvorgang über die U
 läuft, sowie ein einfaches Beispiel der Spielmechanik und eine Designidee des
 tragbaren Geräts haben.&lt;/p&gt;
 &lt;p&gt;Ich bin schon gespannt, was wir aus der Idee machen werden :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -8374,7 +8311,6 @@ eine Hausaufgabe für den Diskussionskurs fertig machen.&lt;/p&gt;
 &lt;p&gt;Am Abend treffen wir uns um 19 Uhr zum Feiern der erfolgreich abgeschlossenen
 Projektarbeiten in einem Okonomiyaki Restaurant. Okonomiyaki lässt sich schlecht
 übersetzen, deswegen schicke ich euch für eine Erklärung besser zu &lt;a href=&#34;https://de.wikipedia.org/wiki/Okonomiyaki&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -8767,10 +8703,9 @@ einstellen und beschleunigt wird mit einer Fernbediehung in Form eines Armreifs.
 Durch die Konstruktion kann nahezu jeder das Gerät benutzen, egal ob mit dem
 Skateboard, Rollschuhen, einem einfachen Rollbrett oder einem Rollstuhl. Ich
 hatte auch meinen Spaß beim Ausprobieren mit dem Rollbrett :)&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/hIxlJVoeUh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hIxlJVoeUh0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Ich bin übrigens nicht bis um 4 Uhr geblieben. Zum Mittagessen bin ich zu einem
 Bentoshop gelaufen und danach mit dem Essen zurück ins Wohnheim. Dort hab ich
@@ -8899,17 +8834,15 @@ Hochhauses (in jedem Stockwerk ist ein anderes Restaurant) bekommen wir den
 einzigen Fensterplatz und ruhen uns bei Ingwerschorle und Curry aus.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_05/india.jpg&#34; alt=&#34;Indisches Restaurant&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Es ist sehr interessant dem Treiben auf der Kreuzung zuzusehen.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/JLsle0CuC4c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JLsle0CuC4c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Allerdings ist auf der bekanntesten Kreuzung vor der Haltestelle Shibuya
 noch etwas mehr los.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/XpmaJynaovE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XpmaJynaovE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Es ist inzwischen 18 Uhr und wir machen uns auf den Weg zurück nach Shinjuku.
 Dort liegt ein Kneipenviertel das uns von dem Finnen Daniel in Erlangen beim
@@ -9050,7 +8983,6 @@ Ich entschuldige mich kurz und helfe ihr beim Kerzen anzünden. Beim reinkommen
 singen wir Happy Birthday. Wir essen gemeinsam den Kuchen und schauen
 &lt;a href=&#34;https://de.wikipedia.org/wiki/Breaking_Bad&#34;&gt;Breaking Bad&lt;/a&gt; bis kurz nach 10. Dann gehen alle Schlafen.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_02/chun.jpg&#34; alt=&#34;Geburtstagskind&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9096,7 +9028,6 @@ aus. Sitzt gut und macht echt Spaß. Hat aber im direkten Vergleich mit der
 Oculus Rift ein kleineres Display, was dem eigentlichen Ziel der Immersion eher
 entgegen wirkt. Aber ich sollte mich nicht beschweren, da ich das Ding umsonst
 benutzen darf und mir keine teuere Konsole und das Zubehör kaufen muss :P&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9165,7 +9096,6 @@ zum Wohnheim halten wir bei einem weiteren Supermarkt um Zutaten für &lt;a href
 zu kaufen. Takoyaki sind kleine Bällchen mit Oktopus. Minatsu hat das richtige
 Gerät, um die Bällchen zu machen. Das ist der Plan für morgen Mittag. Wir machen
 zu dritt im Gemeinschaftsraum Takoyaki.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9245,10 +9175,9 @@ nach dem Mittagessen. Das heißt morgen geht es direkt los.&lt;/p&gt;
 Kunstunterricht. Der Dozent hat wieder Bilder und Videos von 2 Künstlern dabei
 und lässt uns kreativ den Sinn und Zweck der Arbeiten erraten. Das Video zeigt
 eine der Arbeiten im BMW Museum München.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/HVhVClFMg6Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/HVhVClFMg6Y?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Das war die letzte Unterrichtsstunde für heute. Ich gehe noch etwas ins Labor,
 um auszuprobieren, ob ich das Experiment aus meiner Masterarbeit noch zum laufen
@@ -9372,10 +9301,9 @@ Eingabegeräten für den Computer. Maus, Tastatur, verschieden Touchscreens,
 Joysticks und einige ältere Sachen von denen ich noch nichts gehört hatte, wie
 zum Beispiel dem &lt;a href=&#34;https://de.wikipedia.org/wiki/Lichtgriffel&#34;&gt;Lichtgriffel&lt;/a&gt;, mit dem man schon 1960 Eingaben direkt auf dem
 Bildschirm machen konnte. Lange vor den ersten Touchscreens.&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/yJDv-zdhzMY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yJDv-zdhzMY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Der Herr in dem Video ist Douglas C. Engelbart. Bei einer Präsentation 1968
 zeigte er bereits Technik die erst viel später von den Verbrauchern genutzt
@@ -9397,7 +9325,6 @@ vorgewarnt, dass ich Budget für Bahnfahrten nach Tokio einplanen soll.
 Ich schicke den fertigen Antrag an den Programmleiter Professor Iwata. Ein paar
 Minuten später kommt die Antwort. OK. Wahrscheinlich hat er es nicht gelesen.
 Ist denke ich aber auch nur für die Verwaltung und als Nachweis gedacht.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9540,10 +9467,9 @@ das uns der Dozent zeigt. Wir bekommen ein großes Blatt Papier und Stifte und
 sollen bildlich überlegen was das Gerät tut. Yuta kommt zufällig auf die
 Funktion der Uhr. Es ist ein Kunstwerk das im laufe eines Jahres einen 2 Meter
 langen Schaal strickt. Verrückt :)&lt;/p&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/vpl-Pj6sWmI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vpl-Pj6sWmI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
 &lt;p&gt;Um kurz vor 5 werden wir zu einer kurzen Vorbesprechung für einen weiteren Kurs
 gerufen. Wir sollen Diskutieren lernen. Dazu kommt alle 2 Wochen extra ein
@@ -9644,7 +9570,6 @@ lassen.&lt;/p&gt;
 &lt;p&gt;Ich nehme den Bus zurück zum Wohnheim und hole mir noch ein Onigiri (ein
 Reisbällchen, häufig auch dreieckig, mit verschiedenen Füllungen). Danach hüpfe
 ich ins Bett, weil ich super müde bin.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9716,7 +9641,6 @@ zum Wohnheim laufen mussten. Wegen dem Wetter mussten wir etwas langsamer gehen
 und auf unsere Regenschirme aufpassen, daher dauert es etwas länger bis wir
 zurück im Wohnheim waren. Kurz vor 1 Uhr war ich endlich im Bett.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_04_17/heavyrain.jpg&#34; alt=&#34;Regen&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9747,7 +9671,6 @@ darf, dann könnte ich einen Abstecher nach Deutschland machen :)&lt;/p&gt;
 Gleich am Montag Abend ist eine Veranstaltung der Schweizer Botschaft zu einer
 Olympiade für Menschen mit High-Tech-Prothesen. Bin schon gespannt, was wir da
 zu sehen bekommen.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -9784,7 +9707,6 @@ ich bis zum Abendessen im Gemeinschaftsraum und schaue die Serie Touch, in der
 es um einen Vater und seinen autistisch veranlagten Sohn geht, der nur in Zahlen
 mit ihm kommuniziert. Wen es interessiert der kann sich ja mal die &lt;a href=&#34;https://www.youtube.com/watch?v=5QodN8RCvjI&#34;&gt;Vorschau&lt;/a&gt;
 ansehen.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -10129,7 +10051,6 @@ Ganze schlagartig auf und wie fahren mit dem Bus zu einem Hotel in dem die
 Universität Zimmer für uns reserviert hat. Nachdem ich bei dem Buffet schon
 ordentlich zugelangt habe, bin ich direkt ins Bett. Einen kurzen Rundumblick vom
 Hotelzimmer gibt es &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157682336384396&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -10248,7 +10169,6 @@ IKEA holen. Da weiß ich wenigstens was es gibt und fahre nicht einfach nur hin,
 um dann festzustellen, dass der Laden das, was ich haben will, gar nicht im
 Sortiment hat. Auf Grund der Reise werden die nächsten Einträge etwas später
 kommen. Vielleicht Sonntag Nachmittag, wenn ich nicht zu erledigt bin.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -10383,7 +10303,6 @@ auch nicht lange und wir sitzen zu fünft vor einer großen Leinwand und spielen
 Super Mario Smash Brothers. Um kurz nach 10 gehen wir uns Bett, da jemand eine
 Email von unserem Supervisor bekommen hat, die uns zur Teilnahme an einer
 Besprechung am nächsten Morgen einlädt.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -10515,7 +10434,6 @@ das mich der Crepe nicht so viel gekostet hat. Naja egal. Sie kam noch mit zur
 Unterkunft, da Sie eigentlich einen Freund besuchen wollte, der ebenfalls dort
 wohnt. Ich ließ mir noch Ihre Email-Adresse geben, um Ihr die Fotos schicken zu
 können und verabschiedete mich um den Döner auf meinem Zimmer zu verdrücken :)&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -10716,7 +10634,6 @@ halt und ich nahm mir Wraps zum Frühstück mit.&lt;/p&gt;
 &lt;p&gt;Vor dem Schlafengehen setzte ich mich noch ins Foyer um meine E-Mails und
 Chat-Nachrichten zu beantworten. Leider ging es nicht länger als 10 Minuten,
 weil die Internetverbindung mehrfach unterbrach und ich dann zu müde wurde.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
@@ -10741,8 +10658,6 @@ abfahrbereiten Zug. Ich verabschiede mich von Papa und meiner Schester und
 steige ein. 7:05 Uhr, der Zug rollt an. An weiterschlafen ist nicht zu denken.
 Bin zwar müde, aber viel zu aufgeregt.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/fra_nrt/zug.JPG&#34; alt=&#34;Zug nach Frankfurt&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;In Nürnberg umsteigen und dann 2,5 Stunden bis zum ersten Ziel. Wegen
 technischer Störungen und einem Zug der uns die Einfahrt in einen Bahnhof
 versperrt, komme ich mit leichter Verspätung (20 min) um kurz nach 10 Uhr in
