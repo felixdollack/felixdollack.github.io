@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@Felix’s Felix in Japan - Microposts</title>
-    <link>//microposts/</link>
+    <link>/microposts/</link>
     <description>All entries in Microposts on Felix in Japan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,7 +11,9 @@
     
       
       <item>
-        <title>Nikolaus</title>
+      	
+          <title>Nikolaus</title>
+        
         <link>/posts/2020_12_06/</link>
         <pubDate>Sun, 06 Dec 2020 11:19:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -50,7 +52,9 @@ Frohen Nikolaus und immer schön Maske tragen ;)&lt;/p&gt;
     
       
       <item>
-        <title>Teure Pilze</title>
+      	
+          <title>Teure Pilze</title>
+        
         <link>/microposts/expensive_mushrooms/</link>
         <pubDate>Mon, 19 Oct 2020 21:39:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -64,7 +68,9 @@ Frohen Nikolaus und immer schön Maske tragen ;)&lt;/p&gt;
     
       
       <item>
-        <title>Der erste Monat</title>
+      	
+          <title>Der erste Monat</title>
+        
         <link>/posts/2020_10_18/</link>
         <pubDate>Sun, 18 Oct 2020 22:15:21 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -96,7 +102,9 @@ in der Zeit zu Mittag gegessen.&lt;/p&gt;
     
       
       <item>
-        <title>Der Neue Job</title>
+      	
+          <title>Der Neue Job</title>
+        
         <link>/posts/2020_09_27_work/</link>
         <pubDate>Sun, 27 Sep 2020 16:20:16 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -136,7 +144,9 @@ wichtig, darum geben wir unser Bestes ^.^&lt;/p&gt;
     
       
       <item>
-        <title>2020-09-12T10:30:48&#43;09:00</title>
+      	
+          <title>2020-09-12T10:30:48&#43;09:00</title>
+        
         <link>/microposts/vogelscheuchen/</link>
         <pubDate>Sat, 12 Sep 2020 10:30:48 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -150,7 +160,9 @@ Leute die nachts an dem Reisfeld vorbei laufen müssen :D&lt;/p&gt;
     
       
       <item>
-        <title>2020-09-10T09:00:28&#43;09:00</title>
+      	
+          <title>2020-09-10T09:00:28&#43;09:00</title>
+        
         <link>/microposts/chupachups/</link>
         <pubDate>Thu, 10 Sep 2020 09:00:28 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -164,7 +176,9 @@ kann? Schmeckt genau wie der Lutscher. Viel zu süß xD&lt;/p&gt;
     
       
       <item>
-        <title>Der letzte Urlaub</title>
+      	
+          <title>Der letzte Urlaub</title>
+        
         <link>/posts/2020_09_08/</link>
         <pubDate>Tue, 08 Sep 2020 10:00:15 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -218,7 +232,9 @@ eines früheren Vulkanausbruchs zu einem See aufstaut.&lt;/p&gt;
     
       
       <item>
-        <title>Der neue Job</title>
+      	
+          <title>Der neue Job</title>
+        
         <link>/posts/2020_09_07/</link>
         <pubDate>Mon, 07 Sep 2020 00:39:51 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -253,7 +269,9 @@ es los. Wie viel ich dann über meine Arbeit verraten kann, weiß ich noch nicht
     
       
       <item>
-        <title>2020-09-06T23:38:06&#43;09:00</title>
+      	
+          <title>2020-09-06T23:38:06&#43;09:00</title>
+        
         <link>/microposts/corona_situation/</link>
         <pubDate>Sun, 06 Sep 2020 23:38:06 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -271,7 +289,9 @@ Die Warnschilder scheinen die Hardcore-Fans nicht abzuschrecken&amp;hellip;&lt;/
     
       
       <item>
-        <title>Pferde-sushi</title>
+      	
+          <title>Pferde-sushi</title>
+        
         <link>/posts/2020_07_21/</link>
         <pubDate>Tue, 21 Jul 2020 10:05:21 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -294,7 +314,9 @@ aber man kann ja nie wissen. Wir müssen uns ja nur an den &lt;a href=&#34;https
     
       
       <item>
-        <title>Das Windows-Klo</title>
+      	
+          <title>Das Windows-Klo</title>
+        
         <link>/microposts/windowsklo/</link>
         <pubDate>Sun, 19 Jul 2020 14:00:00 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -309,7 +331,9 @@ einem Windows Tablet gesehen habe. Normal sind da nur Knöpfe neben dem Sitz.&lt
     
       
       <item>
-        <title>Urlaub in Okinawa</title>
+      	
+          <title>Urlaub in Okinawa</title>
+        
         <link>/posts/2020_07_14/</link>
         <pubDate>Wed, 15 Jul 2020 17:00:00 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -360,7 +384,9 @@ Mal sehen was bei allem herauskommt &amp;hellip; ;)&lt;/p&gt;
     
       
       <item>
-        <title>2020-06-23T18:36:54&#43;09:00</title>
+      	
+          <title>2020-06-23T18:36:54&#43;09:00</title>
+        
         <link>/microposts/tinybeer/</link>
         <pubDate>Tue, 23 Jun 2020 18:36:54 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -375,7 +401,9 @@ Und meine Hand zum Größenvergleich.&lt;/p&gt;
     
       
       <item>
-        <title>Es ist Sommer egal ob man schwitzt oder friert, oder einen Job hat :D</title>
+      	
+          <title>Es ist Sommer egal ob man schwitzt oder friert, oder einen Job hat :D</title>
+        
         <link>/posts/2020_june_23/</link>
         <pubDate>Tue, 23 Jun 2020 16:33:51 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -394,7 +422,9 @@ Und meine Hand zum Größenvergleich.&lt;/p&gt;
     
       
       <item>
-        <title>Teure Kirschen</title>
+      	
+          <title>Teure Kirschen</title>
+        
         <link>/microposts/cherries/</link>
         <pubDate>Fri, 22 May 2020 15:32:53 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -408,7 +438,9 @@ für knapp 5 Euro&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Covid-19</title>
+      	
+          <title>Covid-19</title>
+        
         <link>/posts/2020_05_22/</link>
         <pubDate>Fri, 22 May 2020 10:00:20 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -421,9 +453,10 @@ Laut staatlichem Fernsehen liegt das an der Aussprache xD&lt;/p&gt;
 &lt;p&gt;Das ist natürlich völliger Blödsinn! Aber so ist Fernsehn nun mal, wer nichts zu
 sagen hat erfindet eben was &amp;hellip;&lt;/p&gt;
 &lt;p&gt;Der Teil den ich meine started ab 0:30 im Video.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qtguUkJ0fWM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/qtguUkJ0fWM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Ich halte mich mit meiner Freundin seit Ende März hauptsächlich drinnen auf.
 Zum einkaufen gehen wir, (das heißt meistens ich, weil sie arbeiten muss) nur
@@ -460,7 +493,9 @@ Bis dahin, bleibt zu Hause, bleibt Gesund!&lt;/p&gt;
     
       
       <item>
-        <title>Nachtrag: Schnee-Bergsteigen und Übernachtung im Tempel</title>
+      	
+          <title>Nachtrag: Schnee-Bergsteigen und Übernachtung im Tempel</title>
+        
         <link>/posts/2020_03_01_templestay/</link>
         <pubDate>Sat, 28 Mar 2020 23:06:18 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -505,7 +540,9 @@ Muskelkater in den Waden xD&lt;/p&gt;
     
       
       <item>
-        <title>Dr. Felix Dollack</title>
+      	
+          <title>Dr. Felix Dollack</title>
+        
         <link>/posts/2020_02_07/</link>
         <pubDate>Sat, 08 Feb 2020 00:57:59 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -541,34 +578,34 @@ Tischvariante von Astrocade nochmal ausstellen. Maker Fair ist eine Messe für
 Bastler und wird an verschiedenen Orten auf der Welt gehalten.  In Deutschland
 gibt es Maker Faires in&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Ort&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Datum&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Sindelfingen&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;7. November&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Dortmund&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;28-29. März&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Hannover&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;12-13. September&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Berlin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;18-19. April&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Chemnitz&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;28-29. März&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Ort&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Datum&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sindelfingen&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;7. November&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dortmund&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;28-29. März&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Hannover&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;12-13. September&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Berlin&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;18-19. April&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Chemnitz&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;28-29. März&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Wer Zeit hat und in der Nähe ist sollte da ruhig mal vorbeischauen ;)&lt;/p&gt;
 &lt;hr&gt;
@@ -604,7 +641,9 @@ ist, aber ich habe schon deutlich gemacht, dass ich dann woanders hin möchte.&l
     
       
       <item>
-        <title>Neujahr</title>
+      	
+          <title>Neujahr</title>
+        
         <link>/posts/2020_01_07/</link>
         <pubDate>Tue, 07 Jan 2020 16:40:45 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -631,7 +670,9 @@ zusammenschließen und dann wollen wir sehen was die Katze so kann.&lt;/p&gt;
     
       
       <item>
-        <title>Zeitsprung</title>
+      	
+          <title>Zeitsprung</title>
+        
         <link>/posts/nov_20_2019/</link>
         <pubDate>Wed, 20 Nov 2019 09:58:56 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -678,7 +719,9 @@ Es wird also kaum langweilig in nächster Zeit ;D&lt;/p&gt;
     
       
       <item>
-        <title>Kuzer Urlaub</title>
+      	
+          <title>Kuzer Urlaub</title>
+        
         <link>/posts/2019_07_21/</link>
         <pubDate>Sun, 21 Jul 2019 10:59:11 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -712,7 +755,9 @@ ich den Rest des Sonntags :)&lt;/p&gt;
     
       
       <item>
-        <title>Schottland</title>
+      	
+          <title>Schottland</title>
+        
         <link>/posts/2019_06_30_edinburgh/</link>
         <pubDate>Sun, 30 Jun 2019 06:06:27 +0100</pubDate>
         <author>Felix Dollack</author>
@@ -740,19 +785,23 @@ Blick auf das Meer hat.&lt;/p&gt;
     
       
       <item>
-        <title>Roboter können Haare waschen</title>
+      	
+          <title>Roboter können Haare waschen</title>
+        
         <link>/microposts/robot_hairwash/</link>
         <pubDate>Tue, 25 Jun 2019 15:54:09 +0900</pubDate>
         <author>Felix Dollack</author>
         <guid>/microposts/robot_hairwash/</guid>
         <description>&lt;p&gt;Roboter können Haare waschen und ich erfahre das erst 10 Jahre später :D&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/CioVfxwtutM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/7nyq-9_t3EE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/CioVfxwtutM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7nyq-9_t3EE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
       </item>
@@ -760,7 +809,9 @@ Blick auf das Meer hat.&lt;/p&gt;
     
       
       <item>
-        <title>Wandern</title>
+      	
+          <title>Wandern</title>
+        
         <link>/posts/2019_06_02/</link>
         <pubDate>Tue, 04 Jun 2019 16:38:18 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -807,7 +858,9 @@ Onsen entspannt.&lt;/p&gt;
     
       
       <item>
-        <title>Wo geht es hin?</title>
+      	
+          <title>Wo geht es hin?</title>
+        
         <link>/posts/2019_05_27/</link>
         <pubDate>Mon, 27 May 2019 22:27:34 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -848,7 +901,9 @@ vor dem Herbst machen, um überhaupt zum Schreiben meiner Arbeit zugelassen zu w
     
       
       <item>
-        <title>Verpasste Zeit</title>
+      	
+          <title>Verpasste Zeit</title>
+        
         <link>/posts/2019_05_10/</link>
         <pubDate>Fri, 10 May 2019 12:55:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -890,7 +945,9 @@ jeder einen Schwimmbecken grossen Raum mit Beamern hat ;)&lt;/p&gt;
     
       
       <item>
-        <title>Online Lebenslauf</title>
+      	
+          <title>Online Lebenslauf</title>
+        
         <link>/microposts/aboutme/</link>
         <pubDate>Wed, 10 Apr 2019 00:44:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -906,7 +963,9 @@ mit meinem regularen Blog zu vermischen :)&lt;/p&gt;
     
       
       <item>
-        <title>Hanami und digitale Kunst</title>
+      	
+          <title>Hanami und digitale Kunst</title>
+        
         <link>/posts/2019_04_08/</link>
         <pubDate>Mon, 08 Apr 2019 17:36:53 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -936,7 +995,9 @@ die noch frühlingshaften 22 Grad ohne viel Luftfeuchtigkeit genießen :)&lt;/p&
     
       
       <item>
-        <title>Tagesausflug ans Meer</title>
+      	
+          <title>Tagesausflug ans Meer</title>
+        
         <link>/posts/2019_03_31/</link>
         <pubDate>Mon, 01 Apr 2019 08:35:24 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -980,7 +1041,9 @@ keine Bilder mehr machen können, weil meinem Telefon der Saft ausgegangen ist.&
     
       
       <item>
-        <title>Die neue Wohnung</title>
+      	
+          <title>Die neue Wohnung</title>
+        
         <link>/posts/2019_03_25_moving/</link>
         <pubDate>Mon, 25 Mar 2019 22:38:30 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1016,7 +1079,9 @@ Woche alles so eingerichtet habe, wie ich es mir vorstelle.&lt;/p&gt;
     
       
       <item>
-        <title>Es wird Frühling</title>
+      	
+          <title>Es wird Frühling</title>
+        
         <link>/posts/2019_march_10/</link>
         <pubDate>Sun, 10 Mar 2019 22:19:59 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1055,7 +1120,9 @@ neuen Bleibe gibt es erst in 2 Wochen ;)&lt;/p&gt;
     
       
       <item>
-        <title>Echtes Brot</title>
+      	
+          <title>Echtes Brot</title>
+        
         <link>/posts/2019_march_6th/</link>
         <pubDate>Wed, 06 Mar 2019 19:22:07 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1095,7 +1162,9 @@ zeitnah wieder zu melden ;D&lt;/p&gt;
     
       
       <item>
-        <title>Japanischer Führerschein</title>
+      	
+          <title>Japanischer Führerschein</title>
+        
         <link>/posts/2019_02_16/</link>
         <pubDate>Sat, 16 Feb 2019 19:03:23 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1135,7 +1204,9 @@ ich eine Verehrerin :D&lt;/p&gt;
     
       
       <item>
-        <title>2019</title>
+      	
+          <title>2019</title>
+        
         <link>/posts/newyear2019/</link>
         <pubDate>Tue, 12 Feb 2019 08:36:04 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1175,7 +1246,9 @@ Abgabe nicht in ein Loch falle und nichts mache :D&lt;/p&gt;
     
       
       <item>
-        <title>Lange überfälliges Update</title>
+      	
+          <title>Lange überfälliges Update</title>
+        
         <link>/posts/2018_11_12/</link>
         <pubDate>Mon, 12 Nov 2018 12:13:00 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1198,9 +1271,10 @@ Gefühl habe gegen den Strom arbeiten zu müssen.&lt;/p&gt;
 wissenschaftliches Handeln erfordert, aber ich darf doch zumindest konstruktive
 Kritik erwarten, oder etwa nicht?&lt;/p&gt;
 &lt;p&gt;Naja, ich will mich nicht beschweren sondern mit was lustigerem enden ;)&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/eUNs2dUd8Rk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/eUNs2dUd8Rk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Mir wurde gesagt, dass dieses Gerät in Schulen und Krankenhäusern verwendet wird,
 um Eindringlinge bis zum Eintreffen der Polizei unter Kontrolle zu halten :D
@@ -1215,7 +1289,9 @@ Land, wo es kaum Schusswaffengewalt gibt :)&lt;/p&gt;
     
       
       <item>
-        <title>Zufällige Beobachtungen</title>
+      	
+          <title>Zufällige Beobachtungen</title>
+        
         <link>/posts/2018_10_21/</link>
         <pubDate>Sun, 21 Oct 2018 22:06:38 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1248,7 +1324,9 @@ herumlungert, um ein bestimmtes Pokemon zu fangen ist schon abgefahren :D&lt;/p&
     
       
       <item>
-        <title>Spieleabend und Flugticket</title>
+      	
+          <title>Spieleabend und Flugticket</title>
+        
         <link>/posts/2018_10_14/</link>
         <pubDate>Sun, 14 Oct 2018 19:43:14 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1279,7 +1357,9 @@ nach Neujahr am 3. Januar geplant.&lt;/p&gt;
     
       
       <item>
-        <title>Lebenszeichen</title>
+      	
+          <title>Lebenszeichen</title>
+        
         <link>/posts/2018_10_07/</link>
         <pubDate>Sun, 07 Oct 2018 15:24:08 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1329,9 +1409,10 @@ dem Weg dorthin bemerkbar. Straßen waren für den Verkehr gesperrt und Familien
 haben Stände mit Essen und Getränken am Wegrand aufgebaut.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_10_07/people.jpg&#34; alt=&#34;Völkerwanderung&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Einen kleinen Ausschnitt des Feuerwerks gibt es hier:&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ec76uR4RWPs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ec76uR4RWPs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Leide wurde nach der Hälfte abgebrochen, da den Zündmeistern wohl an einer
 Stelle ein Fehler unterlaufen ist und einige Feuerwerkskörper zu nah über den
@@ -1344,7 +1425,9 @@ unter dem Feuerwerk ein. Blöd sowas.&lt;/p&gt;
     
       
       <item>
-        <title>Reisernte und Burg Odawara</title>
+      	
+          <title>Reisernte und Burg Odawara</title>
+        
         <link>/posts/2018_09_17/</link>
         <pubDate>Mon, 17 Sep 2018 11:44:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1361,9 +1444,10 @@ bekannt vor. Aber das Tierchen war mir trotzdem neu. Die Japaner meinten, dass
 es vor ein paar Jahren deutlich mehr davon gab und sie langsam verschwinden und
 sehr selten geworden sind.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_09_17/bagworm.jpg&#34; alt=&#34;Sackspinner&#34;&gt;&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FbRm4TPTbBA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/FbRm4TPTbBA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Am Sonntag war ich dann in Odawara. Das ist eine geschichtsträchtige Stadt
 südlich von Tokyo nahe des Meers an einer alten Handelsstraße. Die erste
@@ -1385,7 +1469,9 @@ Tänze zu moderner Musik aufführt. Sehr energiegeladen und nett anzusehen :)&lt
     
       
       <item>
-        <title>Es wird Herbst</title>
+      	
+          <title>Es wird Herbst</title>
+        
         <link>/posts/2018_09_10/</link>
         <pubDate>Mon, 10 Sep 2018 07:54:44 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1427,7 +1513,9 @@ mich vermutlich den Rest der Woche beschäftigen&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Taifun Jebi</title>
+      	
+          <title>Taifun Jebi</title>
+        
         <link>/microposts/typhoon_jebi/</link>
         <pubDate>Wed, 05 Sep 2018 22:21:50 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1447,7 +1535,9 @@ nicht gesehen.&lt;/p&gt;
     
       
       <item>
-        <title>Alltag</title>
+      	
+          <title>Alltag</title>
+        
         <link>/posts/2018_09_03/</link>
         <pubDate>Mon, 03 Sep 2018 07:45:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1503,7 +1593,9 @@ Diese Katze hat definitiv 7 Leben :D&lt;/p&gt;
     
       
       <item>
-        <title>Auto fahren in Japan</title>
+      	
+          <title>Auto fahren in Japan</title>
+        
         <link>/posts/2018_08_19/</link>
         <pubDate>Sun, 19 Aug 2018 17:21:58 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1568,9 +1660,10 @@ wie die Erwachsenen mit dem tragbaren Schrein (zu japanisch mikoshi) zu laufen.&
 drehen und dabei alle am Rand stehenden mit einzubeziehen. So bin ich auch
 dazugekommen bei einem japanischen Sommerfestival einen Schrein durch die Gegend
 zu tragen :D&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IXYoBASz7c4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/IXYoBASz7c4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Der Weg zurück in der Nacht war etwas schwieriger, weil mich das Navi in Tokyo
 ein paar Straßen durch die Stadt gelotst hat, um Weg zwischen zwei Autobahnen zu
@@ -1581,13 +1674,16 @@ in Japan besser ist mit den öffentlichen Verkehrsmitteln zu fahren, solange man
 die Möglichkeit dazu hat. Für abgelegene Orte und Fahrten mit vielen Leuten ohne
 Autobahn, was oft doppelt so lange dauert wie nötig, ist es überlegenswert sich
 ein Auto zu leihen.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Sommer</title>
+      	
+          <title>Sommer</title>
+        
         <link>/posts/2018_08_07/</link>
         <pubDate>Tue, 07 Aug 2018 12:26:55 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1631,7 +1727,9 @@ Abkühlung nachzudenken. Ich hoffe das bleibt eine Weile so :D&lt;/p&gt;
     
       
       <item>
-        <title>Thailand</title>
+      	
+          <title>Thailand</title>
+        
         <link>/posts/2018_07_28/</link>
         <pubDate>Sat, 28 Jul 2018 15:35:55 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1702,13 +1800,16 @@ mein Restgeld überlassen haben, zum Flughafen gefahren. Er wollte erst mehr fü
 die Fahrt haben, hat dann aber lachend eingewilligt, als ich ihm den Inhalt des
 Geldbeutels vorgezählt habe :D&lt;/p&gt;
 &lt;p&gt;Mehr Fotos vom Urlaub finden sich bei Flickr in diesem &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157696362024742&#34;&gt;Album&lt;/a&gt; ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Ab heute ist Urlaub</title>
+      	
+          <title>Ab heute ist Urlaub</title>
+        
         <link>/posts/2018_07_14/</link>
         <pubDate>Sat, 14 Jul 2018 09:24:41 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1720,13 +1821,16 @@ Insel &lt;a href=&#34;https://www.google.com/maps/place/Phi+Phi+Islands/@7.75273
 ich genau war, schreibe ich dann nächstes Wochenende. Vermutlich etwas später,
 da ich meinen Laptop nicht mitnehme und erstmal eine Abgabefrist habe wenn ich
 wieder zurück bin :D&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Teezeremonie</title>
+      	
+          <title>Teezeremonie</title>
+        
         <link>/posts/2018_07_09/</link>
         <pubDate>Mon, 09 Jul 2018 09:40:38 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1802,7 +1906,9 @@ Ausländer und ich.&lt;/p&gt;
     
       
       <item>
-        <title>Sonne, Sonne, Sonne</title>
+      	
+          <title>Sonne, Sonne, Sonne</title>
+        
         <link>/posts/2018_07_02/</link>
         <pubDate>Mon, 02 Jul 2018 15:37:31 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1845,7 +1951,9 @@ dass ich an den Wochenenden trotzdem genug Zeit habe, um etwas anderes zu machen
     
       
       <item>
-        <title>Etwas musikalische Kultur</title>
+      	
+          <title>Etwas musikalische Kultur</title>
+        
         <link>/posts/2018_06_24/</link>
         <pubDate>Wed, 27 Jun 2018 20:58:24 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1884,13 +1992,16 @@ Erklärung der vorgetragenen Geschichte. Ich konnte also ungefähr erraten, wann
 welcher Teil dran war. Wen es interessiert, ein anderer Besucher des Konzerts
 hat ein &lt;a href=&#34;https://www.youtube.com/watch?v=LHbLKvccoJA&#34;&gt;Video&lt;/a&gt; hochgeladen ;)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_06_24/concert.jpg&#34; alt=&#34;Kabuki Konzert&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Gesund und munter</title>
+      	
+          <title>Gesund und munter</title>
+        
         <link>/microposts/20180618/</link>
         <pubDate>Mon, 18 Jun 2018 22:38:39 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1904,7 +2015,9 @@ Das Beben war in Osaka, etwas über 500 km entfernt. Ich habe hier nichts gespü
     
       
       <item>
-        <title>Garten und Hochseilgarten</title>
+      	
+          <title>Garten und Hochseilgarten</title>
+        
         <link>/posts/2018_06_18/</link>
         <pubDate>Mon, 18 Jun 2018 08:06:24 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1930,27 +2043,32 @@ losgelassen.&lt;/p&gt;
 einer Seilrutsche endeten. Ich hatte meine 360 Grad Kamera dabei und habe mich
 etwas ausgetobt (mit &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157696410649171&#34;&gt;fotografieren&lt;/a&gt; und Videos aufnehmen). Das folgende Video
 zeigt das Ende der ersten Route.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IkKWYCVnbKI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/IkKWYCVnbKI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Ein Teil der dritten Route ging über eine Hängebrücke. Die einzige Möglichkeit
 für etwas Halt, war die Sicherungsleine in der Mitte über dem Weg an der ich
 mich mit meiner freien Hand festklammere ;)&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/-Mr6xXPjLMg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-Mr6xXPjLMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Verglichen mit den Hochseilgärten in denen ich in Deutschland war, hatte ich das
 Gefühl, dass dieser hier mit den 4 Routen ziemlich groß und mit knapp 30 Euro
 auch dementsprechend teuer war.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Neue Tomaten, neues Spielzeug, neuer Reisepass</title>
+      	
+          <title>Neue Tomaten, neues Spielzeug, neuer Reisepass</title>
+        
         <link>/posts/2018_06_11/</link>
         <pubDate>Tue, 12 Jun 2018 15:32:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -1988,17 +2106,21 @@ ohne Verletzungen zu versuchen. War ein super Tag, aber jetzt hab ich höllische
 Muskelkater :D&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2018_06_11/tramp1.jpg&#34; alt=&#34;Trampolinhalle 1/2&#34;&gt;
 &lt;img src=&#34;/img/2018_06_11/tramp2.jpg&#34; alt=&#34;Trampolinhalle 2/2&#34;&gt;&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/O9_t5OXeHsU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/O9_t5OXeHsU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Vergnügungen und mein verschwundenes Fahrrad</title>
+      	
+          <title>Vergnügungen und mein verschwundenes Fahrrad</title>
+        
         <link>/posts/2018_06_03/</link>
         <pubDate>Mon, 04 Jun 2018 21:26:09 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2079,13 +2201,16 @@ Packstation nutzen.&lt;/p&gt;
 Sonne zu genießen, da es relativ trocken ist und die Regenzeit demnächst
 anfängt. Dann ist es draußen dauernass und super stickig, da die Hitze bleibt.
 Hoffe bei euch ist es ebenfalls sonnig und ihr habt Zeit den Sommer zu genießen :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Verschiedenes</title>
+      	
+          <title>Verschiedenes</title>
+        
         <link>/posts/2018_05_28/</link>
         <pubDate>Mon, 28 May 2018 22:51:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2130,13 +2255,16 @@ Trackpad gefunden, dass besser funktioniert und ich finde es grauenhaft eine
 Maus bei einem Laptop zu benutzen. Preislich ist es fast egal, weil bislang alle
 Laptops, die ich mir angeschaut habe und die mir gefallen haben, preislich
 zwischen 1700 und 2000 Euro liegen (&lt;a href=&#34;https://www.apple.com/de/shop/buy-mac/macbook-pro?product=MPXV2D/A&amp;amp;step=config#&#34;&gt;Macbook Pro&lt;/a&gt;, &lt;a href=&#34;http://www.dell.com/de-de/shop/cty/pdp/spd/xps-13-9370-laptop/cnx37016&#34;&gt;Dell XPS&lt;/a&gt;, &lt;a href=&#34;https://consumer.huawei.com/de/tablets/matebook-x-pro/&#34;&gt;Huawei Mate X&lt;/a&gt;).&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Reis(an)pflanzen</title>
+      	
+          <title>Reis(an)pflanzen</title>
+        
         <link>/posts/2018_05_20/</link>
         <pubDate>Sun, 20 May 2018 22:05:11 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2169,7 +2297,9 @@ Eingang ist :D&lt;/p&gt;
     
       
       <item>
-        <title>Feste über Feste</title>
+      	
+          <title>Feste über Feste</title>
+        
         <link>/posts/2018_05_13/</link>
         <pubDate>Sun, 13 May 2018 11:43:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2218,7 +2348,9 @@ Weihnachten im neuen Jahr). An Weihnachten will ich dieses Jahr ja nach Hause ;)
     
       
       <item>
-        <title>Golden Week (2/2)</title>
+      	
+          <title>Golden Week (2/2)</title>
+        
         <link>/posts/2018_05_07/</link>
         <pubDate>Mon, 07 May 2018 10:41:46 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2279,13 +2411,16 @@ im Juli und dann Semesterferien im August, aber das ist hier ja auch wieder
 anders, weil man dann im letzten Moment noch Arbeit bekommt. Mal sehen, ob ich
 im Sommer einfach ein paar Tage blau mache und irgendwo anders hinfliege. Bietet
 sich ja an. Asien ist groß und gerade gut gelegen ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Golden Week (1/2)</title>
+      	
+          <title>Golden Week (1/2)</title>
+        
         <link>/posts/2018_04_28/</link>
         <pubDate>Tue, 01 May 2018 09:27:16 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2321,13 +2456,16 @@ Ich konnte daher leider nicht weg, weil ich Morgen wieder meinen Job als
 Assistent habe. Aber dafür habe ich mir Karten für das Kabinett der Kuriositäten
 des &lt;a href=&#34;https://www.cirquedusoleil.com/kurios&#34;&gt;Cirque du Soleil&lt;/a&gt; am Donnerstag in Tokyo gegönnt. Und wenn nichts
 dazwischen kommt gehe ich nächsten Samstag in einen Hochseilgarten :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Imagine the Future ...</title>
+      	
+          <title>Imagine the Future ...</title>
+        
         <link>/microposts/future_teacher/</link>
         <pubDate>Wed, 25 Apr 2018 12:28:19 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2342,7 +2480,9 @@ Sehr schön verkörpert von diesem Professor :)&lt;/p&gt;
     
       
       <item>
-        <title>Das Gemüse wächst, der Aktionsradius auch</title>
+      	
+          <title>Das Gemüse wächst, der Aktionsradius auch</title>
+        
         <link>/posts/2018_04_21/</link>
         <pubDate>Sat, 21 Apr 2018 09:50:44 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2392,7 +2532,9 @@ forschen. Ich werde berichten was das wird :)&lt;/p&gt;
     
       
       <item>
-        <title>Ab ins Beet</title>
+      	
+          <title>Ab ins Beet</title>
+        
         <link>/posts/2018_04_14/</link>
         <pubDate>Sat, 14 Apr 2018 00:35:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2438,7 +2580,9 @@ lernen.&lt;/p&gt;
     
       
       <item>
-        <title>Ich bin wieder da</title>
+      	
+          <title>Ich bin wieder da</title>
+        
         <link>/posts/2018_04_08/</link>
         <pubDate>Sun, 08 Apr 2018 07:59:44 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2521,7 +2665,9 @@ hilft etwas beim Sprechen und dem Lernfortschritt im Allgemeinen :)&lt;/p&gt;
     
       
       <item>
-        <title>Urlaub!</title>
+      	
+          <title>Urlaub!</title>
+        
         <link>/posts/2018_03_04/</link>
         <pubDate>Sun, 04 Mar 2018 08:59:42 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2554,13 +2700,16 @@ ankomme. Hier ist nämlich tatsächlich Frühling. Heute sollen es 20 Grad werde
 zurück fliege ist gleich am ersten Wochenende ein Workshop an dem ich teilnehmen
 muss und danach fängt dann der reguläre Unterricht an. Will noch gar nicht
 darüber nachdenken &amp;hellip;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>2 Wochen</title>
+      	
+          <title>2 Wochen</title>
+        
         <link>/posts/2018_02_24/</link>
         <pubDate>Sat, 24 Feb 2018 15:07:29 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2603,13 +2752,16 @@ Mitglied im Tee-Club und wird die Teezeremonie mit uns durchführen.&lt;/p&gt;
 &lt;p&gt;In 9 Tagen geht dann mein Flug zurück nach Deutschland :)
 Da bin ich dann für einen Monat und habe hoffentlich nicht ganz so viel für die
 Uni zu tun. Bis dahin gibt es noch einen letzten Eintrag&amp;hellip;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Posterpräsentation und neues Wohzimmmer</title>
+      	
+          <title>Posterpräsentation und neues Wohzimmmer</title>
+        
         <link>/posts/2018_02_11/</link>
         <pubDate>Sun, 11 Feb 2018 22:47:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2658,7 +2810,9 @@ ein Spaß :D&lt;/p&gt;
     
       
       <item>
-        <title>Frühlingsanfang</title>
+      	
+          <title>Frühlingsanfang</title>
+        
         <link>/microposts/2018_02_03/</link>
         <pubDate>Sat, 03 Feb 2018 20:15:41 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2680,7 +2834,9 @@ kommt das Glück aus süd-süd-östlicher Richtung :D&lt;/p&gt;
     
       
       <item>
-        <title>Wenn du glaubst es geht nicht mehr, kommt von irgendwo noch eine Deadline her</title>
+      	
+          <title>Wenn du glaubst es geht nicht mehr, kommt von irgendwo noch eine Deadline her</title>
+        
         <link>/posts/2018_02_03/</link>
         <pubDate>Sat, 03 Feb 2018 11:48:04 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2722,13 +2878,16 @@ lerne ich auch die Aussprache :)&lt;/p&gt;
 &lt;p&gt;Kommende Woche Dienstag soll mein Sofa kommen und am Freitag ist ein Geburtstag
 mit Karaoke geplant. Bis dahin müsste ich dann auch mit der Hälfte meiner
 Abgaben durch sein :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Schnee :)</title>
+      	
+          <title>Schnee :)</title>
+        
         <link>/posts/2018_01_28/</link>
         <pubDate>Sun, 28 Jan 2018 13:22:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2791,7 +2950,9 @@ gespielt. Alles in allem, eine sehr gute Woche :)&lt;/p&gt;
     
       
       <item>
-        <title>NASA Workshop</title>
+      	
+          <title>NASA Workshop</title>
+        
         <link>/posts/2018_01_20/</link>
         <pubDate>Sun, 21 Jan 2018 23:39:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2857,13 +3018,16 @@ Unterstand sich auf circa 700 Euro belaufen.&lt;/p&gt;
 &lt;p&gt;In der kommenden Woche muss ich Unterlagen für meine Bewertung am Semesterende
 abgeben und mein Poster für die Präsentation am 5. Februar machen. Beides wird
 als &amp;ldquo;Klasur&amp;rdquo; gewertet und zum Vorrücken ins nächste Semester benötigt.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Auszug komplett</title>
+      	
+          <title>Auszug komplett</title>
+        
         <link>/posts/2018_01_14/</link>
         <pubDate>Sun, 14 Jan 2018 21:00:25 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2922,7 +3086,9 @@ einem Vortrag bei Amazon in Tokyo zu begleiten.&lt;/p&gt;
     
       
       <item>
-        <title>Neue Wohnung</title>
+      	
+          <title>Neue Wohnung</title>
+        
         <link>/posts/2018_01_06/</link>
         <pubDate>Sat, 06 Jan 2018 10:31:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2973,7 +3139,9 @@ paar Wochen Urlaub nach Deutschland fliegen kann ;)&lt;/p&gt;
     
       
       <item>
-        <title>Ramen Geheimtipp in Tsukuba</title>
+      	
+          <title>Ramen Geheimtipp in Tsukuba</title>
+        
         <link>/microposts/streetfood_tsukuba/</link>
         <pubDate>Fri, 05 Jan 2018 22:36:00 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -2989,7 +3157,9 @@ sollte, so war die Portion Tsukemen doch ziemlich lecker :)&lt;/p&gt;
     
       
       <item>
-        <title>Jahreswechsel</title>
+      	
+          <title>Jahreswechsel</title>
+        
         <link>/posts/2017_12_31/</link>
         <pubDate>Mon, 01 Jan 2018 04:15:34 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3029,13 +3199,16 @@ weiter unterhalten, gegessen und noch einige Videos geschaut. Ich hab ihnen
 Dinner for One gezeigt, dass sie noch nicht kannten, aber sehr lustig fanden :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_12_31/newyear.jpg&#34; alt=&#34;Party&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;gesundes-neues-jahr-2018-wünsche-ich-allen&#34;&gt;Gesundes neues Jahr 2018 wünsche ich allen!&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Kleines Update</title>
+      	
+          <title>Kleines Update</title>
+        
         <link>/microposts/helmet/</link>
         <pubDate>Sat, 23 Dec 2017 17:01:19 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3048,7 +3221,9 @@ Dinner for One gezeigt, dass sie noch nicht kannten, aber sehr lustig fanden :)&
     
       
       <item>
-        <title>Happy Birthday To Me</title>
+      	
+          <title>Happy Birthday To Me</title>
+        
         <link>/posts/2017_12_23/</link>
         <pubDate>Sat, 23 Dec 2017 08:26:05 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3127,13 +3302,16 @@ der erste Eintrag vermutlich etwas später kommt. Muss mich ja etwas einrichten
 und meine neue Adresse an verschiedene Stellen (Stadt, Uni, Telefonanbieter,
 Bank, Kreditbank, Versicherung, etc.) weitergeben. Das wird ein Spaß :D&lt;/p&gt;
 &lt;p&gt;Für Morgen wünsche ich allen ein fröhliches Weihnachtsfest :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Meine Weihnachtsgeschenke an mich</title>
+      	
+          <title>Meine Weihnachtsgeschenke an mich</title>
+        
         <link>/posts/2017_12_12/</link>
         <pubDate>Sun, 17 Dec 2017 01:05:25 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3230,13 +3408,16 @@ geschaut.&lt;/p&gt;
 der Hausarbeiten setzen, damit ich an Weihnachten und Silvester meine Ruhe haben
 kann.&lt;/p&gt;
 &lt;p&gt;Schönen dritten Advent :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Mietrückstand</title>
+      	
+          <title>Mietrückstand</title>
+        
         <link>/microposts/2017_12_16_latepayment/</link>
         <pubDate>Sat, 16 Dec 2017 15:42:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3251,7 +3432,9 @@ Wohnheim irgendwann verlassen. Der Herr in Zimmer 104 hat es wohl geschafft.&lt;
     
       
       <item>
-        <title>Kleiner Durchbruch, Besuch bei NEC, Mexikanische Party und Plätzchen</title>
+      	
+          <title>Kleiner Durchbruch, Besuch bei NEC, Mexikanische Party und Plätzchen</title>
+        
         <link>/posts/2017_12_10/</link>
         <pubDate>Sun, 10 Dec 2017 12:05:25 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3318,7 +3501,9 @@ Wohnheim sein, wenn ich im März nach Deutschland fliegen will ;)&lt;/p&gt;
     
       
       <item>
-        <title>Advent Advent</title>
+      	
+          <title>Advent Advent</title>
+        
         <link>/posts/2017_12_02/</link>
         <pubDate>Sun, 03 Dec 2017 01:30:06 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3382,7 +3567,9 @@ zu backen. Ich werde berichten, ob es gelingt ;)&lt;/p&gt;
     
       
       <item>
-        <title>Konferenz in Australien</title>
+      	
+          <title>Konferenz in Australien</title>
+        
         <link>/posts/2017_11_24/</link>
         <pubDate>Fri, 24 Nov 2017 21:43:11 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3480,7 +3667,9 @@ Bett gefallen. Reicht erstmal mit Reisen für die nächste Zeit :D&lt;/p&gt;
     
       
       <item>
-        <title>Halbjahresabschluss, Hitachi, App</title>
+      	
+          <title>Halbjahresabschluss, Hitachi, App</title>
+        
         <link>/posts/2017_11_19/</link>
         <pubDate>Sun, 19 Nov 2017 10:38:47 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3559,7 +3748,9 @@ Stunden Aufenthalt in Hong Kong am Flughafen machen müssen :D&lt;/p&gt;
     
       
       <item>
-        <title>Parabelflug, eine Nacht in Osaka und Erntefest</title>
+      	
+          <title>Parabelflug, eine Nacht in Osaka und Erntefest</title>
+        
         <link>/posts/2017_11_11/</link>
         <pubDate>Sat, 11 Nov 2017 16:46:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3621,13 +3812,16 @@ Buffet und hinterher noch Süßes aus Vietnam, Korea, Indien und ein paar Toffif
 aus Deutschland ;)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_11_11/buffet.jpg&#34; alt=&#34;Buffet&#34;&gt;
 &lt;img src=&#34;/img/2017_11_11/group.jpg&#34; alt=&#34;Festgesellschaft&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Kalorien als Ansporn</title>
+      	
+          <title>Kalorien als Ansporn</title>
+        
         <link>/microposts/2017_11_06/</link>
         <pubDate>Mon, 06 Nov 2017 00:17:20 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3642,7 +3836,9 @@ per Treppe erklommen hat :P&lt;/p&gt;
     
       
       <item>
-        <title>Vorbereitungen für den Parabelflug und Tagesausflug nach Nikko</title>
+      	
+          <title>Vorbereitungen für den Parabelflug und Tagesausflug nach Nikko</title>
+        
         <link>/posts/2017_11_05/</link>
         <pubDate>Sun, 05 Nov 2017 08:53:34 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3694,13 +3890,16 @@ Donnerstag Abend geht es dann weiter nach Osaka, weil wir Freitag Mittag mit dem
 Businesskurs die Firma Panasonic besuchen. Und Samstag ist dann noch eine Art
 Erntefest der Gemeinschaft von Reisbauern, wo ich letzten Monat bei der Ernte
 geholfen habe.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Test für angehende Ärzte</title>
+      	
+          <title>Test für angehende Ärzte</title>
+        
         <link>/microposts/surgeon_test/</link>
         <pubDate>Tue, 31 Oct 2017 23:40:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3708,9 +3907,10 @@ geholfen habe.&lt;/p&gt;
         <description>&lt;p&gt;Im Süden Japans, nahe Hiroshima, gibt es eine Klinik mit exzellenten Ärzten die
 einen speziellen Einstellungstest für angehende Ärzte hat. In jeweils 15 Minuten
 müssen die Kandidaten 3 Miniaturaufgaben erledigen. Die Idee finde ich super :D&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lPEwFNNopfE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lPEwFNNopfE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 </description>
       </item>
@@ -3718,7 +3918,9 @@ müssen die Kandidaten 3 Miniaturaufgaben erledigen. Die Idee finde ich super :D
     
       
       <item>
-        <title>Tokyo Motor Show</title>
+      	
+          <title>Tokyo Motor Show</title>
+        
         <link>/posts/2017_10_30/</link>
         <pubDate>Mon, 30 Oct 2017 13:54:52 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3741,21 +3943,25 @@ als Aprilscherz veröffentlicht. Yamaha hat auf der Motorshow ein Motorrad
 vorgestellt, dass den Vorstellungen von Google sehr nahe kommt. Es folgt seinem
 Fahrer, wenn dieser zu Fuß vor ihm her läuft und es bleibt, auch beim Versuch es
 umzustoßen, stehen.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/e8iCZUCDZMo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/e8iCZUCDZMo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Mir persönlich haben die beiden Konzeptfahrzeuge von Honda am besten gefallen.
 Der kleinere Wagen sieht wegen den Lichtern ein bisschen aus wie ein alter Golf
 :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_10_30/honda.jpg&#34; alt=&#34;Honda Konzeptauto&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Veröffentlichung kaputt, PC kaputt, 1 Woche bis zum Parabelflug</title>
+      	
+          <title>Veröffentlichung kaputt, PC kaputt, 1 Woche bis zum Parabelflug</title>
+        
         <link>/posts/2017_10_28/</link>
         <pubDate>Sat, 28 Oct 2017 18:42:20 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3828,13 +4034,16 @@ das dritte Ticket teilen. Soweit jedenfalls der Plan. Falls wir es Morgen nicht
 hinbekommen, können wir noch nächstes Wochenende fahren, da die Ausstellung
 gerade erst angefangen hat. Falls wir fahren gibt es morgen Abend eventuell noch
 einen weiteren kurzen Eintrag ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Herbst</title>
+      	
+          <title>Herbst</title>
+        
         <link>/microposts/2017_10_28/</link>
         <pubDate>Sat, 28 Oct 2017 10:18:10 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3848,7 +4057,9 @@ einen weiteren kurzen Eintrag ;)&lt;/p&gt;
     
       
       <item>
-        <title>SpaceArt und Forschung in der Kosmetikindustrie</title>
+      	
+          <title>SpaceArt und Forschung in der Kosmetikindustrie</title>
+        
         <link>/posts/2017_10_21/</link>
         <pubDate>Sun, 22 Oct 2017 19:48:46 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3904,7 +4115,9 @@ kann also nochmal ausschlafen :)&lt;/p&gt;
     
       
       <item>
-        <title>Voller Terminplan</title>
+      	
+          <title>Voller Terminplan</title>
+        
         <link>/posts/2017_10_14/</link>
         <pubDate>Sun, 15 Oct 2017 16:54:16 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -3993,7 +4206,9 @@ kalt :P&lt;/p&gt;
     
       
       <item>
-        <title>2. Semester</title>
+      	
+          <title>2. Semester</title>
+        
         <link>/posts/2017_10_08/</link>
         <pubDate>Sun, 08 Oct 2017 14:26:31 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4040,7 +4255,9 @@ mir anzusehen wie der Reis, den ich mit geerntet habe, gedroschen wird :)&lt;/p&
     
       
       <item>
-        <title>1 Woche Urlaub</title>
+      	
+          <title>1 Woche Urlaub</title>
+        
         <link>/posts/2017_10_03/</link>
         <pubDate>Tue, 03 Oct 2017 11:34:44 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4148,7 +4365,9 @@ treffe in Nana in Tokyo. Mal sehen, ob es da was zu berichten oder Fotos gibt ;)
     
       
       <item>
-        <title>Medienkunst, Virtuelle Realität (VR)</title>
+      	
+          <title>Medienkunst, Virtuelle Realität (VR)</title>
+        
         <link>/posts/2017_09_23/</link>
         <pubDate>Sun, 24 Sep 2017 11:39:19 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4201,7 +4420,9 @@ Entweder muss es Freitagabend noch sein oder dann am Montag morgen :)&lt;/p&gt;
     
       
       <item>
-        <title>Kleine VR-Expo und Reisernte</title>
+      	
+          <title>Kleine VR-Expo und Reisernte</title>
+        
         <link>/posts/2017_09_17/</link>
         <pubDate>Sun, 17 Sep 2017 09:48:24 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4267,13 +4488,16 @@ Oculus Rift (die virtual Reality Brille, die Bruno auf dem ersten Bild trägt)
 ankommen. Und da Mittwoch bis Freitag noch nichts geplant ist, werde ich
 vermutlich an einem kurzen Vortrag arbeiten und mein neues Spielzeug ausprobieren.
 Die nächsten Fotos und Berichte gibt es dann in einer Woche :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Ende der Ferien</title>
+      	
+          <title>Ende der Ferien</title>
+        
         <link>/posts/2017_09_07/</link>
         <pubDate>Thu, 07 Sep 2017 20:50:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4310,13 +4534,16 @@ ich vielleicht kurz erwähnen, dass ich nicht mehr täglich schreiben will,
 sondern nur noch, wenn ich was wichtiges oder aufregendes zu erzählen habe.
 Ich finde das Wetter oder mein Essen hier nämlich selbst nicht so spannend, aber
 ich bin ja auch lernfähig ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Interspeech Tutorials</title>
+      	
+          <title>Interspeech Tutorials</title>
+        
         <link>/posts/2017_08_20/</link>
         <pubDate>Sun, 20 Aug 2017 18:40:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4356,7 +4583,9 @@ arbeiten und an den Abenden Freunde besuchen werde :)&lt;/p&gt;
     
       
       <item>
-        <title>Stockholm</title>
+      	
+          <title>Stockholm</title>
+        
         <link>/posts/2017_08_19/</link>
         <pubDate>Sat, 19 Aug 2017 18:45:27 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4390,7 +4619,9 @@ Kronen, als auch der Euro wie Spielgeld vor. Die Scheine sind so klein und dünn
     
       
       <item>
-        <title>Abflug</title>
+      	
+          <title>Abflug</title>
+        
         <link>/posts/2017_08_18/</link>
         <pubDate>Fri, 18 Aug 2017 19:35:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4435,7 +4666,9 @@ Bett gefallen ;)&lt;/p&gt;
     
       
       <item>
-        <title>T -10 Stunden</title>
+      	
+          <title>T -10 Stunden</title>
+        
         <link>/posts/2017_08_17/</link>
         <pubDate>Thu, 17 Aug 2017 20:10:55 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4468,7 +4701,9 @@ vielleicht noch einen oder zwei Blogeinträge posten, aber dann ist Pause bis zu
     
       
       <item>
-        <title>T -2 Tage</title>
+      	
+          <title>T -2 Tage</title>
+        
         <link>/posts/2017_08_16/</link>
         <pubDate>Wed, 16 Aug 2017 23:22:56 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4497,7 +4732,9 @@ etwas früher.&lt;/p&gt;
     
       
       <item>
-        <title>T -3 Tage</title>
+      	
+          <title>T -3 Tage</title>
+        
         <link>/posts/2017_08_15/</link>
         <pubDate>Tue, 15 Aug 2017 17:39:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4524,7 +4761,9 @@ mich schon drauf :)&lt;/p&gt;
     
       
       <item>
-        <title>Neue T-Shirts</title>
+      	
+          <title>Neue T-Shirts</title>
+        
         <link>/microposts/2017_08_14/</link>
         <pubDate>Mon, 14 Aug 2017 22:34:52 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4543,7 +4782,9 @@ Storm Trooper aus Star Wars.&lt;/p&gt;
     
       
       <item>
-        <title>T -4 Tage</title>
+      	
+          <title>T -4 Tage</title>
+        
         <link>/posts/2017_08_14/</link>
         <pubDate>Mon, 14 Aug 2017 20:40:57 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4569,13 +4810,16 @@ ausgefüllten Formular gemacht, damit ich das beim nächsten Mal alleine
 hinkriege. Muss ich schließlich ab jetzt bei jeder Flugreise machen. Als das
 erledigt war, habe ich mir noch was zu Essen geholt und bin zurück ins Wohnheim
 gefahren.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Verkehrserziehung</title>
+      	
+          <title>Verkehrserziehung</title>
+        
         <link>/posts/2017_08_13/</link>
         <pubDate>Sun, 13 Aug 2017 15:27:40 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4605,13 +4849,16 @@ nicht herausfinden können.&lt;/p&gt;
 gemeinsam über den Parkour zu radeln und die Straßenregeln zu verinnerlichen.
 Ich bin nach einer Stunde wieder zurück ins Wohnheim, um ein Eis zu essen und
 mich im Schatten zu verstecken :D&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Ruhiger Samstag</title>
+      	
+          <title>Ruhiger Samstag</title>
+        
         <link>/posts/2017_08_12/</link>
         <pubDate>Sat, 12 Aug 2017 18:53:14 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4637,13 +4884,16 @@ Landkarte in Tsukuba nach einem Ort gesucht an dem ich gestern mit dem Bus
 vorbeigekommen bin und der mir interessant aussah. Der Plan für Morgen ist es,
 dort hinzuradeln und mir das genauer anzuschauen und hier ein paar Fotos zu
 zeigen ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Tag des Berges</title>
+      	
+          <title>Tag des Berges</title>
+        
         <link>/posts/2017_08_11/</link>
         <pubDate>Fri, 11 Aug 2017 19:35:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4706,7 +4956,9 @@ Ausflug erstmal wieder gestillt und das Wochenende wird faul :D&lt;/p&gt;
     
       
       <item>
-        <title>Workshopeinführung</title>
+      	
+          <title>Workshopeinführung</title>
+        
         <link>/posts/2017_08_10/</link>
         <pubDate>Thu, 10 Aug 2017 23:33:41 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4741,13 +4993,16 @@ ist Feiertag. Tag des Berges. Beim suchen nach Ausflugszielen habe ich einiges
 gefunden, dass ich irgendwann gerne machen möchte, allerdings habe ich mich noch
 für nichts entscheiden können. Mal sehen, vielleicht fahre ich zum Wasserfall in
 Fukuroda :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>(Kein) Taifun</title>
+      	
+          <title>(Kein) Taifun</title>
+        
         <link>/posts/2017_08_09/</link>
         <pubDate>Wed, 09 Aug 2017 19:43:20 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4781,7 +5036,9 @@ schreiben.&lt;/p&gt;
     
       
       <item>
-        <title>Schweben im Experiment und Geburtstagsfeier</title>
+      	
+          <title>Schweben im Experiment und Geburtstagsfeier</title>
+        
         <link>/posts/2017_08_08/</link>
         <pubDate>Tue, 08 Aug 2017 17:54:52 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4811,7 +5068,9 @@ gelacht.&lt;/p&gt;
     
       
       <item>
-        <title>Besprechung mit dem Chef</title>
+      	
+          <title>Besprechung mit dem Chef</title>
+        
         <link>/posts/2017_08_07/</link>
         <pubDate>Mon, 07 Aug 2017 19:19:05 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4841,7 +5100,9 @@ Dozenten vom Diskussionsunterricht noch Rückmeldung zu seinem Unterricht geben.
     
       
       <item>
-        <title>Baustellen Pegel</title>
+      	
+          <title>Baustellen Pegel</title>
+        
         <link>/microposts/construction_meter/</link>
         <pubDate>Mon, 07 Aug 2017 01:46:52 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4856,7 +5117,9 @@ ja keiner ;)&lt;/p&gt;
     
       
       <item>
-        <title>Tokyo Maker Faire</title>
+      	
+          <title>Tokyo Maker Faire</title>
+        
         <link>/posts/2017_08_06/</link>
         <pubDate>Sun, 06 Aug 2017 07:04:45 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4915,7 +5178,9 @@ ich ausschlafen &amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Frühstück auf dem Fischmarkt und japanische Kleinstwagen</title>
+      	
+          <title>Frühstück auf dem Fischmarkt und japanische Kleinstwagen</title>
+        
         <link>/posts/2017_08_05/</link>
         <pubDate>Sat, 05 Aug 2017 11:24:18 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4959,7 +5224,9 @@ restlichen Tag gefaulenzt :)&lt;/p&gt;
     
       
       <item>
-        <title>Australier</title>
+      	
+          <title>Australier</title>
+        
         <link>/posts/2017_08_04/</link>
         <pubDate>Fri, 04 Aug 2017 22:05:27 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -4999,13 +5266,16 @@ nach Hause nehmen. Das Ziel sind alle die interessiert sind. Auch für Kinder is
 einiges geboten. In Hannover gibt es auch jedes Jahr eine &lt;a href=&#34;https://maker-faire.de/hannover/&#34;&gt;Maker Faire&lt;/a&gt;, aber
 jedesmal wenn ich bislang dort hinwollte, ist mir was dazwischen gekommen. Wen
 es interessiert, dieses Jahr findet sie vom 26.-27.08. statt.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Eigentlich sollten ja Sommerferien sein</title>
+      	
+          <title>Eigentlich sollten ja Sommerferien sein</title>
+        
         <link>/posts/2017_08_03/</link>
         <pubDate>Thu, 03 Aug 2017 23:29:58 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5035,7 +5305,9 @@ Reise packen und ein paar Mitbringsel organisieren ;)&lt;/p&gt;
     
       
       <item>
-        <title>Erdbeben</title>
+      	
+          <title>Erdbeben</title>
+        
         <link>/posts/2017_08_02/</link>
         <pubDate>Wed, 02 Aug 2017 12:57:17 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5061,65 +5333,65 @@ Kleinen, das mich Morgens geweckt hat, gab es noch 3 kleinere Beben, die
 allerdings so schwach waren, dass sie in Tsukuba nicht mehr gemessen werden
 konnten.&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Uhrzeit&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Tiefe&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Stärke&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Werte in Tsukuba nach JMA&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;00:38&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;60 km&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3.6&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;02:02&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;10 km&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt; 07:16&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;50 km&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4.6&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Uhrzeit&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Tiefe&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Stärke&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Werte in Tsukuba nach JMA&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:38&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;60 km&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;02:02&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10 km&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt; 07:16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50 km&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Die Erklärung zur Japanischen Skala (&lt;a href=&#34;https://de.wikipedia.org/wiki/JMA-Skala&#34;&gt;JMA&lt;/a&gt;) ist wie folgt:&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Intensität&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Wirkung auf den Menschen&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Situation in Gebäuden&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Situation im Freien&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt; 1&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;für manche Menschen spürbar&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt; 3&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;für die meisten Menschen spürbar, löst bei manchen Menschen Angst aus&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Geschirr in Regalen kann scheppern&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Stromleitungen schwingen etwas&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;löst verbreitet Angst aus, manche Menschen suchen Schutz, die meisten Schlafenden erwachen&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt; hängende Objekte pendeln erheblich, Geschirr scheppert, instabil aufgestellte Schmuckgegenstände können umfallen&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Stromleitungen schwingen stark, auch für gehende Menschen spürbar, einige Autofahrer bemerken das Beben&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Intensität&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Wirkung auf den Menschen&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Situation in Gebäuden&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Situation im Freien&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt; 1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;für manche Menschen spürbar&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt; 3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;für die meisten Menschen spürbar, löst bei manchen Menschen Angst aus&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Geschirr in Regalen kann scheppern&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Stromleitungen schwingen etwas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;löst verbreitet Angst aus, manche Menschen suchen Schutz, die meisten Schlafenden erwachen&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt; hängende Objekte pendeln erheblich, Geschirr scheppert, instabil aufgestellte Schmuckgegenstände können umfallen&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Stromleitungen schwingen stark, auch für gehende Menschen spürbar, einige Autofahrer bemerken das Beben&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Den restlichen Tag habe ich an der Uni verbracht und weitere Vorbereitungen für
 mein Experiment gemacht. Keisuke hat mir beim Übersetzen der Anleitung ins
@@ -5127,13 +5399,16 @@ Japanische geholfen und ich habe die Messung meiner Kopfhörer von letzter Woche
 überprüft. Morgen muss ich zusehen, dass ich meinen PC in einen anderen Raum
 stellen kann, der etwas ruhiger ist als unser Büro. Dann kann ich denke ich
 anfangen zu messen.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Flugtickets und Englisch</title>
+      	
+          <title>Flugtickets und Englisch</title>
+        
         <link>/posts/2017_08_01/</link>
         <pubDate>Tue, 01 Aug 2017 16:01:37 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5161,7 +5436,9 @@ haben dieses Jahr angefangen zu studieren.&lt;/p&gt;
     
       
       <item>
-        <title>Vulkan Shirane</title>
+      	
+          <title>Vulkan Shirane</title>
+        
         <link>/posts/2017_07_31/</link>
         <pubDate>Mon, 31 Jul 2017 20:09:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5213,7 +5490,9 @@ bestimmt super schlafen. Morgen ist dann wieder normal arbeiten angesagt :)&lt;/
     
       
       <item>
-        <title>Sommerseminar und Onsen</title>
+      	
+          <title>Sommerseminar und Onsen</title>
+        
         <link>/posts/2017_07_30/</link>
         <pubDate>Sun, 30 Jul 2017 22:54:02 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5271,7 +5550,9 @@ sehen wofür ich mich Morgen spontan entscheide :)&lt;/p&gt;
     
       
       <item>
-        <title>Gestern Nachtschicht - Heute letzte Vorlesung</title>
+      	
+          <title>Gestern Nachtschicht - Heute letzte Vorlesung</title>
+        
         <link>/posts/2017_07_28/</link>
         <pubDate>Fri, 28 Jul 2017 09:12:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5318,7 +5599,9 @@ und laut GoogleMaps dauert es nur 3 Stunden, aber ich werd es dann ja sehen :)&l
     
       
       <item>
-        <title>Spontane Kopfhörermessung</title>
+      	
+          <title>Spontane Kopfhörermessung</title>
+        
         <link>/posts/2017_07_26/</link>
         <pubDate>Wed, 26 Jul 2017 16:46:19 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5353,7 +5636,9 @@ gehen und habe nur um 9 Uhr eine kurze Pause zum Schlafen gemacht.&lt;/p&gt;
     
       
       <item>
-        <title>21 Tage zur Veröffentlichung</title>
+      	
+          <title>21 Tage zur Veröffentlichung</title>
+        
         <link>/posts/2017_07_25/</link>
         <pubDate>Tue, 25 Jul 2017 19:59:00 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5387,7 +5672,9 @@ antworten :)&lt;/p&gt;
     
       
       <item>
-        <title>Nochmal etwas Arbeit vor den Ferien</title>
+      	
+          <title>Nochmal etwas Arbeit vor den Ferien</title>
+        
         <link>/posts/2017_07_24/</link>
         <pubDate>Mon, 24 Jul 2017 20:42:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5416,7 +5703,9 @@ von Skripten aber schon Mai bis Juli ein Jahr vorher ist.&lt;/p&gt;
     
       
       <item>
-        <title>Entspannter Sonntag</title>
+      	
+          <title>Entspannter Sonntag</title>
+        
         <link>/posts/2017_07_23/</link>
         <pubDate>Sun, 23 Jul 2017 21:36:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5449,7 +5738,9 @@ Unterricht im Diskutieren.&lt;/p&gt;
     
       
       <item>
-        <title>SSV und Konzert</title>
+      	
+          <title>SSV und Konzert</title>
+        
         <link>/posts/2017_07_22/</link>
         <pubDate>Sat, 22 Jul 2017 22:23:23 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5477,13 +5768,16 @@ sein. Verstanden hab ich nicht viel, aber das Arrangement der Stimmen hat bei
 mir für ordentlich Gänsehaut gesorgt :D&lt;/p&gt;
 &lt;p&gt;Für Morgen ist nichts geplant, aber wahrscheinlich werde ich etwas für die Uni
 machen und mich auf das Treffen mit meinem Betreuer vorbereiten.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>3 Monate, 3 Wochen und 3 Tage</title>
+      	
+          <title>3 Monate, 3 Wochen und 3 Tage</title>
+        
         <link>/posts/2017_07_21/</link>
         <pubDate>Fri, 21 Jul 2017 21:45:45 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5538,13 +5832,16 @@ kann.&lt;/p&gt;
 &lt;p&gt;Morgen will ich zum Iias Einkaufszentrum etwas außerhalb von Tsukuba fahren und
 sehen, ob ich im Sommerschlussverkauf was nettes finde. Eine kurze Hose oder so.
 Am späten Nachmittag höre ich mir dann das Universitätsorchester an :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Schlafexperiment Tag 9</title>
+      	
+          <title>Schlafexperiment Tag 9</title>
+        
         <link>/posts/2017_07_20/</link>
         <pubDate>Thu, 20 Jul 2017 23:19:42 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5573,7 +5870,9 @@ und entscheide dann Anfang August, ob ich dran bleibe oder es lieber aufgebe.&lt
     
       
       <item>
-        <title>Mein Weg zur Arbeit</title>
+      	
+          <title>Mein Weg zur Arbeit</title>
+        
         <link>/posts/2017_07_19/</link>
         <pubDate>Wed, 19 Jul 2017 08:42:52 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5589,9 +5888,10 @@ müsste sich Firefox oder Google Chrome installieren, um das Video mit der 360
 Grad Funktion sehen zu können. Leider stimmt die Ausrichtung am Anfang des
 Videos nicht mit meiner Bewegungsrichtung überein, ihr müsst den Blickwinkel
 daher auf jeden Fall wie eben erklärt ändern.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/nQg-qSue_-k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nQg-qSue_-k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Um 9 Uhr war ich kurz im EMP Sekretariat, um meine Reiseantrag zu
 unterschreiben. Ich bekomme vor Antritt der Reise 97 % des Fluges und ca 80 Euro
@@ -5608,7 +5908,9 @@ Nacht etwas besser schlafen kann und nicht durstig in Mitten der Nacht aufwache.
     
       
       <item>
-        <title>1 Schritt vor 3 zurück (kein Schlaf)</title>
+      	
+          <title>1 Schritt vor 3 zurück (kein Schlaf)</title>
+        
         <link>/posts/2017_07_18/</link>
         <pubDate>Tue, 18 Jul 2017 11:25:48 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5641,7 +5943,9 @@ Morgen rechne ich mit schlechter Laune und hoher Müdigkeit :D&lt;/p&gt;
     
       
       <item>
-        <title>Mistwetter (Schlafexperiment Tag 6)</title>
+      	
+          <title>Mistwetter (Schlafexperiment Tag 6)</title>
+        
         <link>/posts/2017_07_17/</link>
         <pubDate>Mon, 17 Jul 2017 06:53:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5664,38 +5968,38 @@ machen, steht dem Tests nichts im Weg. Ich reduziere meine Schlafenszeit aber
 nicht wirklich. Ich verteile sie nur anders. Im Moment fahre ich am Besten mit
 folgendem Plan:&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Einschlafen&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Aufstehen&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;00:00&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;04:40&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;07:20&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;07:40&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;10:40&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;11:00&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;14:00&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;14:20&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;17:20&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;17:40&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;20:40&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;21:00&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Einschlafen&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Aufstehen&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;04:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;07:20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;07:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17:20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Insgesamt schlafe ich so 6 Stunden und 20 Minuten jeden Tag. Wenn ich dem
 Beispiel aus dem Internet folge, wären es nur 4 Stunden, 3 in der Nacht und
@@ -5748,7 +6052,9 @@ mir Gedanken, wenn ich zurück in Japan bin.&lt;/p&gt;
     
       
       <item>
-        <title>Sonntag</title>
+      	
+          <title>Sonntag</title>
+        
         <link>/posts/2017_07_16/</link>
         <pubDate>Sun, 16 Jul 2017 23:07:23 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5780,7 +6086,9 @@ kommen kann.&lt;/p&gt;
     
       
       <item>
-        <title>Musiktherapie und Schlafexperiment Tag 4</title>
+      	
+          <title>Musiktherapie und Schlafexperiment Tag 4</title>
+        
         <link>/posts/2017_07_15/</link>
         <pubDate>Sat, 15 Jul 2017 22:14:35 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5816,7 +6124,9 @@ hoffe das ändert sich Morgen nochmal.&lt;/p&gt;
     
       
       <item>
-        <title>Fortschritt an allen Fronten</title>
+      	
+          <title>Fortschritt an allen Fronten</title>
+        
         <link>/posts/2017_07_14/</link>
         <pubDate>Fri, 14 Jul 2017 21:51:28 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5862,7 +6172,9 @@ Essen kein Mittagstief :)&lt;/p&gt;
     
       
       <item>
-        <title>Tag 2 des Schlafexperiments</title>
+      	
+          <title>Tag 2 des Schlafexperiments</title>
+        
         <link>/posts/2017_07_13/</link>
         <pubDate>Thu, 13 Jul 2017 05:55:06 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5912,7 +6224,9 @@ muss. Das mach ich jetzt mal, damit ich pünktlich ins Bett komme.&lt;/p&gt;
     
       
       <item>
-        <title>Tag 1 des Schlafexperiments</title>
+      	
+          <title>Tag 1 des Schlafexperiments</title>
+        
         <link>/posts/2017_07_12/</link>
         <pubDate>Wed, 12 Jul 2017 13:10:10 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5955,7 +6269,9 @@ ausreicht :)&lt;/p&gt;
     
       
       <item>
-        <title>Vorbereitungen</title>
+      	
+          <title>Vorbereitungen</title>
+        
         <link>/posts/2017_07_11/</link>
         <pubDate>Tue, 11 Jul 2017 07:50:37 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -5991,7 +6307,9 @@ Ich Frage mich wer das hier schon geschafft hat :D&lt;/p&gt;
     
       
       <item>
-        <title>Zurück im Alltag</title>
+      	
+          <title>Zurück im Alltag</title>
+        
         <link>/posts/2017_07_10/</link>
         <pubDate>Mon, 10 Jul 2017 19:44:59 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6027,7 +6345,9 @@ gekommen. Mal sehen ob ich morgen Vormittag noch was schaffe.&lt;/p&gt;
     
       
       <item>
-        <title>Innereien sind nichts für mich</title>
+      	
+          <title>Innereien sind nichts für mich</title>
+        
         <link>/posts/2017_07_09/</link>
         <pubDate>Sun, 09 Jul 2017 20:42:10 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6061,7 +6381,9 @@ ich dann doch lieber was anderes :)&lt;/p&gt;
     
       
       <item>
-        <title>Es gibt immer was zu tun...</title>
+      	
+          <title>Es gibt immer was zu tun...</title>
+        
         <link>/posts/2017_07_08/</link>
         <pubDate>Sat, 08 Jul 2017 23:29:38 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6085,13 +6407,16 @@ dem Zeitpunkt leider Unterricht. Wird aber denke ich nicht so schlimm, da wir
 bereits angefangen haben und die grobe Sturktur bereits steht. Ich hoffe, dass
 ich wenigstens ein Wochenende Ende Juli noch für einen Ausflug nutzen kann. Ich
 würde gerne ans Meer fahren. Mal sehen ob das klappt :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Workshop Tag 5</title>
+      	
+          <title>Workshop Tag 5</title>
+        
         <link>/posts/2017_07_07/</link>
         <pubDate>Fri, 07 Jul 2017 01:18:17 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6121,7 +6446,9 @@ dementsprechend kurz.&lt;/p&gt;
     
       
       <item>
-        <title>Workshop Tag 4</title>
+      	
+          <title>Workshop Tag 4</title>
+        
         <link>/posts/2017_07_06/</link>
         <pubDate>Thu, 06 Jul 2017 23:18:21 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6147,7 +6474,9 @@ halten. Ich freue mich schon aufs Wochenende :D&lt;/p&gt;
     
       
       <item>
-        <title>Workshop Tag 3</title>
+      	
+          <title>Workshop Tag 3</title>
+        
         <link>/posts/2017_07_05/</link>
         <pubDate>Wed, 05 Jul 2017 23:01:11 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6204,7 +6533,9 @@ kaufen wollte.&lt;/p&gt;
     
       
       <item>
-        <title>2017_07_05</title>
+      	
+          <title>2017_07_05</title>
+        
         <link>/microposts/2017_07_05/</link>
         <pubDate>Wed, 05 Jul 2017 22:51:57 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6219,7 +6550,9 @@ updaten. Grüne Linien bedeuten freie Fahrt und rote Linien bedeuten Stau :)&lt;
     
       
       <item>
-        <title>Workshop Tag 2</title>
+      	
+          <title>Workshop Tag 2</title>
+        
         <link>/posts/2017_07_04/</link>
         <pubDate>Tue, 04 Jul 2017 23:52:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6262,9 +6595,10 @@ großen Regenschirm unter einem leeren Sitzplatz gefunden. Den muss ein Passagie
 auf dem Weg vergessen haben, da dort seit 3 Stationen niemand mehr gesessen hat.
 Ich hab ihn mit aus dem Zug genommen und einem guten Zweck zugeführt, indem ich
 ihn benutzt habe, um nach Hause zu laufen.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BvXdVxQv430?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BvXdVxQv430&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Vorher habe ich den Holländern noch dabei geholfen mit Taxis zu ihrem Wohnheim
 zu fahren. Die hätten sonst 1 Stunde ohne Regenschirme laufen müssen. Auf dem
@@ -6281,7 +6615,9 @@ aufgewischt. Mal sehen wie lange es dauert, bis sie trocken sind.&lt;/p&gt;
     
       
       <item>
-        <title>Workshop Tag 1</title>
+      	
+          <title>Workshop Tag 1</title>
+        
         <link>/posts/2017_07_03/</link>
         <pubDate>Mon, 03 Jul 2017 22:41:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6341,7 +6677,9 @@ Tokyo zu wandern.&lt;/p&gt;
     
       
       <item>
-        <title>Workshop Tag 0</title>
+      	
+          <title>Workshop Tag 0</title>
+        
         <link>/posts/2017_07_02_workshop0/</link>
         <pubDate>Sun, 02 Jul 2017 21:43:15 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6371,9 +6709,10 @@ Bilder des Tages habe ich in &lt;a href=&#34;https://www.flickr.com/photos/felix
 &lt;p&gt;Die Bahn braucht knapp 15 Minuten bis zu einer Anhöhe zwischen dem linken,
 männlichen Gipfel Nantai und dem rechten, weiblichen Gipfel Nyotai, wobei Sie
 sich zwischendurch eine Steigung von gut 39 % hochkämpft.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VvmtRGxIGf4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VvmtRGxIGf4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Die Sicht auf dem Gipfel ist super. Das Wetter war sehr gut, dafür dass es
 eigentlich ein Hitzegewitter geben sollte, aber leider nicht gut genug, um den
@@ -6388,13 +6727,16 @@ Essen ganz ohne Hilfe in Japanisch bestellt. Da war ich etwas stolz hinterher :D
 auch was das eigentliche Ziel des ganzen ist. Außerdem habe ich um kurz nach 10
 Uhr eine schriftliche Prüfung für die ich jetzt noch etwas lernen muss, daher
 endet der Eintrag jetzt auch ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Frisör auf Japanisch</title>
+      	
+          <title>Frisör auf Japanisch</title>
+        
         <link>/posts/2017_07_01_barber/</link>
         <pubDate>Sat, 01 Jul 2017 19:02:05 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6460,7 +6802,9 @@ heute&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Nachtschicht (freiwillig)</title>
+      	
+          <title>Nachtschicht (freiwillig)</title>
+        
         <link>/posts/2017_06_30/</link>
         <pubDate>Fri, 30 Jun 2017 19:58:16 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6488,7 +6832,9 @@ rasiert :D&lt;/p&gt;
     
       
       <item>
-        <title>(K)eine Prüfung</title>
+      	
+          <title>(K)eine Prüfung</title>
+        
         <link>/posts/2017_06_29/</link>
         <pubDate>Thu, 29 Jun 2017 19:57:24 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6523,7 +6869,9 @@ muss ich auch langsam mal buchen, damit das nicht zu teuer wird :)&lt;/p&gt;
     
       
       <item>
-        <title>Wo die Zeit nur immer hinrennt</title>
+      	
+          <title>Wo die Zeit nur immer hinrennt</title>
+        
         <link>/posts/2017_06_28/</link>
         <pubDate>Wed, 28 Jun 2017 20:27:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6555,7 +6903,9 @@ mitzuschreiben. Muss ja sehen, ob ich auch was gelernt habe ;)&lt;/p&gt;
     
       
       <item>
-        <title>Erster Tag ohne Termine und trotzdem genug Arbeit</title>
+      	
+          <title>Erster Tag ohne Termine und trotzdem genug Arbeit</title>
+        
         <link>/posts/2017_06_27/</link>
         <pubDate>Tue, 27 Jun 2017 20:05:01 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6588,7 +6938,9 @@ noch 8 Wochen bis ich nach Schweden und Deutschland fliege ;)&lt;/p&gt;
     
       
       <item>
-        <title>Über den Berg</title>
+      	
+          <title>Über den Berg</title>
+        
         <link>/posts/2017_06_26/</link>
         <pubDate>Mon, 26 Jun 2017 19:02:02 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6623,7 +6975,9 @@ zeitweise höher liegt.&lt;/p&gt;
     
       
       <item>
-        <title>Mein Sonntag</title>
+      	
+          <title>Mein Sonntag</title>
+        
         <link>/posts/2017_06_25/</link>
         <pubDate>Sun, 25 Jun 2017 13:24:50 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6669,7 +7023,9 @@ meinem neuen Spielzeug beschäftigen bevor ich ins Bett gehe :)&lt;/p&gt;
     
       
       <item>
-        <title>Ein ganz normaler Samstag</title>
+      	
+          <title>Ein ganz normaler Samstag</title>
+        
         <link>/posts/2017_06_24/</link>
         <pubDate>Sat, 24 Jun 2017 19:54:41 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6718,7 +7074,9 @@ Prokrastination (Arbeitsvermeidung) ja nicht zu weit treiben ;)&lt;/p&gt;
     
       
       <item>
-        <title>Das Semester geht zu Ende</title>
+      	
+          <title>Das Semester geht zu Ende</title>
+        
         <link>/posts/2017_06_23/</link>
         <pubDate>Fri, 23 Jun 2017 23:58:09 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6748,7 +7106,9 @@ Aufgaben konzentrieren.&lt;/p&gt;
     
       
       <item>
-        <title>Endlich sichtbare Ergebnisse</title>
+      	
+          <title>Endlich sichtbare Ergebnisse</title>
+        
         <link>/posts/2017_06_22/</link>
         <pubDate>Thu, 22 Jun 2017 21:23:35 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6793,7 +7153,9 @@ ich heute genug geschafft habe, gehe ich mal früher ins Bett. Gute Nacht :)&lt;
     
       
       <item>
-        <title>Definition Human Informatics</title>
+      	
+          <title>Definition Human Informatics</title>
+        
         <link>/posts/2017_06_21/</link>
         <pubDate>Wed, 21 Jun 2017 01:21:57 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6843,7 +7205,9 @@ halb 3 in der Nacht :D&lt;/p&gt;
     
       
       <item>
-        <title>Ein, nein zwei Pakete</title>
+      	
+          <title>Ein, nein zwei Pakete</title>
+        
         <link>/posts/2017_06_20/</link>
         <pubDate>Tue, 20 Jun 2017 22:22:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6895,7 +7259,9 @@ Freizeit halte und an welche Orte in Japan ich reisen will&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Heute war ich produktiv</title>
+      	
+          <title>Heute war ich produktiv</title>
+        
         <link>/posts/2017_06_19/</link>
         <pubDate>Mon, 19 Jun 2017 11:46:10 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6929,7 +7295,9 @@ Salat geholt bevor ich ins Wohnheim zurückgefahren bin.&lt;/p&gt;
     
       
       <item>
-        <title>Botanischer Garten</title>
+      	
+          <title>Botanischer Garten</title>
+        
         <link>/posts/2017_06_18_botanical_garden/</link>
         <pubDate>Sun, 18 Jun 2017 20:05:57 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -6968,13 +7336,16 @@ funktioniert.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_06_18/IMG_3820.jpg&#34; alt=&#34;Biene&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In den Blumen vor den Gewächshäusern habe ich dann auch noch eine echte Biene
 entdeckt. Vor der muss ich mich zum Glück nicht in Acht nehmen :D&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Bewertungsgremium</title>
+      	
+          <title>Bewertungsgremium</title>
+        
         <link>/posts/2017_06_16/</link>
         <pubDate>Fri, 16 Jun 2017 20:02:04 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7009,7 +7380,9 @@ endlich in den Griff.&lt;/p&gt;
     
       
       <item>
-        <title>Zeitmanagement? 0!</title>
+      	
+          <title>Zeitmanagement? 0!</title>
+        
         <link>/posts/2017_06_15/</link>
         <pubDate>Thu, 15 Jun 2017 23:47:05 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7037,7 +7410,9 @@ für die nächste Debatte in zwei Wochen. Und dann ist Wochenende :)&lt;/p&gt;
     
       
       <item>
-        <title>Eigentlich studiere ich Kunst ...</title>
+      	
+          <title>Eigentlich studiere ich Kunst ...</title>
+        
         <link>/posts/2017_06_14/</link>
         <pubDate>Wed, 14 Jun 2017 19:29:55 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7054,9 +7429,10 @@ Gebiet von Ferrofluiden. Ein Ferrofluid ist eine Flüssigkeit (häufig Öl) die 
 Metallpartikel von wenigen Nanometern Größe vermischt ist. Setzt man diese
 Flüssigkeit einem Magnetfeld aus, arrangieren sich die Partikel in der
 Flüssigkeit entlang der Magnetfeldlinien.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/cFa9SVsxfug?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/cFa9SVsxfug&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Wer noch mehr Videos von Ferrofluid sehen will, kann sich den &lt;a href=&#34;https://www.youtube.com/channel/UCkJhKJbEF8uyYLRFkS4s-9g/videos&#34;&gt;Youtube Kanal&lt;/a&gt;
 von Frau Kodama ansehen.&lt;/p&gt;
@@ -7069,13 +7445,16 @@ bleibt abzuwarten ;D&lt;/p&gt;
 für Morgen früh zu machen und diesen Eintrag hier zu schreiben. Wenn ich das zu
 Hause mache trödle ich immer so lange rum, dass es dann schon Mitternacht ist,
 bis ich endlich damit fertig bin ;)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Durchwachsen</title>
+      	
+          <title>Durchwachsen</title>
+        
         <link>/posts/2017_06_13/</link>
         <pubDate>Tue, 13 Jun 2017 09:58:28 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7098,7 +7477,9 @@ Zeit nach Hause zu gehen.&lt;/p&gt;
     
       
       <item>
-        <title>Nachtrag</title>
+      	
+          <title>Nachtrag</title>
+        
         <link>/posts/2017_06_13_nachtrag/</link>
         <pubDate>Tue, 13 Jun 2017 09:58:23 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7123,7 +7504,9 @@ ich wieder zu Hause gewesen bin und mein Akku fast leer war.&lt;/p&gt;
     
       
       <item>
-        <title>Ladekabel vergessen</title>
+      	
+          <title>Ladekabel vergessen</title>
+        
         <link>/posts/2017_06_12/</link>
         <pubDate>Mon, 12 Jun 2017 22:31:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7138,7 +7521,9 @@ Den Eintrag werde ich dann Morgen nachholen ;D&lt;/p&gt;
     
       
       <item>
-        <title>Uni-Projekt</title>
+      	
+          <title>Uni-Projekt</title>
+        
         <link>/posts/2017_06_11/</link>
         <pubDate>Sun, 11 Jun 2017 22:06:09 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7149,9 +7534,10 @@ ging Abendessen zu holen. Was hab ich dazwischen gemacht? Musik gehört und an
 einer Videodemonstration für das Projekt mit Yuta und Minatsu gebastelt.
 Das Spiel, welches wir uns für den großen Projektionsraum an der Uni ausdenken,
 wird wohl so ähnlich aussehen.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PBDi7jh5AQM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/PBDi7jh5AQM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Das Besondere ist die Steuerung. Es gibt zwei Teams mit je 2 Spielern. Die
 Spieler eines Teams steuern das Raumschiff gemeinsam, durch ihre Bewegung am
@@ -7167,13 +7553,16 @@ nächste Woche auf den neuesten Stand gebracht.&lt;/p&gt;
 mal dort. Außerdem stehe ich in Kontakt mit Jörg, meinem Betreuer von der
 Masterarbeit, um Details für eine Zusammenarbeit in meinem alten Thema
 auszuhandeln.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Tsukuba Expo Center</title>
+      	
+          <title>Tsukuba Expo Center</title>
+        
         <link>/posts/2017_06_10/</link>
         <pubDate>Sat, 10 Jun 2017 22:49:01 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7222,7 +7611,9 @@ wieder nach Hause.&lt;/p&gt;
     
       
       <item>
-        <title>Trockene Regenzeit und Vorbereitungen für Forschung</title>
+      	
+          <title>Trockene Regenzeit und Vorbereitungen für Forschung</title>
+        
         <link>/posts/2017_06_09/</link>
         <pubDate>Fri, 09 Jun 2017 15:30:31 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7260,7 +7651,9 @@ gegen 23 Uhr zu Abend gegessen :D&lt;/p&gt;
     
       
       <item>
-        <title>Kundenorientierte Empfehlungen und mehr Weltraumkunst</title>
+      	
+          <title>Kundenorientierte Empfehlungen und mehr Weltraumkunst</title>
+        
         <link>/posts/2017_06_08/</link>
         <pubDate>Thu, 08 Jun 2017 22:56:41 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7303,7 +7696,9 @@ werden&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Aufgaben fast alle abgearbeitet</title>
+      	
+          <title>Aufgaben fast alle abgearbeitet</title>
+        
         <link>/posts/2017_06_07/</link>
         <pubDate>Wed, 07 Jun 2017 21:54:05 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7339,7 +7734,9 @@ Gras noch einen halben Meter hoch. Abends war alles Gras ums Haus abgemäht :D&l
     
       
       <item>
-        <title>Rauchende Köpfe</title>
+      	
+          <title>Rauchende Köpfe</title>
+        
         <link>/posts/2017_06_06/</link>
         <pubDate>Tue, 06 Jun 2017 23:40:59 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7388,7 +7785,9 @@ von Robotern :) Mehr dazu vielleicht in 2 Wochen&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Labor Rotation 1/2</title>
+      	
+          <title>Labor Rotation 1/2</title>
+        
         <link>/posts/2017_06_05/</link>
         <pubDate>Mon, 05 Jun 2017 13:45:15 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7431,7 +7830,9 @@ Themengebiet werden könnte. Mal sehen was der Chef sagt ^.^&lt;/p&gt;
     
       
       <item>
-        <title>Doppel-Nachtschicht</title>
+      	
+          <title>Doppel-Nachtschicht</title>
+        
         <link>/posts/2017_06_04/</link>
         <pubDate>Sun, 04 Jun 2017 23:29:28 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7464,7 +7865,9 @@ Wochenende hoffentlich wieder&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Neuer alter Computer</title>
+      	
+          <title>Neuer alter Computer</title>
+        
         <link>/posts/2017_06_02/</link>
         <pubDate>Fri, 02 Jun 2017 23:32:29 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7515,7 +7918,9 @@ dann ins Bett gehen. Ist schon wieder so spääät.&lt;/p&gt;
     
       
       <item>
-        <title>Effizienz über alles</title>
+      	
+          <title>Effizienz über alles</title>
+        
         <link>/posts/2017_06_01/</link>
         <pubDate>Thu, 01 Jun 2017 22:06:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7559,13 +7964,16 @@ ersten Blick nicht mit anderen Deadlines.&lt;/p&gt;
 &lt;p&gt;Morgen Früh ist wieder maschinelles Lernen angesagt. Eigentlich hab ich nicht so
 sehr Lust drauf und ich brauch die Punkte ja auch nicht, aber ich sollte schon
 gehen. Künstliche Intelligenz erschafft sich nicht von selbst. Zum Glück ;D&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Interessante Vorträge und PC Probleme die es nicht geben dürfte</title>
+      	
+          <title>Interessante Vorträge und PC Probleme die es nicht geben dürfte</title>
+        
         <link>/posts/2017_05_31/</link>
         <pubDate>Wed, 31 May 2017 21:39:25 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7609,7 +8017,9 @@ Mensa auch lohnt. Mal sehen wie das ankommt&amp;hellip; :)&lt;/p&gt;
     
       
       <item>
-        <title>The Kings Speech</title>
+      	
+          <title>The Kings Speech</title>
+        
         <link>/posts/2017_05_30/</link>
         <pubDate>Tue, 30 May 2017 22:25:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7647,17 +8057,21 @@ ging um &lt;a href=&#34;https://de.wikipedia.org/wiki/Dyslexie&#34;&gt;Dyslexie&
 Film über den stotternden George VI ist sehr zu empfehlen. Ich kannte ihn zum
 Glück schon, allerdings frage ich mich jetzt, was die Dozentin im Report
 erwartet. Naja, ich hab ja eine Woche Zeit, um das herauszufinden &amp;hellip;&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/11gNc3xHM4k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/11gNc3xHM4k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Eine neue Woche beginnt...</title>
+      	
+          <title>Eine neue Woche beginnt...</title>
+        
         <link>/posts/2017_05_29/</link>
         <pubDate>Mon, 29 May 2017 21:58:57 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7693,13 +8107,16 @@ ein mögliches Mittel gegen &lt;a href=&#34;http://www.deutschlandfunk.de/alzhei
 &lt;p&gt;Nach der Vorlesung bin ich mit Floris, Karlos und Chun Kwang in Ali&amp;rsquo;s Kebab Haus
 zum Abendessen gewesen. Es gab Döner im Angebot, aber ich habe mir für indischen
 Reis und Naan Brot entschieden. Döner kann ich mir wann anders auch noch essen.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Nachteule</title>
+      	
+          <title>Nachteule</title>
+        
         <link>/posts/2017_05_28/</link>
         <pubDate>Sun, 28 May 2017 20:51:07 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7734,7 +8151,9 @@ die Nase wehen lassen, bevor ich zurück zum Wohnheim gefahren bin.&lt;/p&gt;
     
       
       <item>
-        <title>Fauler Samstag und Einkaufen</title>
+      	
+          <title>Fauler Samstag und Einkaufen</title>
+        
         <link>/posts/2017_05_27/</link>
         <pubDate>Sat, 27 May 2017 00:35:01 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7777,7 +8196,9 @@ Baumarkt hier so im Angebot hat.&lt;/p&gt;
     
       
       <item>
-        <title>Kleine Probleme, Gewohnheiten und Skype</title>
+      	
+          <title>Kleine Probleme, Gewohnheiten und Skype</title>
+        
         <link>/posts/2017_05_26/</link>
         <pubDate>Fri, 26 May 2017 00:36:35 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7811,7 +8232,9 @@ einfach mal Ausschau nach Zutaten und Backformen&amp;hellip;&lt;/p&gt;
     
       
       <item>
-        <title>Sensornetzwerke und Debattieren</title>
+      	
+          <title>Sensornetzwerke und Debattieren</title>
+        
         <link>/posts/2017_05_25/</link>
         <pubDate>Thu, 25 May 2017 00:11:35 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7863,13 +8286,16 @@ Ausflug vorgenommen, da ich demnächst ein paar kleinere Vorträge halten muss,
 die ich gerne schon vorbereiten möchte. Vielleicht gehe ich an einem Tag ins
 Tsukuba Expo Zentrum, um mir eine Ausstellung anzusehen. Werde ich etwas davon
 abhängig machen, wie weit ich mit den Vorträgen komme.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Arbeitspensum steigt langsam</title>
+      	
+          <title>Arbeitspensum steigt langsam</title>
+        
         <link>/posts/2017_05_24/</link>
         <pubDate>Wed, 24 May 2017 00:51:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7891,9 +8317,10 @@ so aus als ob man angeschaut wird. Durch Eye Tracking (das verfolgen der
 Blickrichtung der Augen) können zusätzliche Daten übermittelt werden die in Form
 eines Auges auf dem Bildschirm dargestellt werden. Ist etwas schwierig zu
 erklären. Am Besten einfach im Video anschauen ;)&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zp4oxv7NhLA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/zp4oxv7NhLA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Im dritten Vortrag wurde uns von den Fortschritten und Problemen bei der
 Fertigstellung der Software zur Steuerung der Projektoren im Large Space
@@ -7908,13 +8335,16 @@ Mini-Vortrag zu unseren Forschungsthemen vorbereiten. Da kommt eine Dozentin aus
 Kyoto die unsere Ideen bewerten und uns Ratschläge dazu geben soll.&lt;/p&gt;
 &lt;p&gt;Jetzt muss ich wieder zum Ende kommen. Es ist wieder halb 1 und ich hab Morgen
 um 8:40 Uhr wieder Unterricht. Gute Nacht :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Mein erstes Erdbeben</title>
+      	
+          <title>Mein erstes Erdbeben</title>
+        
         <link>/posts/2017_05_23/</link>
         <pubDate>Tue, 23 May 2017 01:08:43 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -7960,7 +8390,9 @@ gekitzelt.&lt;/p&gt;
     
       
       <item>
-        <title>Mein neuer Backofen</title>
+      	
+          <title>Mein neuer Backofen</title>
+        
         <link>/posts/2017_05_22/</link>
         <pubDate>Mon, 22 May 2017 23:07:42 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8000,7 +8432,9 @@ aber alles etwas dauern.&lt;/p&gt;
     
       
       <item>
-        <title>Radtour und Wanderung zum Berg Hokyo</title>
+      	
+          <title>Radtour und Wanderung zum Berg Hokyo</title>
+        
         <link>/posts/2017_05_21_hyoko/</link>
         <pubDate>Sun, 21 May 2017 00:14:39 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8054,7 +8488,9 @@ spannendes zum Schreiben ;)&lt;/p&gt;
     
       
       <item>
-        <title>Arbeiten, Reiskocher einweihen und Spieleabend</title>
+      	
+          <title>Arbeiten, Reiskocher einweihen und Spieleabend</title>
+        
         <link>/posts/2017_05_20_cook_work/</link>
         <pubDate>Sat, 20 May 2017 14:47:45 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8088,13 +8524,16 @@ ausspielen. Der Clou ist jedoch, dass man die Karten seiner Mitspieler sehen
 kann, seine eigenen aber nicht kennt. Sehr empfehlenswertes Spiel :)&lt;/p&gt;
 &lt;p&gt;Morgen unernehme ich eine kleine Radtour zum &amp;ldquo;Berg&amp;rdquo; Hyoko. Mal sehen was ich auf
 meinem Weg und dem Gipfel so alles sehe :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Heuschnupfen und wichtige Anschaffungen</title>
+      	
+          <title>Heuschnupfen und wichtige Anschaffungen</title>
+        
         <link>/posts/2017_05_19_hayfever/</link>
         <pubDate>Fri, 19 May 2017 23:35:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8137,7 +8576,9 @@ ja auch an den Rückweg denken.&lt;/p&gt;
     
       
       <item>
-        <title>Arbeit</title>
+      	
+          <title>Arbeit</title>
+        
         <link>/posts/2017_05_18_work/</link>
         <pubDate>Thu, 18 May 2017 14:45:00 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8166,13 +8607,16 @@ fahren im Dunkeln besser zu sehen bin. Außerdem wollte ich ausprobieren, ob ich
 tatsächlich Post an meine Adresse bekomme. Scheint zu funktionieren. Jetzt kann
 ich endlich meinen Ofen bestellen :)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_18/led.jpg&#34; alt=&#34;LED Armbänder&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Nichts spannendes</title>
+      	
+          <title>Nichts spannendes</title>
+        
         <link>/posts/2017_05_17_nothing/</link>
         <pubDate>Wed, 17 May 2017 23:24:36 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8202,7 +8646,9 @@ Leben zu erwecken. Was genau wird noch nicht verraten :P&lt;/p&gt;
     
       
       <item>
-        <title>Projekt</title>
+      	
+          <title>Projekt</title>
+        
         <link>/posts/2017_05_16_pbr/</link>
         <pubDate>Tue, 16 May 2017 21:42:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8237,13 +8683,16 @@ benötigten Teilen anfertigen, uns erkundigen wie der Bestellvorgang über die U
 läuft, sowie ein einfaches Beispiel der Spielmechanik und eine Designidee des
 tragbaren Geräts haben.&lt;/p&gt;
 &lt;p&gt;Ich bin schon gespannt, was wir aus der Idee machen werden :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title></title>
+      	
+          <title></title>
+        
         <link>/microposts/antiearthquakebuilt/</link>
         <pubDate>Mon, 15 May 2017 14:46:49 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8258,7 +8707,9 @@ Das kann dann zum Beispiel so aussehen:&lt;/p&gt;
     
       
       <item>
-        <title>Seminar Marathon</title>
+      	
+          <title>Seminar Marathon</title>
+        
         <link>/posts/2017_05_15_seminars/</link>
         <pubDate>Mon, 15 May 2017 13:40:20 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8311,13 +8762,16 @@ eine Hausaufgabe für den Diskussionskurs fertig machen.&lt;/p&gt;
 &lt;p&gt;Am Abend treffen wir uns um 19 Uhr zum Feiern der erfolgreich abgeschlossenen
 Projektarbeiten in einem Okonomiyaki Restaurant. Okonomiyaki lässt sich schlecht
 übersetzen, deswegen schicke ich euch für eine Erklärung besser zu &lt;a href=&#34;https://de.wikipedia.org/wiki/Okonomiyaki&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Fahrradtour</title>
+      	
+          <title>Fahrradtour</title>
+        
         <link>/posts/2017_05_14_biketour/</link>
         <pubDate>Sun, 14 May 2017 22:37:27 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8391,7 +8845,9 @@ bis halb 11, ehe ich auch ins Bett gehe.&lt;/p&gt;
     
       
       <item>
-        <title></title>
+      	
+          <title></title>
+        
         <link>/microposts/2017_05_13_dodgeball/</link>
         <pubDate>Sat, 13 May 2017 00:22:56 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8406,7 +8862,9 @@ raus. Aber wir hatten unseren Spaß und waren danach noch gemeinsam was Essen :D
     
       
       <item>
-        <title>Kühlschrank</title>
+      	
+          <title>Kühlschrank</title>
+        
         <link>/posts/2017_05_12_fridge/</link>
         <pubDate>Fri, 12 May 2017 09:22:41 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8459,7 +8917,9 @@ Völkerballspiel. In den Vorjahren scheint es nicht so gut gelaufen zu sein &amp
     
       
       <item>
-        <title>Richtig Debattieren</title>
+      	
+          <title>Richtig Debattieren</title>
+        
         <link>/posts/2017_05_11_diskussionsclub/</link>
         <pubDate>Thu, 11 May 2017 23:57:14 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8512,7 +8972,9 @@ Völkerball Turnier am Unisporttag kommendes Wochenende.&lt;/p&gt;
     
       
       <item>
-        <title></title>
+      	
+          <title></title>
+        
         <link>/microposts/2017_05_10_advertisments/</link>
         <pubDate>Wed, 10 May 2017 21:26:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8530,7 +8992,9 @@ verkehrsberuhigten Bereich in dem die Läden liegen.&lt;/p&gt;
     
       
       <item>
-        <title>Alltag</title>
+      	
+          <title>Alltag</title>
+        
         <link>/posts/2017_05_10_alltag/</link>
         <pubDate>Wed, 10 May 2017 19:31:38 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8551,7 +9015,9 @@ am Nachmittag. Die am Nachmittag soll 3 Stunden dauern. Na ich hoffe nicht &amp;
     
       
       <item>
-        <title>Training und japanisch-mexikanisches Abendessen</title>
+      	
+          <title>Training und japanisch-mexikanisches Abendessen</title>
+        
         <link>/posts/2017_05_09_practise/</link>
         <pubDate>Tue, 09 May 2017 20:24:17 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8603,7 +9069,9 @@ aus.&lt;/p&gt;
     
       
       <item>
-        <title>Gruppenrunde und Laboraustausch</title>
+      	
+          <title>Gruppenrunde und Laboraustausch</title>
+        
         <link>/posts/2017_05_08_/</link>
         <pubDate>Mon, 08 May 2017 08:46:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8668,7 +9136,9 @@ erledigen.&lt;/p&gt;
     
       
       <item>
-        <title>Open Lab</title>
+      	
+          <title>Open Lab</title>
+        
         <link>/posts/2017_05_07_openstudio/</link>
         <pubDate>Sun, 07 May 2017 23:14:34 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8703,9 +9173,10 @@ einstellen und beschleunigt wird mit einer Fernbediehung in Form eines Armreifs.
 Durch die Konstruktion kann nahezu jeder das Gerät benutzen, egal ob mit dem
 Skateboard, Rollschuhen, einem einfachen Rollbrett oder einem Rollstuhl. Ich
 hatte auch meinen Spaß beim Ausprobieren mit dem Rollbrett :)&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hIxlJVoeUh0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hIxlJVoeUh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Ich bin übrigens nicht bis um 4 Uhr geblieben. Zum Mittagessen bin ich zu einem
 Bentoshop gelaufen und danach mit dem Essen zurück ins Wohnheim. Dort hab ich
@@ -8721,7 +9192,9 @@ ich hier bestimmt darüber. Aber jetzt muss ich dringend ins Bett. Es ist gleich
     
       
       <item>
-        <title>Akihabara</title>
+      	
+          <title>Akihabara</title>
+        
         <link>/posts/2017_05_06_akihabara/</link>
         <pubDate>Sat, 06 May 2017 16:10:20 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8778,7 +9251,9 @@ verteilen kann.&lt;/p&gt;
     
       
       <item>
-        <title>Tokyo</title>
+      	
+          <title>Tokyo</title>
+        
         <link>/posts/2017_05_05_tokyo/</link>
         <pubDate>Fri, 05 May 2017 16:10:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8834,15 +9309,17 @@ Hochhauses (in jedem Stockwerk ist ein anderes Restaurant) bekommen wir den
 einzigen Fensterplatz und ruhen uns bei Ingwerschorle und Curry aus.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_05/india.jpg&#34; alt=&#34;Indisches Restaurant&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Es ist sehr interessant dem Treiben auf der Kreuzung zuzusehen.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JLsle0CuC4c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JLsle0CuC4c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Allerdings ist auf der bekanntesten Kreuzung vor der Haltestelle Shibuya
 noch etwas mehr los.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XpmaJynaovE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/XpmaJynaovE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Es ist inzwischen 18 Uhr und wir machen uns auf den Weg zurück nach Shinjuku.
 Dort liegt ein Kneipenviertel das uns von dem Finnen Daniel in Erlangen beim
@@ -8866,7 +9343,9 @@ Mittags in Tokyo bleiben, damit sich die Fahrt auch wirklich gelohnt hat.&lt;/p&
     
       
       <item>
-        <title>Mein neues Fahrrad</title>
+      	
+          <title>Mein neues Fahrrad</title>
+        
         <link>/posts/2017_05_04_bike/</link>
         <pubDate>Thu, 04 May 2017 13:21:32 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8898,7 +9377,9 @@ der Großstadt. Die nächsten 2 Einträge kommen dementsprechend später ;)&lt;/
     
       
       <item>
-        <title>Arbeiten am Feiertag</title>
+      	
+          <title>Arbeiten am Feiertag</title>
+        
         <link>/posts/2017_05_03_work/</link>
         <pubDate>Wed, 03 May 2017 13:21:29 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8941,7 +9422,9 @@ arbeiten.&lt;/p&gt;
     
       
       <item>
-        <title>Sushi</title>
+      	
+          <title>Sushi</title>
+        
         <link>/posts/2017_05_02_ayako_jap/</link>
         <pubDate>Tue, 02 May 2017 00:08:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -8983,13 +9466,16 @@ Ich entschuldige mich kurz und helfe ihr beim Kerzen anzünden. Beim reinkommen
 singen wir Happy Birthday. Wir essen gemeinsam den Kuchen und schauen
 &lt;a href=&#34;https://de.wikipedia.org/wiki/Breaking_Bad&#34;&gt;Breaking Bad&lt;/a&gt; bis kurz nach 10. Dann gehen alle Schlafen.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_05_02/chun.jpg&#34; alt=&#34;Geburtstagskind&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Goldene Woche</title>
+      	
+          <title>Goldene Woche</title>
+        
         <link>/posts/2017_05_01_labrotation_ps4/</link>
         <pubDate>Mon, 01 May 2017 23:01:54 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9028,13 +9514,16 @@ aus. Sitzt gut und macht echt Spaß. Hat aber im direkten Vergleich mit der
 Oculus Rift ein kleineres Display, was dem eigentlichen Ziel der Immersion eher
 entgegen wirkt. Aber ich sollte mich nicht beschweren, da ich das Ding umsonst
 benutzen darf und mir keine teuere Konsole und das Zubehör kaufen muss :P&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Takoyaki</title>
+      	
+          <title>Takoyaki</title>
+        
         <link>/posts/2017_04_30_takoyaki/</link>
         <pubDate>Sun, 30 Apr 2017 20:22:27 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9066,7 +9555,9 @@ drauf. Wir haben insgesmat zirka 60 Bällchen verdrückt. War sehr lecker :)&lt;
     
       
       <item>
-        <title>Wochenende</title>
+      	
+          <title>Wochenende</title>
+        
         <link>/posts/2017_04_29_/</link>
         <pubDate>Sat, 29 Apr 2017 00:52:05 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9096,13 +9587,16 @@ zum Wohnheim halten wir bei einem weiteren Supermarkt um Zutaten für &lt;a href
 zu kaufen. Takoyaki sind kleine Bällchen mit Oktopus. Minatsu hat das richtige
 Gerät, um die Bällchen zu machen. Das ist der Plan für morgen Mittag. Wir machen
 zu dritt im Gemeinschaftsraum Takoyaki.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Masterarbeit Revision und Reste-Party</title>
+      	
+          <title>Masterarbeit Revision und Reste-Party</title>
+        
         <link>/posts/2017_04_28_jap_party/</link>
         <pubDate>Fri, 28 Apr 2017 08:07:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9145,7 +9639,9 @@ gehört und uns unterhalten. War ein schöner Abend.&lt;/p&gt;
     
       
       <item>
-        <title>Seekrank, ganz ohne Boot</title>
+      	
+          <title>Seekrank, ganz ohne Boot</title>
+        
         <link>/posts/2017_04_27_class/</link>
         <pubDate>Thu, 27 Apr 2017 22:18:51 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9175,9 +9671,10 @@ nach dem Mittagessen. Das heißt morgen geht es direkt los.&lt;/p&gt;
 Kunstunterricht. Der Dozent hat wieder Bilder und Videos von 2 Künstlern dabei
 und lässt uns kreativ den Sinn und Zweck der Arbeiten erraten. Das Video zeigt
 eine der Arbeiten im BMW Museum München.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/HVhVClFMg6Y?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HVhVClFMg6Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Das war die letzte Unterrichtsstunde für heute. Ich gehe noch etwas ins Labor,
 um auszuprobieren, ob ich das Experiment aus meiner Masterarbeit noch zum laufen
@@ -9190,7 +9687,9 @@ ich noch die Videobrille ausprobieren kann. Danach muss ich morgen mal suchen&am
     
       
       <item>
-        <title>Large Space</title>
+      	
+          <title>Large Space</title>
+        
         <link>/posts/2017_04_26_largespace/</link>
         <pubDate>Wed, 26 Apr 2017 07:35:55 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9234,7 +9733,9 @@ hier natürlich zeigen ;)&lt;/p&gt;
     
       
       <item>
-        <title>Besprechung mit meinem Chef</title>
+      	
+          <title>Besprechung mit meinem Chef</title>
+        
         <link>/posts/2017_04_25_reasearchmeeting/</link>
         <pubDate>Tue, 25 Apr 2017 13:37:27 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9291,7 +9792,9 @@ Lernen.&lt;/p&gt;
     
       
       <item>
-        <title>Etwas Geschichte und Förderungsantrag</title>
+      	
+          <title>Etwas Geschichte und Förderungsantrag</title>
+        
         <link>/posts/2017_04_24_basicgrant/</link>
         <pubDate>Mon, 24 Apr 2017 13:37:16 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9301,9 +9804,10 @@ Eingabegeräten für den Computer. Maus, Tastatur, verschieden Touchscreens,
 Joysticks und einige ältere Sachen von denen ich noch nichts gehört hatte, wie
 zum Beispiel dem &lt;a href=&#34;https://de.wikipedia.org/wiki/Lichtgriffel&#34;&gt;Lichtgriffel&lt;/a&gt;, mit dem man schon 1960 Eingaben direkt auf dem
 Bildschirm machen konnte. Lange vor den ersten Touchscreens.&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yJDv-zdhzMY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yJDv-zdhzMY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Der Herr in dem Video ist Douglas C. Engelbart. Bei einer Präsentation 1968
 zeigte er bereits Technik die erst viel später von den Verbrauchern genutzt
@@ -9325,13 +9829,16 @@ vorgewarnt, dass ich Budget für Bahnfahrten nach Tokio einplanen soll.
 Ich schicke den fertigen Antrag an den Programmleiter Professor Iwata. Ein paar
 Minuten später kommt die Antwort. OK. Wahrscheinlich hat er es nicht gelesen.
 Ist denke ich aber auch nur für die Verwaltung und als Nachweis gedacht.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Wochenende</title>
+      	
+          <title>Wochenende</title>
+        
         <link>/posts/2017_04_23_weekend/</link>
         <pubDate>Sun, 23 Apr 2017 19:57:21 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9358,7 +9865,9 @@ Unterschreibe vorbereiten, weil ich meinen Betreuer am Dienstag sehe.&lt;/p&gt;
     
       
       <item>
-        <title>Butterbrot und Bier</title>
+      	
+          <title>Butterbrot und Bier</title>
+        
         <link>/posts/2017_04_21_bread-and-beer/</link>
         <pubDate>Fri, 21 Apr 2017 20:46:38 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9411,7 +9920,9 @@ es wirklich Zeit für ein Fahrrad.&lt;/p&gt;
     
       
       <item>
-        <title>Nur für Frauen</title>
+      	
+          <title>Nur für Frauen</title>
+        
         <link>/microposts/2017_04_21_womanonly/</link>
         <pubDate>Fri, 21 Apr 2017 12:40:19 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9426,7 +9937,9 @@ Personen und deren Begleitern vorbehalten.&lt;/p&gt;
     
       
       <item>
-        <title>Alltag</title>
+      	
+          <title>Alltag</title>
+        
         <link>/posts/2017_04_20_everydaylife/</link>
         <pubDate>Thu, 20 Apr 2017 00:46:32 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9467,9 +9980,10 @@ das uns der Dozent zeigt. Wir bekommen ein großes Blatt Papier und Stifte und
 sollen bildlich überlegen was das Gerät tut. Yuta kommt zufällig auf die
 Funktion der Uhr. Es ist ein Kunstwerk das im laufe eines Jahres einen 2 Meter
 langen Schaal strickt. Verrückt :)&lt;/p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vpl-Pj6sWmI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/vpl-Pj6sWmI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Um kurz vor 5 werden wir zu einer kurzen Vorbesprechung für einen weiteren Kurs
 gerufen. Wir sollen Diskutieren lernen. Dazu kommt alle 2 Wochen extra ein
@@ -9492,7 +10006,9 @@ Gruppentreffen.&lt;/p&gt;
     
       
       <item>
-        <title>Gesundheitsuntersuchung und Japanischtest</title>
+      	
+          <title>Gesundheitsuntersuchung und Japanischtest</title>
+        
         <link>/posts/2017_04_19_healthcheck/</link>
         <pubDate>Wed, 19 Apr 2017 22:26:19 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9531,7 +10047,9 @@ Unterrichtsstunden vom Sprachkurs am Besten in meinen Stundenplan passen.&lt;/p&
     
       
       <item>
-        <title>Brainstorming</title>
+      	
+          <title>Brainstorming</title>
+        
         <link>/posts/2017_04_18_brainstorming/</link>
         <pubDate>Tue, 18 Apr 2017 23:09:14 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9570,13 +10088,16 @@ lassen.&lt;/p&gt;
 &lt;p&gt;Ich nehme den Bus zurück zum Wohnheim und hole mir noch ein Onigiri (ein
 Reisbällchen, häufig auch dreieckig, mit verschiedenen Füllungen). Danach hüpfe
 ich ins Bett, weil ich super müde bin.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Zukunftsvisionen und Exoskelett</title>
+      	
+          <title>Zukunftsvisionen und Exoskelett</title>
+        
         <link>/posts/2017_04_17_classes-cybathlon/</link>
         <pubDate>Mon, 17 Apr 2017 15:41:43 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9641,13 +10162,16 @@ zum Wohnheim laufen mussten. Wegen dem Wetter mussten wir etwas langsamer gehen
 und auf unsere Regenschirme aufpassen, daher dauert es etwas länger bis wir
 zurück im Wohnheim waren. Kurz vor 1 Uhr war ich endlich im Bett.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/2017_04_17/heavyrain.jpg&#34; alt=&#34;Regen&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Fauler Sonntag</title>
+      	
+          <title>Fauler Sonntag</title>
+        
         <link>/posts/2017_04_16_easy-sunday/</link>
         <pubDate>Sun, 16 Apr 2017 20:20:16 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9671,13 +10195,16 @@ darf, dann könnte ich einen Abstecher nach Deutschland machen :)&lt;/p&gt;
 Gleich am Montag Abend ist eine Veranstaltung der Schweizer Botschaft zu einer
 Olympiade für Menschen mit High-Tech-Prothesen. Bin schon gespannt, was wir da
 zu sehen bekommen.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Hanami Party</title>
+      	
+          <title>Hanami Party</title>
+        
         <link>/posts/2017_04_15_hanami/</link>
         <pubDate>Sat, 15 Apr 2017 22:07:25 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9707,13 +10234,16 @@ ich bis zum Abendessen im Gemeinschaftsraum und schaue die Serie Touch, in der
 es um einen Vater und seinen autistisch veranlagten Sohn geht, der nur in Zahlen
 mit ihm kommuniziert. Wen es interessiert der kann sich ja mal die &lt;a href=&#34;https://www.youtube.com/watch?v=5QodN8RCvjI&#34;&gt;Vorschau&lt;/a&gt;
 ansehen.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Vorstellungsvortrag und endlich Wäsche waschen</title>
+      	
+          <title>Vorstellungsvortrag und endlich Wäsche waschen</title>
+        
         <link>/posts/2017_04_14_intro-shopping/</link>
         <pubDate>Fri, 14 Apr 2017 22:49:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9752,7 +10282,9 @@ erstmal meine Ruhe.&lt;/p&gt;
     
       
       <item>
-        <title>Noch mehr Vorlesungen</title>
+      	
+          <title>Noch mehr Vorlesungen</title>
+        
         <link>/posts/2017_04_13_more-courses/</link>
         <pubDate>Thu, 13 Apr 2017 07:57:26 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9804,7 +10336,9 @@ zu lassen wie ich es mir vorgestellt habe.&lt;/p&gt;
     
       
       <item>
-        <title>Die ersten Kurse - immernoch Orientierung</title>
+      	
+          <title>Die ersten Kurse - immernoch Orientierung</title>
+        
         <link>/posts/2017_04_12_courseorientation/</link>
         <pubDate>Wed, 12 Apr 2017 20:18:13 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9860,7 +10394,9 @@ gammeln :D&lt;/p&gt;
     
       
       <item>
-        <title>Das sollte der letzte freie Tag sein...</title>
+      	
+          <title>Das sollte der letzte freie Tag sein...</title>
+        
         <link>/posts/2017_04_11_lastfreeday/</link>
         <pubDate>Tue, 11 Apr 2017 07:12:47 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9896,7 +10432,9 @@ los geht.&lt;/p&gt;
     
       
       <item>
-        <title>Finanzielle Unterstützung und die Willkommens-Party</title>
+      	
+          <title>Finanzielle Unterstützung und die Willkommens-Party</title>
+        
         <link>/posts/2017_04_10_welcomeparty/</link>
         <pubDate>Mon, 10 Apr 2017 00:43:36 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9938,7 +10476,9 @@ Kabel und Kleinkram aufzubewahren.&lt;/p&gt;
     
       
       <item>
-        <title>Japanische Handynummer und IKEA</title>
+      	
+          <title>Japanische Handynummer und IKEA</title>
+        
         <link>/posts/2017_04_09_tokio-handyvertrag-shopping/</link>
         <pubDate>Sun, 09 Apr 2017 19:53:33 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -9994,7 +10534,9 @@ Dusche und eine Schmerztablette und lege mich schlafen.&lt;/p&gt;
     
       
       <item>
-        <title>toilet</title>
+      	
+          <title>toilet</title>
+        
         <link>/microposts/2017-04-08_toilet/</link>
         <pubDate>Sat, 08 Apr 2017 22:35:36 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10008,7 +10550,9 @@ Die Sitzheizung war besonders angenehm ;)&lt;/p&gt;
     
       
       <item>
-        <title>Workshop in Toyohashi</title>
+      	
+          <title>Workshop in Toyohashi</title>
+        
         <link>/posts/2017_04_08_toyohashiworkshop/</link>
         <pubDate>Sat, 08 Apr 2017 19:53:03 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10051,13 +10595,16 @@ Ganze schlagartig auf und wie fahren mit dem Bus zu einem Hotel in dem die
 Universität Zimmer für uns reserviert hat. Nachdem ich bei dem Buffet schon
 ordentlich zugelangt habe, bin ich direkt ins Bett. Einen kurzen Rundumblick vom
 Hotelzimmer gibt es &lt;a href=&#34;https://www.flickr.com/photos/felixdollack/albums/72157682336384396&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Fachbereichsorientierung und Einführungszeremonie</title>
+      	
+          <title>Fachbereichsorientierung und Einführungszeremonie</title>
+        
         <link>/posts/2017_04_07_orientation-entrance/</link>
         <pubDate>Fri, 07 Apr 2017 08:04:29 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10110,7 +10657,9 @@ Workshop, bevor ich ins Bett gehe. Denn morgen geht es früh los.&lt;/p&gt;
     
       
       <item>
-        <title>Einführung der neuen Mitglieder in die Arbeitsgruppe</title>
+      	
+          <title>Einführung der neuen Mitglieder in die Arbeitsgruppe</title>
+        
         <link>/posts/2017_04_06_first-seminar/</link>
         <pubDate>Thu, 06 Apr 2017 21:58:58 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10169,13 +10718,16 @@ IKEA holen. Da weiß ich wenigstens was es gibt und fahre nicht einfach nur hin,
 um dann festzustellen, dass der Laden das, was ich haben will, gar nicht im
 Sortiment hat. Auf Grund der Reise werden die nächsten Einträge etwas später
 kommen. Vielleicht Sonntag Nachmittag, wenn ich nicht zu erledigt bin.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Projekt Meeting und Einkaufstour</title>
+      	
+          <title>Projekt Meeting und Einkaufstour</title>
+        
         <link>/posts/2017_04_05-meeting_and_shopping/</link>
         <pubDate>Wed, 05 Apr 2017 21:35:22 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10228,7 +10780,9 @@ bekommen. Da werde ich auch meine Mitbringsel verteilen :)&lt;/p&gt;
     
       
       <item>
-        <title>Everything Is Cute</title>
+      	
+          <title>Everything Is Cute</title>
+        
         <link>/microposts/2017-04-04_everything-is-cute/</link>
         <pubDate>Tue, 04 Apr 2017 22:28:47 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10241,7 +10795,9 @@ bekommen. Da werde ich auch meine Mitbringsel verteilen :)&lt;/p&gt;
     
       
       <item>
-        <title>Ein Bankkonto eröffnen und ins Wohnheim umziehen</title>
+      	
+          <title>Ein Bankkonto eröffnen und ins Wohnheim umziehen</title>
+        
         <link>/posts/2017_04_04-moving/</link>
         <pubDate>Tue, 04 Apr 2017 19:51:28 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10303,13 +10859,16 @@ auch nicht lange und wir sitzen zu fünft vor einer großen Leinwand und spielen
 Super Mario Smash Brothers. Um kurz nach 10 gehen wir uns Bett, da jemand eine
 Email von unserem Supervisor bekommen hat, die uns zur Teilnahme an einer
 Besprechung am nächsten Morgen einlädt.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Montag und nicht viel zu tun</title>
+      	
+          <title>Montag und nicht viel zu tun</title>
+        
         <link>/posts/2017_04_03-break/</link>
         <pubDate>Mon, 03 Apr 2017 18:46:01 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10348,7 +10907,9 @@ lese vor dem Schlafen gehen noch etwas im Märchenbuch.&lt;/p&gt;
     
       
       <item>
-        <title>Sonntag</title>
+      	
+          <title>Sonntag</title>
+        
         <link>/posts/2017_04_02-first_sunday/</link>
         <pubDate>Sun, 02 Apr 2017 07:13:28 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10434,13 +10995,16 @@ das mich der Crepe nicht so viel gekostet hat. Naja egal. Sie kam noch mit zur
 Unterkunft, da Sie eigentlich einen Freund besuchen wollte, der ebenfalls dort
 wohnt. Ich ließ mir noch Ihre Email-Adresse geben, um Ihr die Fotos schicken zu
 können und verabschiedete mich um den Döner auf meinem Zimmer zu verdrücken :)&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>walk_motivation</title>
+      	
+          <title>walk_motivation</title>
+        
         <link>/microposts/walk_motivation/</link>
         <pubDate>Sat, 01 Apr 2017 23:08:12 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10454,7 +11018,9 @@ zum nächsten Bahnhof anzugeben.&lt;/p&gt;
     
       
       <item>
-        <title>japanese_toothpaste</title>
+      	
+          <title>japanese_toothpaste</title>
+        
         <link>/microposts/japanese_toothpaste/</link>
         <pubDate>Sat, 01 Apr 2017 20:02:42 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10469,7 +11035,9 @@ ihn später wieder drauf drücken.&lt;/p&gt;
     
       
       <item>
-        <title>Einkaufen und die Gegend Erkunden</title>
+      	
+          <title>Einkaufen und die Gegend Erkunden</title>
+        
         <link>/posts/2017_04_01-first_saturday/</link>
         <pubDate>Sat, 01 Apr 2017 11:29:50 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10552,7 +11120,9 @@ ich noch nicht.&lt;/p&gt;
     
       
       <item>
-        <title>Versicherung und Wohnort anmelden</title>
+      	
+          <title>Versicherung und Wohnort anmelden</title>
+        
         <link>/posts/2017_03_31-townhall/</link>
         <pubDate>Fri, 31 Mar 2017 11:18:11 +0900</pubDate>
         <author>Felix Dollack</author>
@@ -10634,13 +11204,16 @@ halt und ich nahm mir Wraps zum Frühstück mit.&lt;/p&gt;
 &lt;p&gt;Vor dem Schlafengehen setzte ich mich noch ins Foyer um meine E-Mails und
 Chat-Nachrichten zu beantworten. Leider ging es nicht länger als 10 Minuten,
 weil die Internetverbindung mehrfach unterbrach und ich dann zu müde wurde.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       </item>
       
     
       
       <item>
-        <title>Reise nach Tsukuba</title>
+      	
+          <title>Reise nach Tsukuba</title>
+        
         <link>/posts/2017_03_29-travel_to_japan/</link>
         <pubDate>Wed, 29 Mar 2017 12:53:30 +0200</pubDate>
         <author>Felix Dollack</author>
@@ -10658,6 +11231,8 @@ abfahrbereiten Zug. Ich verabschiede mich von Papa und meiner Schester und
 steige ein. 7:05 Uhr, der Zug rollt an. An weiterschlafen ist nicht zu denken.
 Bin zwar müde, aber viel zu aufgeregt.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/fra_nrt/zug.JPG&#34; alt=&#34;Zug nach Frankfurt&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;In Nürnberg umsteigen und dann 2,5 Stunden bis zum ersten Ziel. Wegen
 technischer Störungen und einem Zug der uns die Einfahrt in einen Bahnhof
 versperrt, komme ich mit leichter Verspätung (20 min) um kurz nach 10 Uhr in
