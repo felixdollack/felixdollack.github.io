@@ -2,9 +2,11 @@ languageCode = "en-us"
 baseURL = "/"
 title = "Felix in Japan"
 theme = "internet-weblog"
-Paginate = 10
 SectionPagesMenu = "main"
 #publishdir = "docs"
+
+[pagination]
+  pagerSize = 10
 
 [author]
 	Handle = "Felix"
