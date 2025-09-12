@@ -22,6 +22,7 @@ SectionPagesMenu = "main"
 	Description = "This is my blog, read it and enjoy."
 	ShowCopyright = true
 	RSSEnabled = true
+    EnablePreferredDarkAppearance = true
 	RSSSections = [ "Blog" ] #, "Microposts", "Photos" ]
 
 [taxonomies]
