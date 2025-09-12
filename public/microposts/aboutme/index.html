@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Felix Dollack">
+    <meta name="description" content="This is my blog, read it and enjoy.">
+
+     
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Online Lebenslauf">
+    
+    <meta property="og:url" content="/microposts/aboutme/">
+    <meta property="og:description" content="Endlich gibt es auf der &ldquo;About&rdquo;-Seite etwas zu lesen. Ich habe einen Online-Lebenslauf
+mit Fotos, wissenschaftlichen Veroeffentlichungen und Projekten gebastelt. Es gibt
+sogar einen Abschnitt in dem ich technische Blogeintraege schreiben kann ohne es
+mit meinem regularen Blog zu vermischen :)
+Schaut&rsquo;s euch an! Einfach auf &ldquo;About&rdquo; klicken oder hier.">
+    <meta property="og:site_name" content="Felix in Japan">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <meta name="generator" content="Hugo 0.147.8">
+    
+    <title> Felix in Japan</title>
+
+    <link rel="stylesheet" href="/css/joshin-color-palette.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/joshin-color-light.css" media="screen" charset="utf-8" />
+    
+    <link rel="stylesheet" href="/css/joshin-color-dark.css" media="screen" charset="utf-8" />
+    
+
+    <link rel="stylesheet" href="/css/weblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/lightbox2-2.11.4/css/lightbox.min.css" type="text/css" />
+    
+    
+
+
+    
+	  <link href="" rel="alternate" type="application/rss+xml" title="Felix in Japan" />
+	
+  </head>
+  <body class="site">
+
+<header>
+  <nav>
+    <h1><a href="/">Felix in Japan</h1>
+    <div class="menu">
+		
+			
+			<ul>
+				
+				<li>
+					<a href="/posts/">Blog</a>
+					
+						<a href="/posts/index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>
+					
+				</li>
+				
+				<li>
+					<a href="/microposts/">Mini&#39;s</a>
+					
+				</li>
+				
+				<li><a href="/aboutme">About</a></li>
+			</ul>
+		
+    </div>
+  </nav>
+</header>
+
+
+  <main class="content">
+   <article class="micropost">
+     <p>Endlich gibt es auf der &ldquo;About&rdquo;-Seite etwas zu lesen. Ich habe einen Online-Lebenslauf
+mit Fotos, wissenschaftlichen Veroeffentlichungen und Projekten gebastelt. Es gibt
+sogar einen Abschnitt in dem ich technische Blogeintraege schreiben kann ohne es
+mit meinem regularen Blog zu vermischen :)</p>
+<p>Schaut&rsquo;s euch an! Einfach auf &ldquo;About&rdquo; klicken oder <a href="https://felixdollack.github.io/aboutme">hier</a>.</p>
+
+     <a href='/microposts/aboutme/'><aside class="dates">→ 2019/04/10 12:44 AM</aside></a>
+   </article>
+  </main>
+
+<footer>
+  <div class="footer_text">
+      <div>
+        <h3>Hi, <a href="/aboutme">I'm Felix</a></h3>
+        <p>
+          Here you can place a short bio about yourself. Place a `bio.html` file in your
+project directory under `layout/partials`. That will override this message.
+
+        </p>
+      </div>
+      
+      <div>
+          <h3><a href="https://www.flickr.com/photos/149203503@N04/">Photo Stream</a></h3>
+          <div id="photos"></div>
+        </div>
+      </div>
+      
+  </div>
+
+  
+    <div class="footer_copyright">
+      &copy; 2025 <a href="/aboutme">Felix Dollack</a>
+       - Made in Tokyo, Japan
+    </div>
+  
+</footer>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="/lightbox2-2.11.4/js/lightbox.min.js" charset="utf-8"></script>
+    <script src="/js/weblog.js" charset="utf-8"></script>
+    
+
+    <script type="text/javascript">
+
+  
+  $(function() {
+    
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=149203503@N04&format=json&jsoncallback=?", function(data) {
+      iweblog.application.displayImages(data, 8);
+    });
+  });
+
+</script>
+
+    
+  </body>
+</html>
+
